@@ -61,7 +61,7 @@ Cambia al **Estimating Engine**. El banco de trabajo ejecuta automáticamente la
 
 ### 4. Construcción de una Base de Datos de Estimación Corporativa Reutilizable
 Tras presentar la licitación, no descartes el archivo. Tus nuevos mapeos y ensamblajes WBS (Work Breakdown Structure, estructura de desglose del trabajo) personalizados se guardan directamente en el **History Repository**. El sistema evoluciona con cada oferta, transformando hojas de cálculo de un solo uso en una **base de datos de estimación de construcción** permanente.
-*   👉 [*Descarga el Banco de Trabajo de Estimación en Excel para usarlo sin conexión*](https://gum.co/u/kt9yecmv)
+*   👉 [*Descarga el Banco de Trabajo de Estimación en Excel para usarlo sin conexión*](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
