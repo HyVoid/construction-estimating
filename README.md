@@ -60,7 +60,7 @@ Switch to the **Estimating Engine**. The workbench automatically executes the fo
 
 ### 4. Build a Reusable Corporate Estimating Database
 After tender submission, do not discard the file. Your new mappings and custom WBS (Work Breakdown Structure) assemblies are saved directly into the **History Repository**. The system evolves with every bid, transforming single-use spreadsheets into a permanent **construction estimating database**.
-*   👉 [*Download the Excel Estimating Workbench for Offline Use*](https://gum.co/u/kt9yecmv)
+*   👉 [*Download the Excel Estimating Workbench for Offline Use*](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
