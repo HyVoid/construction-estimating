@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Software de Estimación de Construcción y Constructor de Ensamblajes de Licitación
 
@@ -61,7 +61,7 @@ Cambia al **Estimating Engine**. El banco de trabajo ejecuta automáticamente la
 
 ### 4. Construcción de una Base de Datos de Estimación Corporativa Reutilizable
 Tras presentar la licitación, no descartes el archivo. Tus nuevos mapeos y ensamblajes WBS (Work Breakdown Structure, estructura de desglose del trabajo) personalizados se guardan directamente en el **History Repository**. El sistema evoluciona con cada oferta, transformando hojas de cálculo de un solo uso en una **base de datos de estimación de construcción** permanente.
-*   👉 [*Descarga el Banco de Trabajo de Estimación en Excel para usarlo sin conexión*](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+*   👉 [*Descarga el Banco de Trabajo de Estimación en Excel para usarlo sin conexión*](https://gum.co/u/kt9yecmv)
 
 ---
 
@@ -452,6 +452,7 @@ SWITCH()
 | Mapeo de Licitación | Debe resolverse a un ensamblaje | Cola de excepciones    |
 | Exportación a Procore | Se requiere WBS válido       | Exportación bloqueada     |
 
+</details>
 </details>
 
 ---
