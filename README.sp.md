@@ -14,14 +14,6 @@ Al convertir estimaciones históricas en activos corporativos reutilizables, est
 > 
 > 📥 **Plantilla de Excel** → [*Descargar el banco de trabajo*](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
 
-## ¿Quieres probarlo?
-
-Este proyecto está incluido en el Construction Toolkit.
-
-Prueba esta y otras herramientas ligeras de construcción gratis durante 30 días — incluyendo herramientas para estimación, licitaciones, costeo de obras y operaciones diarias.
-
-→ [Prueba el Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 # Qué Te Ayuda a Gestionar
