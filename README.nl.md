@@ -14,14 +14,6 @@ Door historische ramingen om te zetten in herbruikbare bedrijfsactiva, verkort d
 > 
 > 📥 **Excel Template** → [*Download Workbench*](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
 
-## Want to try it?
-
-Dit project maakt deel uit van de Construction Toolkit.
-
-Probeer deze en andere lichtgewicht bouwtools 30 dagen gratis — inclusief tools voor calculeren, inschrijven, jobkostenberekening en dagelijkse operaties.
-
-→ [Try the Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 # What It Helps You Track
