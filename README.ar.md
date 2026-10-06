@@ -13,14 +13,6 @@
 > 
 > 📥 **قالب إكسل** → [*تنزيل منصة العمل*](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
 
-## هل تريد تجربته؟
-
-هذا المشروع مضمّن ضمن حزمة Construction Toolkit.
-
-جرّب هذه الأداة وأدوات البناء الخفيفة الأخرى مجانًا لمدة 30 يومًا — بما في ذلك أدوات التقدير والعطاءات وتكاليف الأعمال والعمليات اليومية.
-
-→ [جرّب حزمة Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 # ما الذي يساعدك على تتبعه
