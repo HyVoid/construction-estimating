@@ -1,6 +1,7 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Bouwkundige calculatie-software & aanbestedingsassemblage-bouwer
+<img width="1425" height="790" alt="image" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
@@ -16,7 +17,7 @@ Door historische ramingen om te zetten in herbruikbare bedrijfsactiva, verkort d
 
 ---
 
-# What It Helps You Track
+## What It Helps You Track
 
 ## Overcoming Common Construction Estimating Challenges
 
@@ -57,7 +58,7 @@ Gooi het bestand na indiening van de inschrijving niet weg. Uw nieuwe mappings e
 
 ---
 
-# Who This Is For
+## Who This Is For
 
 Deze werkbank is ontworpen voor:
 
@@ -114,7 +115,7 @@ Submit Tender (with hidden commercial risks)
 ---
 
 
-# About
+## About
 
 Ik bouw lichtgewicht beslissingsondersteunende tools voor situaties waarin te veel variabelen spelen om betrouwbaar uit het hoofd te beheren.
 
@@ -126,7 +127,7 @@ De Construction Tender Assembly Builder & Estimating Workbench is één voorbeel
 
 ---
 
-# Technical Details
+## Technical Details
 
 <details>
 <summary>For technical reviewers, Excel practitioners, and collaborators</summary>
@@ -449,7 +450,7 @@ SWITCH()
 
 ---
 
-# Other Tools in This Series
+## Other Tools in This Series
 
 * **DTC Inventory Planning Workbench** — Assembly-style inventory planning and replenishment analysis.
 * **Marketing Budget Allocation Simulator** — Scenario-based media budget optimization.
@@ -460,7 +461,7 @@ Meer tools zijn beschikbaar via het GitHub-profiel en de release-repository.
 
 ---
 
-# License
+## License
 
 Dit project is gelicentieerd onder de **Apache License 2.0**.
 
