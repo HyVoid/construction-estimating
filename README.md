@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 # Construction Estimating Software & Tender Assembly Builder
 <img width="1425" height="790" alt="image" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
 
@@ -16,7 +16,7 @@ By turning historical estimates into reusable corporate assets, this constructio
 
 ---
 
-# What It Helps You Track
+## What It Helps You Track
 
 ## Overcoming Common Construction Estimating Challenges
 
@@ -57,7 +57,7 @@ After tender submission, do not discard the file. Your new mappings and custom W
 
 ---
 
-# Who This Is For
+## Who This Is For
 
 This workbench is designed for:
 
@@ -114,7 +114,7 @@ Submit Tender (with hidden commercial risks)
 ---
 
 
-# About
+## About
 
 I build lightweight decision-support tools for situations where there are too many moving parts to reliably manage in memory.
 
@@ -126,7 +126,7 @@ The Construction Tender Assembly Builder & Estimating Workbench is one example o
 
 ---
 
-# Technical Details
+## Technical Details
 
 <details>
 <summary>For technical reviewers, Excel practitioners, and collaborators</summary>
@@ -449,7 +449,7 @@ SWITCH()
 
 ---
 
-# Other Tools in This Series
+## Other Tools in This Series
 
 * **DTC Inventory Planning Workbench** — Assembly-style inventory planning and replenishment analysis.
 * **Marketing Budget Allocation Simulator** — Scenario-based media budget optimization.
@@ -460,7 +460,7 @@ More tools available through the GitHub profile and release repository.
 
 ---
 
-# License
+## License
 
 This project is licensed under the **Apache License 2.0**.
 
