@@ -1,6 +1,7 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Software de Estimación de Construcción y Constructor de Ensamblajes de Licitación
+<img width="1425" height="790" alt="image" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
@@ -16,7 +17,7 @@ Al convertir estimaciones históricas en activos corporativos reutilizables, est
 
 ---
 
-# Qué Te Ayuda a Gestionar
+## Qué Te Ayuda a Gestionar
 
 ## Cómo Superar los Desafíos Comunes de la Estimación de Construcción
 
@@ -57,7 +58,7 @@ Tras presentar la licitación, no descartes el archivo. Tus nuevos mapeos y ensa
 
 ---
 
-# Para Quién Es Esto
+## Para Quién Es Esto
 
 Este banco de trabajo está diseñado para:
 
@@ -113,7 +114,7 @@ Submit Tender (with hidden commercial risks)
 
 ---
 
-# Acerca de
+## Acerca de
 
 Construyo herramientas ligeras de apoyo a la decisión para situaciones donde hay demasiadas variables en movimiento como para gestionarlas de forma confiable en la memoria.
 
@@ -125,7 +126,7 @@ El Construction Tender Assembly Builder & Estimating Workbench es un ejemplo de 
 
 ---
 
-# Detalles Técnicos
+## Detalles Técnicos
 
 <details>
 <summary>Para revisores técnicos, usuarios de Excel y colaboradores</summary>
@@ -448,7 +449,7 @@ SWITCH()
 
 ---
 
-# Otras Herramientas de Esta Serie
+## Otras Herramientas de Esta Serie
 
 * **DTC Inventory Planning Workbench** — Planificación de inventario y análisis de reabastecimiento estilo ensamblajes.
 * **Marketing Budget Allocation Simulator** — Optimización de presupuesto de medios basada en escenarios.
@@ -459,7 +460,7 @@ Más herramientas disponibles a través del perfil de GitHub y el repositorio de
 
 ---
 
-# Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la **Apache License 2.0**.
 
