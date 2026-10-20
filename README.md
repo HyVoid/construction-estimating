@@ -126,6 +126,28 @@ The Construction Tender Assembly Builder & Estimating Workbench is one example o
 
 ---
 
+## The Business Logic & Methodology
+
+Construction estimating is not simply the process of adding up material, labor, and equipment costs. It is the process of translating an inconsistent tender scope into a consistent, costed, and commercially defensible bid.
+
+The **Construction Tender Assembly Builder & Estimating Workbench** applies an assembly-based estimating methodology to turn existing cost data and historical project experience into a reusable construction estimating workflow. Instead of rebuilding every estimate from scratch, estimators can standardize how tender items are classified, how resources are grouped into assemblies, and how costs are converted into tender prices.
+
+The methodology addresses four recurring problems in construction tender pricing:
+
+- **BOQ Mapping and Scope Normalization:** Different clients describe similar construction work using different BOQ structures, trade names, and work breakdown structures. Mapping tender items to standardized internal categories makes historical estimates easier to reuse and helps identify scope items that require manual review before pricing.
+
+- **Assembly-Based Cost Estimating:** An estimating assembly groups the resources required to deliver a defined unit of work, including materials, labor, equipment, plant, and subcontractors. Reusable assemblies reduce repetitive estimating work, make cost composition more consistent, and allow estimators to focus on project-specific quantities and conditions rather than reconstructing familiar work packages.
+
+- **Cost Standardization and Commercial Pricing:** A centralized cost library provides a consistent reference for resource rates, while productivity assumptions, overheads, escalation, contingency, and margin account for the conditions under which a tender will be delivered. Separating these factors makes pricing assumptions easier to review, update, and compare across bids.
+
+- **Historical Knowledge Reuse and Budget Structuring:** Saving validated assemblies, scope mappings, and estimating assumptions creates a growing corporate estimating library. Standard work breakdown structures and cost codes also provide a foundation for transferring awarded estimate data into project budgets and preparing structured data for future Procore integration.
+
+The commercial objective is to move from **one-off tender preparation to repeatable, assembly-driven construction estimating**. Each tender becomes an opportunity to reuse established cost knowledge, identify exceptions earlier, improve pricing consistency, and strengthen the connection between bid preparation and subsequent project cost control.
+
+The result is not a replacement for professional estimating judgment. It is a structured method for applying that judgment more consistently across tenders, projects, and estimating teams.
+
+---
+
 ## Technical Details
 
 <details>
