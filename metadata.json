@@ -1,6 +1,6 @@
 {
-  "name": "Construction Estimating System",
-  "description": "An assembly-driven construction tender estimating workbench and cost database system.",
+  "name": "Theseus Workshop",
+  "description": "Construction Estimating Software & Tender Assembly Builder",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -166,7 +166,8 @@ export default function App() {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.setAttribute('download', `estimating_workbench_backup_${Date.now()}.json`);
+    const dateStr = new Date().toISOString().slice(0, 10);
+    link.setAttribute('download', `theseus-workshop-backup-${dateStr}.json`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -286,13 +287,18 @@ export default function App() {
       {/* STICKY TOP NAVIGATION BAR (56px) */}
       <nav id="top-nav-bar" className="sticky top-0 z-50 h-[56px] bg-white border-b border-neutral-200 flex items-center justify-between px-6 shadow-sm">
         {/* Left Brand Brand Logo */}
-        <div className="flex items-center gap-2.5">
-          <div className="w-8 h-8 rounded-lg bg-[#051C2C] flex items-center justify-center text-white font-heading font-bold text-[18px]">
-            E
+        <div className="flex items-center gap-3">
+          <div className="w-8 h-8 rounded-lg bg-[#051C2C] flex items-center justify-center text-white font-heading font-bold text-[18px] shadow-xs shrink-0">
+            T
           </div>
-          <div className="leading-tight">
-            <span className="font-heading font-bold text-[16px] text-[#051C2C] tracking-tight block">ESTIMATING</span>
-            <span className="text-[10px] text-neutral-400 font-semibold tracking-wider uppercase block">Assembly Factory</span>
+          <div className="flex flex-col sm:flex-row sm:items-baseline sm:gap-2.5">
+            <span className="font-heading font-semibold text-[17px] text-[#051C2C] tracking-[-0.02em] whitespace-nowrap">
+              Theseus Workshop
+            </span>
+            <span className="hidden lg:inline text-neutral-300 text-xs font-light">|</span>
+            <span className="text-[11px] text-neutral-500 font-medium tracking-normal truncate max-w-[200px] sm:max-w-[320px] xl:max-w-[440px]">
+              Construction Estimating Software &amp; Tender Assembly Builder
+            </span>
           </div>
         </div>
 
@@ -578,8 +584,11 @@ export default function App() {
           <div className="flex flex-wrap items-center gap-6">
             <span>Local Database: <span className="text-[#00C853] font-bold">Secure Local Cache</span></span>
             <span>Real-time Sync: <span className="text-[#2251FF] font-bold">Enabled ({lastSaved})</span></span>
-            <span>&copy; 2026 Estimating Assembly Factory</span>
+            <span>&copy; 2026 Theseus Workshop</span>
           </div>
+        </div>
+        <div className="max-w-[1400px] mx-auto text-center text-neutral-400 text-[11px] mt-2 border-t border-neutral-100 pt-2">
+          All data in this tool is stored in your browser's localStorage. The page itself does not retain any user data.
         </div>
       </footer>
     </div>
