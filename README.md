@@ -16,6 +16,18 @@ By converting messy historical project quotes into a structured **unit price cos
 > 
 > 📥 **Get the Automated Excel Template** → [**Download the Plug-and-Play Excel Construction Estimating Template & Bid Analysis Workbench**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
 
+
+## Questions, Feedback & Product Updates
+
+This estimating workbench is built around practical BOQ, quantity-takeoff, and tender-preparation workflows. Feedback from estimators and contractors helps identify where the workflow, cost assumptions, or outputs need clarification or improvement.
+
+- **Questions & workflow fit:** [Ask about BOQ/QTO inputs, assemblies, labour productivity, cost build-ups, or bid outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest a missing estimating workflow, trade assembly, cost rule, or report](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the construction estimating issue form](https://github.com/HyVoid/construction-estimating/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+When describing a problem, mention the relevant estimate step, cost component, or worksheet. Use anonymized quantities and rates; do not upload client BOQs, live tenders, subcontractor quotations, or confidential project data.
+
 ---
 
 ## What It Helps You Track: Construction Estimating Pain Points & Automated Solutions
