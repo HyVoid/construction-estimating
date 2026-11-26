@@ -1,114 +1,150 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Construction Estimating Software, Free BOQ Calculator & Automated Excel Bid Template
-<img width="1425" height="790" alt="image" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
+# Construction Estimating & BOQ Pricing Excel Workbench (Free Web Calculator) — Automated Bid Template, Unit Cost Library & Margin Analyzer
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbench: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbench-One--Time%20Purchase-1E3A8A.svg)
+![Interactive Demo: Free BOQ Web Tool](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-green.svg)
-![Category](https://img.shields.io/badge/Category-Construction%20Estimating%20%26%20Cost%20Takeoff-orange.svg)
+<img width="1425" height="790" alt="Construction Estimating & BOQ Pricing Excel Workbench Dashboard Preview" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
 
-**Construction Tender Assembly Builder** is a **free online construction estimating software** and **automated Excel construction bid template** designed for beginners, general contractors, and quantity surveyors to automate **Bill of Quantities (BOQ) pricing**, manage **material and labor takeoff calculations**, and standardize **commercial cost estimating**. 
+**Stop losing profit on bids before construction even starts.** **Construction Tender Assembly Builder** is a plug-and-play **12-tab Excel construction estimating workbench** (paired with a **free online BOQ web calculator**) built for small-to-midsize contractors, junior quantity surveyors (QS), and hands-on estimators who want to automate **Bill of Quantities (BOQ) pricing**, standardize **material and labor takeoffs**, protect **overhead & profit margins**, and turn every completed tender into a permanent **unit cost database**—requiring **zero advanced Excel skills or $5,000/year estimating software**.
 
-By converting messy historical project quotes into a structured **unit price cost database**, this **construction bidding workbench** cuts tender preparation time from weeks to minutes—requiring **zero advanced Excel skills or manual formula writing**. Use the free browser calculator for quick single-bid tests, or download the plug-and-play **Excel construction estimating spreadsheet** to automate your company's permanent bidding workflow.
-
-> 🌐 **Try Free Online Tool (No Signup)** → [**Launch the Free Browser Construction Estimating Software & Instant BOQ Calculator**](https://hyvoid.github.io/construction-estimating/)
-> 
-> 📥 **Get the Automated Excel Template** → [**Download the Plug-and-Play Excel Construction Estimating Template & Bid Analysis Workbench**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
-
-
-## Questions, Feedback & Product Updates
-
-This estimating workbench is built around practical BOQ, quantity-takeoff, and tender-preparation workflows. Feedback from estimators and contractors helps identify where the workflow, cost assumptions, or outputs need clarification or improvement.
-
-- **Questions & workflow fit:** [Ask about BOQ/QTO inputs, assemblies, labour productivity, cost build-ups, or bid outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
-- **Ideas & improvements:** [Suggest a missing estimating workflow, trade assembly, cost rule, or report](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
-- **Report a technical problem:** [Open the construction estimating issue form](https://github.com/HyVoid/construction-estimating/issues/new?template=bug-report.yml).
-- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
-
-When describing a problem, mention the relevant estimate step, cost component, or worksheet. Use anonymized quantities and rates; do not upload client BOQs, live tenders, subcontractor quotations, or confidential project data.
+> ### Get Started in Minutes
+>
+> - 📥 **Get the Full 12-Tab Offline Excel Estimating Workbench (One-Time Purchase · 30-Day No-Questions-Asked Money-Back Guarantee):** [**Download the Complete Construction Estimating & BOQ Excel Workbench on Theseus Workshop**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README) — unlocked `.xlsx` system with automated BOQ mapping, reusable assembly libraries, risk/margin analysis, and Procore-ready WBS export. Reusable across unlimited bids, 100% local privacy, zero SaaS subscriptions.
+> - 🌐 **Try the Instant Browser Calculator First (100% Free · No Signup):** [**Launch the Free Online Construction Estimating & BOQ Calculator**](https://hyvoid.github.io/construction-estimating/) to test assembly-based pricing and unit rate logic directly in your browser.
+> - 🎁 **New to Theseus Workshop & Want to Test an Offline Excel File for $0 First?** Grab our [**Free Monthly Construction CVR & Accruals Excel Template ($0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink) to experience our plug-and-play Excel craftsmanship offline before upgrading your bidding workflow.
 
 ---
 
-## What It Helps You Track: Construction Estimating Pain Points & Automated Solutions
+## How This Estimating Workbench Completes Your Profit-Protection Loop (Pairs With Our Free CVR Template)
 
-Many contractors and junior estimators lose money not because their construction work is poor, but because their **construction cost breakdown spreadsheet** fails to track hidden cost drivers. This workbench maps high-risk **bidding bottlenecks** directly to automated tracking metrics:
+If you have already downloaded our **Free Monthly CVR & Accruals Template**, you know how painful it is to discover a bleeding subcontract package halfway through construction. **In most cases, that loss started at tender stage**—from a missed BOQ line item, outdated labor productivity, or hidden risk contingency.
 
-| High-Frequency Estimating Pain Point | Objective Financial Risk & Margin Impact | What This Estimating Software & Excel Template Tracks for You |
+This workbench fixes the leak **before you sign the contract**, turning your commercial workflow into an end-to-end margin shield:
+
+| Commercial Stage | Tool in the Theseus Workshop Suite | The Expensive Mistake It Stops |
+|---|---|---|
+| **Stage 1 — Pre-Bid & Tendering** | **This Workbench: Construction Estimating & BOQ Builder** (*One-Time Purchase*) | Stops underbidding, missed client BOQ scope items, outdated labor rates, and blind price discounting before contract award |
+| **Stage 2 — Active Site Delivery** | [Construction Project Management & Cash Flow Workbook](https://github.com/HyVoid/construction-project-management-excel) (*One-Time Purchase*) | Keeps Cost Code budgets, approved change orders, SOV progress billings, retainage, and rolling cash runway locked together every week |
+| **Stage 3 — Month-End Profit Audit** | [Monthly Construction CVR & Accruals Template](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**Free · $0+ PWYW**) | Exposes unbilled site accruals, disputed variation risk, and Estimate at Completion (EAC) margin drift at month-end |
+
+---
+
+## What It Tracks & Protects: High-Frequency Estimating Pain Points Mapped to Automated Controls
+
+Many contractors and junior estimators lose money not because their site execution is poor, but because their **construction cost breakdown spreadsheet** fails to catch hidden bidding traps. This workbench replaces fragile manual sheets with structured commercial controls:
+
+| High-Frequency Estimating Pain Point | Financial Risk & Margin Impact | What This Excel Estimating Workbench Automates for You |
 | :--- | :--- | :--- |
-| **Missed Line Items in Client BOQ (Scope Gap)** | Underbidding the project; unpriced work comes directly out of your net profit margin during construction. | **Automated BOQ Scope Completeness:** Cross-references new client Bill of Quantities against historical project assemblies to flag missing trade items instantly. |
-| **Rebuilding Cost Estimates from Scratch** | Wasting 20+ hours per bid manually copying cells, leading to fewer bids submitted and lower win rates during peak season. | **Reusable Unit Cost & Assembly Library:** Tracks and stores standardized material, labor, and plant assemblies for 1-click retrieval across future tenders. |
-| **Outdated Labor Rates & Site Productivity** | Relying on last year's labor unit prices ignores wage inflation and site complexity, causing severe **labor cost overruns**. | **Dynamic Labor Productivity & Rate Multipliers:** Tracks regional labor rate adjustments, crew efficiency factors, and market price escalation separately from base rates. |
-| **Unstructured Cost Codes & Messy Handover** | Winning a bid but spending days manually re-entering data into construction accounting or project management software. | **Standardized WBS & CSI Cost Code Mapping:** Automatically structures estimates into clean **Work Breakdown Structures (WBS)** ready for direct **Procore budget import**. |
-| **Hidden Markup vs. Margin Confusion** | Mixing risk contingency with overhead and profit obscures your true break-even floor during client price negotiations. | **Commercial Margin & Contingency Tracker:** Explicitly separates direct job costs, subcontractor quotes, risk allowances, overhead recovery, and net profit targets. |
+| **Missed Line Items in Client BOQ (Scope Gap)** | Underbidding the job—unpriced work comes straight out of your net profit during delivery. | **Automated BOQ Scope Normalization:** Maps messy client BOQ descriptions against standardized trade assemblies and flags unmapped scope immediately. |
+| **Rebuilding Estimates From Scratch Every Bid** | Wasting 20+ hours per tender copying old tabs, forcing you to submit fewer bids during peak season. | **Reusable Unit Cost & Assembly Library:** Stores standardized material, labor, plant, and subcontract assemblies for instant retrieval on every new tender. |
+| **Outdated Labor Rates & Site Productivity** | Reusing last year's unit rates ignores wage inflation and site complexity, triggering severe labor overruns. | **Dynamic Labor Productivity & Escalation Multipliers:** Adjusts regional labor rates, crew efficiency, and material inflation centrally without editing base libraries. |
+| **Hidden Markup vs. Margin Confusion** | Burying risk buffers inside unit prices leaves you blind to your true break-even floor during client negotiations. | **Commercial Margin & Risk Separation:** Explicitly separates base direct cost, risk contingency, corporate overhead, and net profit targets. |
+| **Messy Handover After Winning the Bid** | Spending days re-keying won tender sheets into accounting or project management budgets. | **Procore-Ready WBS & Cost Code Export:** Structures every winning estimate into clean Work Breakdown Structure (WBS) budget tables ready for immediate handover. |
+
+---
 
 ## Spreadsheet Preview
 
-Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+Want to inspect the 12-tab layout, assembly library, and bid summary dashboard before buying? Preview the workbook directly in Google Sheets:
 
-**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+**[View Live Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
-
----
-
-## Step-by-Step Tutorial: How to Estimate a Construction Job in 1 Minute (Quick Start Workflow)
-
-You do not need to be a senior cost engineer or a spreadsheet programmer to run professional **commercial bid analysis**. Follow this 4-step workflow to go from raw client numbers to an executive-ready **construction bid proposal**:
-
-### Step 1: Set Your Contractor Markup, Overhead & Profit Rules
-Open the **Settings Workspace** to establish your company's baseline financial rules once:
-*   **Overhead & Profit Margin Calculator:** Input your target gross margin percentage and corporate overhead recovery rates.
-*   **Material Price Escalation & Contingency:** Set percentage buffers for volatile building materials (concrete, steel, lumber, MEP supplies).
-*   **Regional Labor Productivity Factors:** Adjust baseline crew output rates to reflect local site conditions and union/non-union labor costs.
-*   *Result:* Your master **construction cost estimating template** is now calibrated to protect your bottom line automatically.
-
-### Step 2: Copy & Paste Raw Bill of Quantities (BOQ) & Takeoff Data
-Skip complex software onboarding or database coding. Copy raw rows directly from client tender PDFs/Excel files, **quantity takeoff (QTO) sheets**, or accounting exports and paste them straight into the input tabs:
-*   **Client Tender BOQ (Bill of Quantities)** line items and descriptions
-*   **Subcontractor Schedule of Rates (SOR)** and vendor material quotes
-*   **Construction Material Quantity Takeoffs (QTO)** and unit measurements
-
-### Step 3: Run Automated Assembly Mapping & Unit Price Calculation
-Switch to the **Estimating Engine**. With zero manual intervention, the system executes professional cost engineering logic:
-*   Executes **BOQ normalization**, matching messy client descriptions to your clean internal **cost assemblies**.
-*   Calculates exact **material, labor, equipment, and subcontractor unit costs** using your Step 1 productivity rules.
-*   Outputs a client-ready **construction bid summary** with transparent risk, overhead, and profit breakdowns.
-*   👉 [**Test the Automated BOQ Assembly Mapping in Your Browser for Free**](https://hyvoid.github.io/construction-estimating/)
-
-### Step 4: Upgrade to the Reusable Offline Excel Workbench (1-Minute Copy-Paste Analysis)
-Testing a single bid in the browser is great for quick validation—but real profitability comes from building a repeatable **corporate estimating database** on your local machine.
-
-While the underlying **construction cost engineering math** and **WBS normalization logic** are complex, **the downloadable Excel Estimating Workbench has already pre-built every automated matching rule, dynamic lookup, and auto-updating formula for you.** 
-*   **Zero Formula Dragging Required:** You do not even need to double-click the Excel fill handle to copy formulas down, nor worry about broken `VLOOKUP` references.
-*   **1-Minute Decision Feedback:** Simply download the Excel file locally, paste your own project data, and view your complete **commercial risk and margin analysis** in 60 seconds.
-*   **Built for Busy Bidding Seasons:** Even complete beginners can generate senior-level **construction bid analytics** in 1 minute, immediately spot pricing red flags, and spend peak tender seasons focusing on winning contracts rather than fixing broken spreadsheets.
-*   👉 [**Download the Automated Excel Construction Estimating Workbench for Unlimited Local Use**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` warnings due to dynamic-array formula differences between Google Sheets and Microsoft Excel. These are preview-only artifacts and do not occur in the downloaded `.xlsx` file when opened in Microsoft Excel.
 
 ---
 
-## Who This Is For: Construction Estimating Templates by Role & Use Case
+## Quick Start Workflow: Go From Raw Client BOQ to Executive Bid Summary in 4 Simple Steps
 
-Whether you are searching for a **beginner construction estimating template** or a scalable **commercial bidding system**, this tool is tailored to specific industry workflows:
+You do not need to be a 15-year cost engineer or write complex formulas to produce defensible commercial bids. **Every lookup rule, assembly build-up, and margin summary is already pre-wired and self-updating:**
 
-*   **Small & Medium General Contractors (GC Estimating Software Alternative):** Stop paying thousands per year for bloated enterprise software. Standardize how your team prices residential remodels, commercial fit-outs, and civil projects using a unified **Excel contractor estimate template**.
-*   **Beginner Estimators & Junior Quantity Surveyors (QS BOQ Template):** Eliminate the fear of missing scope items or making math errors. Use pre-built **construction assembly templates** to price tenders with the structural rigor of a 10-year cost engineer.
-*   **Subcontractors & Trade Specialists (Electrical, Plumbing, HVAC, Drywall, Concrete):** Rapidly turn material takeoffs and crew hourly rates into accurate **unit price bids** while protecting your markup against material price spikes.
-*   **Commercial Managers & Tender Directors (Bid Margin & Risk Analyzer):** Gain instant visibility into **tender margin exposure**, subcontractor quote variance, and contingency allocation before signing off on high-stakes bids.
-*   **Construction Companies Preparing for Procore Implementation:** Clean up chaotic historical spreadsheets into standardized **WBS cost codes** so your estimating data flows seamlessly into **Procore project budgets** without manual rework.
+### Step 1: Set Your Overhead, Productivity & Margin Rules Once (`01_Settings`)
+Enter your baseline commercial rules in one centralized control tab:
+- **Overhead & Profit Targets:** Define corporate overhead recovery and target net profit margin.
+- **Material Escalation & Risk Contingency:** Set explicit percentage buffers for volatile materials (concrete, steel, lumber, MEP supplies).
+- **Regional Labor Productivity Factors:** Calibrate crew output rates to local site conditions without overwriting your historical cost library.
+
+### Step 2: Copy-Paste Raw Client BOQ & Takeoff Quantities (`04_Tender_Import`)
+Skip tedious software onboarding. Paste raw line items straight from client tender spreadsheets, quantity takeoff (QTO) sheets, or subcontractor schedules of rates into the clean input area.
+
+### Step 3: Let the Engine Map Assemblies & Calculate Unit Rates (`05`–`08` Engine Tabs)
+With zero manual formula dragging, the workbook executes structured cost-engineering logic:
+- Normalizes inconsistent client BOQ text into your standardized internal **assemblies**.
+- Calculates exact **material, labor, equipment, and subcontractor costs** using your Step 1 multipliers.
+- Separates base direct cost from risk, overhead, and profit so you see your exact **break-even floor** before submitting the bid.
+- 👉 [**Test the Automated BOQ Assembly Logic Free in Your Browser**](https://hyvoid.github.io/construction-estimating/)
+
+### Step 4: Export Your Bid, Hand Off to Site & Grow Your Cost Library (`09`–`12` Output Tabs)
+- Open `09_Tender_Output` and `12_Dashboard` for a clean, executive-ready commercial summary to review with leadership or submit to the client.
+- Use `10_Procore_Export` to hand winning WBS budgets cleanly over to your project management team.
+- Every bid you finish feeds `11_History_Repository`—so your 10th tender takes a fraction of the time of your 1st.
+
+---
+
+## Free Browser Calculator vs. Full 12-Tab Offline Excel Workbench
+
+| Feature | Free Online Web Calculator | **Full 12-Tab Local Excel Workbench (One-Time Purchase)** |
+|---|---|---|
+| **Best For** | Quick 2-minute sandbox test of BOQ assembly logic | Real commercial tendering & permanent company estimating |
+| **Permanent Cost & Assembly Library** | Session test only | Build & keep your own searchable `Cost Library`, `Assembly Library` & `History Repository` |
+| **Multi-Hundred Line Client BOQs** | Single-bid quick test | Paste full tender BOQs with automated mapping & exception queues |
+| **Risk, Escalation & Margin Modeling** | Core calculation preview | Full `08_Risk_Margin` analyzer + `12_Dashboard` executive summary |
+| **Project Handover / ERP Export** | — | Dedicated `10_Procore_Export` WBS budget sheet |
+| **Data Privacy & Ownership** | Browser session | **100% offline local `.xlsx` file**—subcontractor quotes & margins stay strictly on your drive |
+| **Cost Model & Guarantee** | Free browser demo | **Small one-time purchase** (zero SaaS fees) · **30-day no-questions-asked money-back guarantee** |
+
+> **Ready to cut tender prep time from days to minutes and stop underbidding?**
+> 👉 [**Get the Complete 12-Tab Construction Estimating & BOQ Excel Workbench (One-Time Purchase · 30-Day Guarantee)**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+
+---
+
+## Who This Construction Estimating Excel Workbench Is Built For
+
+Whether you are pricing your first commercial tender or standardizing bidding across a busy contracting team, this toolkit pairs real industry roles with plug-and-play workflows:
+
+- **Small & Medium General Contractors (*Affordable Alternative to Enterprise Estimating Software*):** Stop paying thousands per year for bloated cloud suites. Standardize pricing across residential builds, renovations, commercial fit-outs, and civil tenders in one offline Excel file.
+- **Junior Quantity Surveyors (QS) & Beginner Estimators (*QS BOQ Pricing Template*):** Eliminate the fear of missing scope items or breaking `VLOOKUP` links. Price tenders with the structural discipline of a seasoned cost engineer on day one.
+- **Specialty Subcontractors (*Electrical, Plumbing, HVAC, Drywall, Concrete, Civil*):** Turn material takeoffs and crew hourly rates into accurate unit-price bids while protecting margins from sudden material price spikes.
+- **Commercial Managers & Bidding Directors (*Tender Margin & Risk Analyzer*):** See exact break-even cost, subcontractor quote exposure, and risk contingency at a glance before signing off on high-stakes bids.
+- **Growing Contractors Preparing for Procore or ERP Adoption:** Transform messy legacy spreadsheets into clean WBS cost codes ready to import straight into Procore or downstream project control workbooks.
+
+---
+
+## Comparison: Traditional Manual Bid Spreadsheets vs. Automated Estimating Workbench
+
+| Estimating Operational Dimension | Traditional Manual Excel Spreadsheets | **Automated Construction Estimating Workbench** |
+| --- | --- | --- |
+| **BOQ Pricing & Takeoff Speed** | Estimators spend days typing WBS codes, copying old assemblies, and dragging formulas down thousands of rows. | **Auto-maps client BOQ items** to reusable assemblies; paste raw rows and get instant unit rate calculations. |
+| **Formula Integrity & Error Rate** | High risk of broken `VLOOKUP` links, overwritten cells, and silent `SUM` range gaps that destroy bid accuracy. | **Pre-engineered calculation engine**—zero manual formula writing or fill-handle dragging required. |
+| **Pricing Consistency Across Bids** | Bid totals swing wildly by 15%–30% depending on who built the spreadsheet. | Enforces **standardized unit cost libraries**, crew productivity multipliers, and corporate markup rules. |
+| **Historical Pricing Retention** | Valuable vendor quotes and unit rates die inside forgotten project folders after submission. | Every bid compounds inside `11_History_Repository`, building a permanent **company cost database**. |
+| **Margin, Overhead & Risk Clarity** | Estimators hide risk inside padded unit rates, making your true walk-away price invisible during negotiations. | **Explicit commercial separation** of base direct cost, risk escalation, overhead recovery, and net margin. |
+| **Post-Win Handover to Delivery** | Project managers waste days re-entering won bids into budget and cash flow trackers. | Outputs clean, **WBS-coded budget tables** ready for Procore or immediate site cost control. |
+
+---
+
+## The Business Logic & Methodology: 4 Fatal Bidding Blind Spots This Workbench Eliminates
+
+To beginners, construction estimating looks like simple addition: *Materials + Labor + Equipment + Markup = Bid Price*. In reality, treating bidding as simple addition is the #1 reason contractors win jobs only to lose money on site. This workbench embeds four core cost-engineering safeguards automatically:
+
+1. **Blind Spot #1 — The "Client BOQ Trap" (Solved via Scope Normalization):** Every client writes their BOQ differently—one combines concrete, rebar, and formwork into one line, while another splits them into three. Pricing line-by-line invites double-counting or fatal omissions. This workbook maps messy client descriptions into your standardized internal **Work Breakdown Structure (WBS)** before calculating a single dollar.
+2. **Blind Spot #2 — Pricing Raw Materials Instead of Complete Work Packages (Solved via Assembly-Based Estimating):** Buying 100 m² of drywall is not the cost of installing it. Forgetting fasteners, joint compound, waste factors, scaffolding, and cleanup creates an instant **5%–12% margin leak**. Assemblies bundle materials, waste, crew hours, plant, and subcontract items into one complete, reusable unit of work.
+3. **Blind Spot #3 — Hiding Risk Inside Padded Unit Rates (Solved via Commercial Separation):** Arbitrarily adding 10% to lumber or labor rates makes negotiation blind—when the client asks for a 5% discount, you no longer know where your true break-even floor sits. This model isolates **Base Direct Cost** from **Productivity, Escalation, Risk Contingency, Overhead, and Net Profit** so you negotiate with 100% mathematical certainty.
+4. **Blind Spot #4 — Treating Estimates as Disposable Files (Solved via Institutional Cost Memory):** Most firms finish a bid, save it in a folder, and start from zero next month. Here, every validated rate and assembly feeds your **History Repository**—making every future bid faster, sharper, and more profitable.
 
 ---
 
 ## Why I Built This: Solving the "Institutional Estimating Memory" Problem
 
-After analyzing hundreds of construction tenders and working alongside commercial estimating teams, one objective fact stood out: **Most construction businesses do not fail bids because they lack expensive software—they lose margin because they lack institutional estimating memory.**
+After reviewing hundreds of construction tenders alongside commercial estimating teams, one pattern stood out: **Most contractors do not lose bids because they lack expensive software—they lose margin because they lack institutional estimating memory.**
 
-In over 80% of small-to-midsize contracting and quantity surveying (QS) firms, the standard **bid preparation workflow** is still a fragile, high-risk manual loop:
+In over 80% of small-to-midsize contracting and QS firms, tender preparation still runs on a stressful, fragile manual loop:
 
 ```text
-New Client BOQ Spreadsheets Received
-      ↓
-Manually Read Drawings & Perform Quantity Takeoff (QTO)
+New Client BOQ Received
       ↓
 Hunt Through Old Project Folders & Siloed Excel Files
       ↓
@@ -116,92 +152,46 @@ Copy-Paste an Old Estimate & Overwrite Unit Prices by Hand
       ↓
 Accidentally Break Formulas or Miss Scope Differences
       ↓
-Submit Bid with Hidden Margin Erosion & Unpriced Risks
-
+Submit Bid With Hidden Margin Erosion & Unpriced Risks
 ```
 
----
-
-## Comparison: Traditional Construction Spreadsheets vs. Automated Estimating Workbench
-
-| Estimating Operational Dimension | Traditional Manual Excel Spreadsheets | Automated Construction Estimating Workbench |
-| --- | --- | --- |
-| **BOQ Pricing & Takeoff Speed** | Estimators spend days manually typing WBS codes, rebuilding cost assemblies, and dragging formulas down thousands of rows. | **Auto-maps client BOQ line items** to historical assemblies in seconds; paste raw data and get instant unit rate calculations. |
-| **Formula Integrity & Error Rate** | High risk of broken `VLOOKUP` links, overwritten cells, and silent `SUM` range omissions that destroy bid accuracy. | **Locked, pre-engineered calculation engine**—no manual formula writing or double-clicking fill handles required. |
-| **Cost Accuracy & Estimator Variance** | Bid prices swing wildly by 15%–30% depending on which individual estimator built the spreadsheet. | Enforces **standardized unit cost libraries**, crew productivity multipliers, and corporate markup rules across all bids. |
-| **Historical Pricing Data Retention** | Valuable subcontractor quotes and unit rates get buried in dead project folders after tender submission. | Every completed bid feeds a searchable, permanent **corporate construction cost database** for future projects. |
-| **Margin, Overhead & Risk Visibility** | Estimators hide contingency buffers inside material/labor rates, making it impossible to know your true walk-away price. | **Explicit commercial separation** of base direct costs, risk escalation, overhead recovery, and net profit margin. |
-| **Project Handover & ERP/Procore Sync** | Project managers waste days re-keying won estimates into accounting budgets and schedule formats. | Outputs clean, **WBS-coded budget tables** ready for immediate export into **Procore** or construction ERP systems. |
+I built this 12-tab Excel workbench to break that cycle for good—giving small teams and newer estimators a fast, permanent, offline system that turns chaotic tender spreadsheets into calm, repeatable commercial decisions.
 
 ---
 
-## The Business Logic & Methodology: Uncovering Hidden Commercial Blind Spots for Beginners
+## About Theseus Workshop — Plug-and-Play Offline Excel Decision Toolkits
 
-For beginners and growing contractors, **construction estimating** often looks like simple addition: *Material Cost + Labor Cost + Equipment Cost + Markup = Bid Price*.
+**Theseus Workshop** builds lightweight, affordable, locally stored Excel decision toolkits for hands-on contractors, estimators, QS professionals, and business operators who want **executive-grade commercial clarity in minutes—without enterprise software bloat or recurring SaaS subscriptions**.
 
-In commercial reality, treating estimating as simple addition is the #1 reason contractors win bids only to lose money on site. The **Construction Tender Assembly Builder** embeds professional **cost engineering methodology** into an automated spreadsheet so zero-base users can automatically avoid four fatal **commercial decision blind spots**:
-
-### 1. Blind Spot #1: The "Client BOQ Trap" (Solved via Scope Normalization)
-
-* **The Objective Reality:** Every client, architect, and consultant writes their Bill of Quantities (BOQ) differently. What one client calls *"Cast-in-situ reinforced concrete slab,"* another splits into three separate line items for concrete, rebar, and formwork. Beginners who price line-by-line often double-count materials or completely miss required preparatory work.
-* **How the Workbench Solves It:** The tool forces **BOQ Normalization**—translating inconsistent client descriptions into your standardized internal **Work Breakdown Structure (WBS)** before calculating a single dollar. You immediately see which scope items are covered and which require manual subcontractor quotes.
-
-### 2. Blind Spot #2: Pricing Individual Items Instead of Complete Work Packages (Solved via Assembly-Based Estimating)
-
-* **The Objective Reality:** Ordering 100 square meters of drywall is not the cost of installing drywall. Beginners frequently price raw materials accurately but forget fasteners, joint compound, waste factors, scaffolding, and cleanup labor—causing an immediate **5% to 12% gross margin leak**.
-* **How the Workbench Solves It:** Instead of pricing isolated materials, the workbench uses **Assembly-Based Cost Estimating**. A single "Assembly" bundles materials, waste allowances, crew labor hours, plant equipment, and subcontractor rates into one reusable unit of work. Paste your quantity once, and every associated resource cost updates automatically.
-
-### 3. Blind Spot #3: Padding Unit Rates to Hide Risk (Solved via Commercial Price Separation)
-
-* **The Objective Reality:** When beginners worry about lumber inflation or bad weather, they arbitrarily add 10% to their material or labor unit prices. Two weeks later, when the client asks for a 5% discount to close the deal, the contractor has no idea how much "fat" is actually in the estimate versus where their hard break-even cost lies.
-* **How the Workbench Solves It:** The methodology strictly separates **Base Direct Cost** (the raw truth of what the work costs) from **Commercial Adjustments** (productivity multipliers, inflation escalation, risk contingency, corporate overhead, and net profit). During client negotiations, you can adjust your margin or risk sliders with 100% mathematical certainty of your break-even floor.
-
-### 4. Blind Spot #4: Treating Estimates as Disposable Files (Solved via Historical Database Accumulation)
-
-* **The Objective Reality:** Most contractors treat an estimate as a one-off hurdle to win a job. Once submitted, the spreadsheet sits in a folder untouched. Over 3 years and 150 bids, the company accumulates zero compounding speed or pricing intelligence.
-* **How the Workbench Solves It:** Every time you map a new BOQ item or validate a subcontractor assembly in this Excel workbench, it saves directly into your **History Repository**. Your 10th bid takes half the time of your 1st bid, turning routine administrative work into a permanent corporate asset.
-
----
-
-## About & More Commercial Decision Tools
-
-I build lightweight, zero-bloat **commercial decision-support tools and automated Excel workbenches** for high-stakes business scenarios where there are too many moving variables to reliably manage in your head.
-
-The central engineering question behind every tool is:
-
-> **What exact data and commercial logic need to exist in one screen for you to make the next high-value decision in under 60 seconds?**
-
-The **Construction Tender Assembly Builder & Estimating Workbench** transforms fragmented construction pricing knowledge, historical project bids, and cost libraries into a plug-and-play operational system.
-
-🚀 **Explore More Ready-to-Use Business & Commercial Analytics Workbenches:**
-Visit the official store at **[Theseus Workshop (Theseusworkshop.com) — Automated Excel Templates & Commercial Decision Systems](https://www.google.com/search?q=https://theseusworkshop.com%3Futm_source%3Dgithub%26utm_medium%3DGitHub%2520README_About)** to browse our full library of plug-and-play financial models, bidding workbenches, and 1-minute business analysis tools designed to help operators focus on high-leverage decisions.
-
+- 📥 [**Get This Complete 12-Tab Construction Estimating & BOQ Excel Workbench**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+- 🎁 [**Start Free: Monthly Construction CVR & Accruals Excel Template ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink)
+- 🧰 [**Explore the Full Theseus Workshop Toolkit Library (theseusworkshop.com)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
 
 ---
 
 ## Technical Details
 
 <details>
-<summary>For technical reviewers, Excel practitioners, and collaborators</summary>
+<summary><strong>For technical reviewers, Excel practitioners, and collaborators (12-Tab Architecture, 3 Estimating Traps, Hospital Tender Case Study, Formula Reference & Validation Rules)</strong></summary>
 
-## Workbook Architecture
+### Workbook Architecture
 
 | Sheet                 | Function                       |
 | --------------------- | ------------------------------ |
-| 01_Settings           | Global estimating assumptions  |
-| 02_Cost_Library       | Standardized cost database     |
-| 03_Assembly_Library   | Reusable estimating assemblies |
-| 04_Tender_Import      | Raw tender data                |
-| 05_Tender_Mapping     | BOQ normalization and mapping  |
-| 06_Assembly_Builder   | Assembly creation engine       |
-| 07_Estimate_Engine    | Cost calculations              |
-| 08_Risk_Margin        | Risk and pricing analysis      |
-| 09_Tender_Output      | Tender deliverables            |
-| 10_Procore_Export     | Budget export structures       |
-| 11_History_Repository | Corporate estimating knowledge |
-| 12_Dashboard          | Management reporting           |
+| `01_Settings`           | Global estimating assumptions  |
+| `02_Cost_Library`       | Standardized cost database     |
+| `03_Assembly_Library`   | Reusable estimating assemblies |
+| `04_Tender_Import`      | Raw tender data                |
+| `05_Tender_Mapping`     | BOQ normalization and mapping  |
+| `06_Assembly_Builder`   | Assembly creation engine       |
+| `07_Estimate_Engine`    | Cost calculations              |
+| `08_Risk_Margin`        | Risk and pricing analysis      |
+| `09_Tender_Output`      | Tender deliverables            |
+| `10_Procore_Export`     | Budget export structures       |
+| `11_History_Repository` | Corporate estimating knowledge |
+| `12_Dashboard`          | Management reporting           |
 
-### Data Flow
+#### Data Flow
 
 ```text
 Tender Import
@@ -223,17 +213,11 @@ Procore Export
 
 ---
 
-## Three Traps That Catch Even Experienced Estimators
+### Three Traps That Catch Even Experienced Estimators
 
-### Trap 1 — Reusing Historical Estimates Without Scope Normalization
+#### Trap 1 — Reusing Historical Estimates Without Scope Normalization
 
-A decision was made:
-
-> Use Project A as the basis for Project B.
-
-The estimate relied on an unnoticed assumption:
-
-> Scope categories were assumed to be identical.
+A decision was made: *Use Project A as the basis for Project B*, relying on the unnoticed assumption that scope categories were identical:
 
 | Historical | New Tender |
 | ---------- | ---------- |
@@ -241,28 +225,9 @@ The estimate relied on an unnoticed assumption:
 | Structural | Concrete   |
 | Services   | MEP        |
 
-Result:
+**Result:** 18% of costs were omitted because client tender terminology rarely matches internal operational definitions.
 
-* 18% of costs were omitted.
-
-The reasoning is incorrect because tender terminology rarely matches operational scope definitions.
-
-Correct approach:
-
-```text
-Tender Item
-      ↓
-Scope Mapping
-      ↓
-Assembly Matching
-      ↓
-Cost Library
-```
-
-Correct outcome:
-
-* Scope completeness restored.
-* Estimate variance reduced significantly.
+**Corrected workflow:** `Tender Item → Scope Mapping → Assembly Matching → Cost Library` — restoring scope completeness and slashing estimate variance.
 
 <details>
 <summary>Formula Logic</summary>
@@ -281,171 +246,76 @@ Current_Assembly)
 
 ---
 
-### Trap 2 — Assuming Historical Productivity Remains Valid
+#### Trap 2 — Assuming Historical Productivity Remains Valid
 
-Decision:
-
-> Use last year's labor rates and productivity.
-
-Faulty assumption:
-
-> Productivity remains constant.
-
-Example:
+A decision was made to reuse last year's labor rates and crew output assuming constant productivity:
 
 | Year     | Productivity |
 | -------- | ------------ |
-| Previous | 8 m²/hr      |
+| Previous | 8.0 m²/hr    |
 | Current  | 5.9 m²/hr    |
 
-Result:
+**Result:** Labor costs were understated by 35%.
 
-* Labor costs understated by 35%.
-
-Correct approach:
-
-```text
-Historical Productivity
-       ×
-Adjustment Factor
-       ×
-Current Conditions
-```
-
-Correct outcome:
-
-* Labor estimates reflect current market conditions.
+**Corrected workflow:** `Historical Productivity × Adjustment Factor × Current Conditions` — calibrating labor estimates to real site conditions.
 
 <details>
 <summary>Formula Logic</summary>
 
 ```excel
-=Base_Productivity
-* Adjustment_Factor
+=Base_Productivity * Adjustment_Factor
 
-=Quantity
-/ Adjusted_Productivity
+=Quantity / Adjusted_Productivity
 ```
 
 </details>
 
 ---
 
-### Trap 3 — Applying Margin Before Risk
+#### Trap 3 — Applying Margin Before Risk
 
-Decision:
+A decision was made to apply a 10% target margin directly to $10M base cost (`Bid = $11M`), overlooking $1.5M in unrecognized project risk exposure.
 
-> Apply target margin directly.
-
-Faulty assumption:
-
-> Risk exposure is already reflected.
-
-Result:
-
-```text
-Cost = $10M
-Margin = 10%
-Bid = $11M
-```
-
-Unrecognized risk:
-
-```text
-Risk Exposure = $1.5M
-```
-
-Correct approach:
-
-```text
-Base Cost
-      +
-Risk
-      +
-Contingency
-      +
-Margin
-```
-
-Correct outcome:
-
-```text
-$10M + $1.5M + 10%
-= $12.65M
-```
+**Corrected workflow:** `Base Cost + Risk + Contingency + Margin` → `($10M + $1.5M) × (1 + 10%) = $12.65M`.
 
 <details>
 <summary>Formula Logic</summary>
 
 ```excel
-=Direct_Cost
-+ Risk
-+ Contingency
+=Direct_Cost + Risk + Contingency
 
-=Adjusted_Cost
-* (1+Margin)
+=Adjusted_Cost * (1 + Margin)
 ```
 
 </details>
 
 ---
 
-## Example Scenario
+### Example Scenario — Hospital Expansion Tender
 
-A contractor receives a hospital expansion tender.
-
-Input:
-
-| Item                | Value |
-| ------------------- | ----- |
-| Tender Value        | $48M  |
+| Input Item          | Value |
+| ------------------- | ----: |
+| Tender Value        |  $48M |
 | BOQ Items           | 1,240 |
-| Historical Projects | 42    |
-| Existing Assemblies | 680   |
+| Historical Projects |    42 |
+| Existing Assemblies |   680 |
 
-Processing:
+**Automated Processing:** `1,240 BOQ items → 892 auto-mapped (278 assembly matches) → 348 isolated for targeted manual review`.
 
-```text
-1240 BOQ items
-        ↓
-892 auto-mapped
-        ↓
-278 assembly matches
-        ↓
-348 manual reviews
-```
-
-Estimate output:
-
-| Component      | Cost   |
-| -------------- | ------ |
+| Cost Component |  Cost  |
+| -------------- | -----: |
 | Materials      | $19.4M |
 | Labour         | $11.2M |
-| Equipment      | $5.1M  |
-| Subcontractors | $7.8M  |
-| Overheads      | $1.6M  |
-| Risk           | $1.9M  |
+| Equipment      |  $5.1M |
+| Subcontractors |  $7.8M |
+| Overheads      |  $1.6M |
+| Risk           |  $1.9M |
 
-Final tender:
-
-```text
-Direct Cost:
-$45.1M
-
-Margin:
-8%
-
-Tender Price:
-$48.7M
-```
-
-Operational implication:
-
-Instead of spending three weeks rebuilding historical estimates, the estimator focuses only on scope exceptions and commercial strategy.
+**Final Tender Summary:** Direct Cost + Overheads + Risk = **$45.1M** → Margin (8%) → Final Tender Price = **$48.7M**. Instead of spending three weeks rebuilding old files, the estimator focuses strictly on scope exceptions and commercial strategy.
 
 ---
 
-## Formula Reference
+### Formula Reference
 
 <details>
 <summary>Assembly Mapping</summary>
@@ -485,7 +355,7 @@ SWITCH()
 
 ---
 
-## Validation Rules
+### Validation Rules
 
 | Field          | Rule                     | Error Behavior     |
 | -------------- | ------------------------ | ------------------ |
@@ -504,20 +374,32 @@ SWITCH()
 
 ## Other Tools in This Series
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Does the shaft design satisfy the relevant calculation logic? — Apply DIN 743 shaft calculation standards to engineering design decisions.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — How do estimates and tracked costs compare through delivery? — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Is the project financial position accurate after incorporating approved changes actual costs and billing progress? — Integrate budgets change orders progress billing and cash flow into a single construction project control framework.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Which energy option delivers the lowest total cost of ownership for this specific project under its actual operating conditions? — Compare industrial energy sources on a true useful-energy basis by normalizing fuel costs equipment efficiency infrastructure investment and lifecycle ownership costs.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — What will this residential project cost and which divisions are already over budget? — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — What will this drill-and-blast tunnel project cost under the assumed construction cycle? — Estimate drill-and-blast tunnel excavation, drilling, blasting, support, equipment, and labour requirements into a complete project cost and BOQ.
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — What is the total material and reinforcement cost for the foundation substructure, and can I trace every commercial bid value back to the measured dimensions? — Calculate foundation concrete volumes, formwork areas, earthwork quantities, reinforcement tonnage via automated bar bending schedules, and commercial bill of quantities values from measured structural dimensions.
+Explore more lightweight, plug-and-play Excel decision toolkits from **[Theseus Workshop](https://theseusworkshop.com/)**:
 
-More tools available through the GitHub profile and release repository.
+- 🎁 **[Construction Monthly CVR & Accruals Excel Template (Free · $0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Start here free:* Reconcile certified value, unbilled site accruals, variation risk, and EAC profit forecasts at month-end.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Integrate budgets, change orders, SOV progress billing, retainage, and rolling cash flow into one single-project control framework.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Calculate foundation concrete volumes, formwork areas, earthwork quantities, bar bending schedules (BBS), and BOQ bid values from measured structural dimensions.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Estimate drill-and-blast tunnel excavation, support, equipment, and labour costs into a complete BOQ.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Compare industrial energy sources on a true useful-energy lifecycle TCO basis.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Apply DIN 743 shaft calculation standards to engineering design decisions.
 
 ---
+
+## Questions, Feedback & Product Updates
+
+This estimating workbench is built around practical BOQ, quantity-takeoff, and tender-preparation workflows. Use the channels below to keep technical bug reports separate from workflow questions and product ideas:
+
+- **Questions & workflow fit:** [Ask about BOQ/QTO inputs, assemblies, labour productivity, cost build-ups, or bid outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest a missing estimating workflow, trade assembly, cost rule, or report](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the construction estimating bug report form](https://github.com/HyVoid/construction-estimating/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+When describing a problem, mention the relevant estimate step, cost component, or worksheet. Use anonymized quantities and rates; do not upload client BOQs, live tenders, subcontractor quotations, or confidential project data.
 
 ## License
 
 This project is licensed under the **Apache License 2.0**.
 
-See the LICENSE file for details.
+See the [LICENSE](LICENSE) file for details.
