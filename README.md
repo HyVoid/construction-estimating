@@ -50,7 +50,7 @@ Whether you are pricing your first residential tender or managing dozens of comm
 
 ## Spreadsheet Preview
 
-Want to inspect all 6 tabs, the rebar BBS engine, and the cost dashboard before downloading? Preview the workbook directly in Google Sheets:
+Want to inspect all 8 tabs, the rebar BBS engine, and the cost dashboard before downloading? Preview the workbook directly in Google Sheets:
 
 **[View Live Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
