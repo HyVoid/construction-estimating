@@ -50,7 +50,7 @@ Que vous chiffriez votre première soumission résidentielle ou gériez des diza
 
 ## Aperçu du classeur
 
-Vous voulez inspecter les 6 onglets, le moteur BBS d'armatures et le tableau de bord des coûts avant de télécharger ? Prévisualisez le classeur directement dans Google Sheets :
+Vous voulez inspecter les 8 onglets, le moteur BBS d'armatures et le tableau de bord des coûts avant de télécharger ? Prévisualisez le classeur directement dans Google Sheets :
 
 **[Prévisualiser le classeur en direct sur Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 

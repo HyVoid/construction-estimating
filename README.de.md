@@ -50,7 +50,7 @@ Ob Sie Ihr erstes Wohnbau-Angebot kalkulieren oder während der Angebots-Hochsai
 
 ## Tabellen-Vorschau
 
-Möchten Sie alle 6 Register, die Bewehrungs-BBS-Engine und das Kosten-Dashboard vor dem Download prüfen? Sehen Sie sich die Arbeitsmappe direkt in Google Sheets an:
+Möchten Sie alle 8 Register, die Bewehrungs-BBS-Engine und das Kosten-Dashboard vor dem Download prüfen? Sehen Sie sich die Arbeitsmappe direkt in Google Sheets an:
 
 **[Live-Tabellen-Vorschau auf Google Sheets ansehen](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 

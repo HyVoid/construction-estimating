@@ -50,7 +50,7 @@ Of u nu uw eerste woningbouwinschrijving prijst of tijdens het hoogseizoen tient
 
 ## Spreadsheetvoorbeeld
 
-Wilt u alle 6 tabbladen, de staafbuigstaat-engine (BBS) en het kosten-dashboard bekijken voordat u downloadt? Bekijk het werkblad rechtstreeks in Google Sheets:
+Wilt u alle 8 tabbladen, de staafbuigstaat-engine (BBS) en het kosten-dashboard bekijken voordat u downloadt? Bekijk het werkblad rechtstreeks in Google Sheets:
 
 **[Bekijk het live spreadsheetvoorbeeld op Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 

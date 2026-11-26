@@ -50,7 +50,7 @@ Ya sea que estés valorando tu primera licitación residencial o gestionando dec
 
 ## Vista previa de la hoja de cálculo
 
-¿Quieres inspeccionar las 6 pestañas, el motor de listados de doblado de barras (BBS) y el panel de costos antes de descargar? Previsualiza el libro directamente en Google Sheets:
+¿Quieres inspeccionar las 8 pestañas, el motor de listados de doblado de barras (BBS) y el panel de costos antes de descargar? Previsualiza el libro directamente en Google Sheets:
 
 **[Ver la vista previa en vivo de la hoja de cálculo en Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 

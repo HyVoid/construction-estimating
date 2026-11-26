@@ -50,7 +50,7 @@
 
 ## معاينة جدول البيانات
 
-تريد فحص جميع التبويبات ومحرك جداول ثني الحديد ولوحة التكاليف قبل التنزيل؟ عاين المصنف مباشرة في Google Sheets:
+تريد فحص جميع التبويبات الـ8 ومحرك جداول ثني الحديد ولوحة التكاليف قبل التنزيل؟ عاين المصنف مباشرة في Google Sheets:
 
 **[شاهد معاينة حية لجدول البيانات على Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
