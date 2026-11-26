@@ -1,14 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 📥 Download the 12-Tab Excel Estimating Workbench (One-Time Purchase · 30-Day Guarantee)
-    url: https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=repo_issue_menu
-    about: Get the complete unlocked .xlsx estimating & BOQ pricing workbench on Theseus Workshop (100% offline).
+  - name: 📥 Download Full 8-Tab Estimating Excel Workbench (One-Time Purchase · 30-Day Guarantee)
+    url: https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=repo_issue_menu&utm_content=construction-estimating
+    about: Get the unlocked offline .xlsx workbook for unlimited tenders and Procore WBS exports.
   - name: 🎁 Try Our Free Monthly CVR & Accruals Excel Template ($0+ PWYW)
     url: https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_issue_crosslink
-    about: Want to test an offline Theseus Workshop Excel workbook for $0 first? Grab our free CVR starter toolkit here.
-  - name: 💬 Ask a BOQ / Estimating Workflow Question (Community Q&A)
+    about: Test a free offline Theseus Workshop Excel workbook first before purchasing.
+  - name: 💬 Ask a BOQ / Assembly Workflow Question (Community Q&A)
     url: https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions
-    about: Ask about BOQ mapping, assemblies, labor productivity, or cost build-ups in our central Discussions hub.
-  - name: 💡 Suggest a Trade Assembly or New Decision Toolkit
+    about: Ask about BOQ inputs, assembly build-ups, productivity factors, or bid outputs.
+  - name: 💡 Suggest a New Estimating Feature or Trade Assembly
     url: https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas
-    about: Request new estimating workflows, trade assemblies, or Excel templates for Theseus Workshop.
+    about: Share ideas for estimating workflows, cost rules, or new Excel templates.
