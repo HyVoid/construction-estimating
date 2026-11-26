@@ -1,94 +1,150 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Logiciel d'estimation de construction, calculateur BOQ gratuit et modèle d'appel d'offres Excel automatisé
-<img width="1425" height="790" alt="image" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
+# Estimation de construction et tarification BOQ sous Excel (calculateur web gratuit) — Modèle de soumission automatisé, bibliothèque de coûts unitaires et analyseur de marge
 
+[![Licence : Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Atelier Excel : achat unique](https://img.shields.io/badge/Excel%20Workbench-One--Time%20Purchase-1E3A8A.svg)
+![Démo interactive : outil BOQ web gratuit](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Garantie : 30 jours satisfait ou remboursé](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Web%20Browser%20%2B%20Microsoft%20Excel-green.svg)
-![Category](https://img.shields.io/badge/Category-Construction%20Estimating%20%26%20Cost%20Takeoff-orange.svg)
+<img width="1425" height="790" alt="Construction Estimating & BOQ Pricing Excel Workbench Dashboard Preview" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
 
-**Construction Tender Assembly Builder** est un **logiciel d'estimation de construction en ligne gratuit** et un **modèle d'appel d'offres de construction Excel automatisé** conçu pour les débutants, les entrepreneurs généraux et les économistes de la construction, afin d'automatiser la **tarification du bordereau des quantités (BOQ)**, de gérer les **calculs de métré des matériaux et de la main-d'œuvre** et de standardiser l'**estimation des coûts commerciaux**. 
+**Arrêtez de perdre votre marge sur les offres avant même que le chantier ne commence.** **Construction Tender Assembly Builder** est un **atelier d'estimation de construction Excel à 12 onglets prêt à l'emploi** (avec **calculateur web BOQ gratuit en ligne**) conçu pour les entrepreneurs de petite et moyenne taille, économistes de la construction (QS) juniors et estimateurs de terrain qui veulent automatiser la **tarification du Bill of Quantities (BOQ)**, standardiser les **relevés de quantités matériaux et main-d'œuvre**, protéger **frais généraux et marges bénéficiaires** et transformer chaque soumission aboutie en une **base de données de coûts unitaires** permanente — sans **aucune compétence Excel avancée ni logiciel d'estimation à 5 000 $/an**.
 
-En convertissant des devis de projets historiques désordonnés en une **base de données de coûts unitaires** structurée, cet **atelier d'appel d'offres de construction** réduit le temps de préparation des soumissions de plusieurs semaines à quelques minutes — sans exiger **aucune compétence avancée sur Excel ni aucune écriture manuelle de formules**. Utilisez le calculateur gratuit dans le navigateur pour tester rapidement une soumission unique, ou téléchargez la **feuille de calcul Excel d'estimation de construction** prête à l'emploi pour automatiser le processus d'appel d'offres permanent de votre entreprise.
-
-> 🌐 **Essayer l'outil en ligne gratuit (sans inscription)** → [**Lancer le logiciel gratuit d'estimation de construction dans le navigateur et le calculateur BOQ instantané**](https://hyvoid.github.io/construction-estimating/)
-> 
-> 📥 **Obtenir le modèle Excel automatisé** → [**Télécharger le modèle Excel d'estimation de construction prêt à l'emploi et l'atelier d'analyse des offres**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+> ### Démarrez en quelques minutes
+>
+> - 📥 **Obtenez l'atelier d'estimation Excel hors ligne à 12 onglets (achat unique · garantie 30 jours sans conditions) :** [**Téléchargez l'atelier d'estimation de construction et de tarification BOQ sur Theseus Workshop**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README) — un système `.xlsx` déverrouillé avec mapping BOQ automatisé, bibliothèques d'assemblages réutilisables, analyse risque/marge et export WBS prêt pour Procore. Réutilisable à l'infini, confidentialité 100 % locale, zéro abonnement SaaS.
+> - 🌐 **Essayez d'abord le calculateur instantané dans le navigateur (100 % gratuit · sans inscription) :** [**Lancez le calculateur en ligne gratuit d'estimation de construction et de tarification BOQ**](https://hyvoid.github.io/construction-estimating/) pour tester tarification par assemblages et logique des prix unitaires directement dans votre navigateur.
+> - 🎁 **Nouveau sur Theseus Workshop et envie de tester d'abord un fichier Excel hors ligne pour 0 $ ?** Récupérez notre [**Modèle Excel gratuit mensuel CVR & Accruals de construction (0 $+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink) pour découvrir notre savoir-faire Excel hors ligne avant de moderniser votre flux de soumission.
 
 ---
 
-## Ce que cet outil vous aide à suivre : points de douleur de l'estimation de construction et solutions automatisées
+## Comment cet atelier complète votre boucle de protection de la marge (en duo avec notre modèle CVR gratuit)
 
-De nombreux entrepreneurs et estimateurs juniors perdent de l'argent non pas parce que leurs travaux de construction sont de mauvaise qualité, mais parce que leur **tableur de décomposition des coûts de construction** ne parvient pas à suivre les facteurs de coût cachés. Cet atelier associe directement les **goulets d'étranglement** à haut risque de l'appel d'offres à des indicateurs de suivi automatisés :
+Si vous avez déjà téléchargé notre **modèle CVR & Accruals mensuel gratuit**, vous savez combien il est douloureux de découvrir un lot de sous-traitance déficitaire à mi-chantier. **Dans la plupart des cas, cette perte a commencé dès la phase de soumission**—un poste BOQ oublié, une productivité main-d'œuvre obsolète ou une provision pour risques masquée.
 
-| Point de douleur d'estimation à haute fréquence | Risque financier objectif et impact sur la marge | Ce que ce logiciel d'estimation et ce modèle Excel suivent pour vous |
+Cet atelier colmate la fuite **avant la signature du contrat**, transformant votre flux commercial en bouclier de marge de bout en bout :
+
+| Étape commerciale | Outil de la suite Theseus Workshop | L'erreur coûteuse qu'il évite |
+|---|---|---|
+| **Étape 1 — Préparation et dépôt de la soumission** | **Cet atelier : Construction Estimating & BOQ Builder** (*achat unique*) | Stoppe les sous-évaluations, les postes BOQ client oubliés, les taux de main-d'œuvre obsolètes et les remises aveugles avant l'attribution du contrat |
+| **Étape 2 — Exécution active du chantier** | [Classeur de gestion de projet de construction et de trésorerie](https://github.com/HyVoid/construction-project-management-excel) (*achat unique*) | Verrouille chaque semaine budgets par Cost Code, ordres de modification approuvés, facturation d'avancement SOV, retainage et piste de trésorerie glissante |
+| **Étape 3 — Audit de la marge en fin de mois** | [Modèle CVR & Accruals mensuel de construction](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**gratuit · 0 $+ PWYW**) | Expose en fin de mois les accruals non facturés, le risque de variations contestées et la dérive de marge de l'Estimate at Completion (EAC) |
+
+---
+
+## Ce qu'il suit et protège : points de douleur fréquents associés à des contrôles automatisés
+
+Beaucoup d'entrepreneurs et d'estimateurs juniors perdent de l'argent non à cause d'une mauvaise exécution chantier, mais parce que leur **tableur de décomposition des coûts de construction** rate les pièges cachés de la soumission. Cet atelier remplace les feuilles manuelles fragiles par des contrôles commerciaux structurés :
+
+| Point de douleur d'estimation fréquent | Impact financier et sur la marge | Ce que cet atelier d'estimation Excel automatise pour vous |
 | :--- | :--- | :--- |
-| **Postes oubliés dans le BOQ du client (écart de périmètre)** | Sous-estimation du projet ; les travaux non chiffrés sont directement prélevés sur votre marge bénéficiaire nette pendant la construction. | **Exhaustivité automatisée du périmètre BOQ :** recoupe le nouveau bordereau des quantités du client avec les assemblages historiques des projets afin de signaler instantanément les postes de corps d'état manquants. |
-| **Reconstruire les estimations de coûts à partir de zéro** | Perdre plus de 20 heures par soumission à copier manuellement des cellules, ce qui réduit le nombre de soumissions déposées et le taux de réussite en pleine saison. | **Bibliothèque réutilisable de coûts unitaires et d'assemblages :** suit et stocke des assemblages standardisés de matériaux, de main-d'œuvre et de matériel, récupérables en un clic pour les appels d'offres futurs. |
-| **Taux de main-d'œuvre et productivité de chantier obsolètes** | S'appuyer sur les prix unitaires de main-d'œuvre de l'année dernière revient à ignorer l'inflation salariale et la complexité du chantier, ce qui provoque de graves **dépassements des coûts de main-d'œuvre**. | **Multiplicateurs dynamiques de productivité et de taux de main-d'œuvre :** suit les ajustements régionaux des taux de main-d'œuvre, les facteurs d'efficacité des équipes et la hausse des prix du marché, séparément des taux de base. |
-| **Codes de coût non structurés et transmission désordonnée** | Remporter un appel d'offres mais passer des jours à ressaisir manuellement les données dans la comptabilité de construction ou le logiciel de gestion de projet. | **Mapping standardisé des codes de coût WBS et CSI :** structure automatiquement les estimations en **structures de découpage du travail (WBS)** propres, prêtes pour un **import direct du budget dans Procore**. |
-| **Confusion entre majoration cachée et marge** | Mélanger la provision pour risques avec les frais généraux et le bénéfice masque votre véritable seuil de rentabilité lors des négociations de prix avec le client. | **Suivi de la marge commerciale et des provisions :** sépare explicitement les coûts directs du chantier, les devis des sous-traitants, les provisions pour risques, la récupération des frais généraux et les objectifs de bénéfice net. |
+| **Postes oubliés dans le BOQ client (écart de périmètre)** | Soumission sous-évaluée — les travaux non chiffrés sortent directement de votre bénéfice net en exécution. | **Normalisation automatisée du périmètre BOQ :** recoupe les descriptions BOQ client désordonnées avec des assemblages de corps d'état standardisés et signale aussitôt le périmètre non cartographié. |
+| **Reconstruire chaque estimation de zéro** | 20+ heures par soumission à recopier d'anciens onglets, vous contraignant à déposer moins d'offres en pleine saison. | **Bibliothèque réutilisable de coûts unitaires et d'assemblages :** stocke des assemblages standardisés de matériaux, main-d'œuvre, matériel et sous-traitance pour récupération instantanée à chaque nouvelle soumission. |
+| **Taux de main-d'œuvre et productivité chantier obsolètes** | Réutiliser les prix unitaires de l'an dernier ignore l'inflation salariale et la complexité du chantier, provoquant de sévères dépassements de main-d'œuvre. | **Multiplicateurs dynamiques de productivité et d'escalade :** ajuste centralement les taux régionaux de main-d'œuvre, l'efficacité des équipes et l'inflation des matériaux, sans modifier les bibliothèques de base. |
+| **Confusion entre majoration cachée et marge** | Enfouir les buffers de risque dans les prix unitaires masque votre véritable plancher de rentabilité en négociation client. | **Séparation commerciale de la marge et du risque :** sépare explicitement coût direct de base, provision pour risques, frais généraux d'entreprise et objectif de bénéfice net. |
+| **Transmission désordonnée après la victoire** | Des jours perdus à ressaisir la soumission gagnée dans les budgets comptables ou de gestion de projet. | **Export WBS et Cost Code prêt pour Procore :** structure chaque estimation gagnée en tableaux budgétaires Work Breakdown Structure (WBS) propres, prêts pour transmission immédiate. |
 
 ---
 
-## Tutoriel pas à pas : comment estimer un chantier de construction en 1 minute (flux de démarrage rapide)
+## Aperçu du classeur
 
-Vous n'avez pas besoin d'être un ingénieur en coûts confirmé ni un programmeur de tableur pour mener une **analyse commerciale d'offre** professionnelle. Suivez ce flux de travail en 4 étapes pour passer des chiffres bruts du client à une **proposition d'offre de construction** prête à être présentée à la direction :
+Vous voulez inspecter la structure à 12 onglets, la bibliothèque d'assemblages et le tableau de bord avant d'acheter ? Prévisualisez le classeur dans Google Sheets :
 
-### Étape 1 : définissez vos règles de majoration, de frais généraux et de bénéfice
-Ouvrez l'**espace de travail Paramètres** pour établir une fois pour toutes les règles financières de référence de votre entreprise :
-*   **Calculateur de frais généraux et de marge bénéficiaire :** saisissez le pourcentage de marge brute visé et les taux de récupération des frais généraux de l'entreprise.
-*   **Hausse des prix des matériaux et provisions :** définissez des tampons en pourcentage pour les matériaux de construction volatils (béton, acier, bois, fournitures CVC).
-*   **Facteurs régionaux de productivité de la main-d'œuvre :** ajustez les taux de rendement de référence des équipes pour refléter les conditions locales du chantier et les coûts de main-d'œuvre syndiquée ou non syndiquée.
-*   *Résultat :* votre **modèle maître d'estimation des coûts de construction** est désormais calibré pour protéger automatiquement votre résultat net.
+**[Prévisualiser le classeur en direct sur Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-### Étape 2 : copiez et collez le bordereau des quantités (BOQ) brut et les données de métré
-Évitez l'intégration logicielle complexe ou le codage de bases de données. Copiez les lignes brutes directement depuis les PDF ou fichiers Excel d'appel d'offres du client, les **feuilles de métré (QTO)** ou les exports comptables, et collez-les directement dans les onglets de saisie :
-*   **Postes et descriptions du BOQ (bordereau des quantités) de l'appel d'offres client**
-*   **Bordereau des prix unitaires (SOR) des sous-traitants** et devis matériaux des fournisseurs
-*   **Métrés de quantités de matériaux de construction (QTO)** et mesures unitaires
-
-### Étape 3 : lancez le mapping automatisé des assemblages et le calcul des prix unitaires
-Passez au **moteur d'estimation**. Sans aucune intervention manuelle, le système exécute une logique professionnelle d'ingénierie des coûts :
-*   Exécute la **normalisation du BOQ**, en faisant correspondre les descriptions désordonnées du client à vos **assemblages de coûts** internes propres.
-*   Calcule les **coûts unitaires exacts des matériaux, de la main-d'œuvre, de l'équipement et des sous-traitants** à l'aide de vos règles de productivité de l'étape 1.
-*   Produit une **synthèse d'offre de construction** prête pour le client, avec une décomposition transparente des risques, des frais généraux et du bénéfice.
-*   👉 [**Testez gratuitement le mapping automatisé des assemblages BOQ dans votre navigateur**](https://hyvoid.github.io/construction-estimating/)
-
-### Étape 4 : passez à l'atelier Excel hors ligne réutilisable (analyse copier-coller en 1 minute)
-Tester une seule offre dans le navigateur est idéal pour une validation rapide — mais la rentabilité réelle vient de la construction d'une **base de données d'estimation d'entreprise** reproductible sur votre machine locale.
-
-Si les **mathématiques de l'ingénierie des coûts de construction** et la **logique de normalisation WBS** sous-jacentes sont complexes, **l'atelier d'estimation Excel téléchargeable a déjà intégré pour vous chaque règle de correspondance automatisée, chaque recherche dynamique et chaque formule à mise à jour automatique.** 
-*   **Aucun glissement de formule requis :** vous n'avez même pas besoin de double-cliquer sur la poignée de recopie Excel pour copier les formules vers le bas, ni de craindre des références `VLOOKUP` cassées.
-*   **Retour de décision en 1 minute :** téléchargez simplement le fichier Excel en local, collez vos propres données de projet et consultez votre **analyse complète du risque commercial et de la marge** en 60 secondes.
-*   **Conçu pour les saisons d'appels d'offres chargées :** même les débutants complets peuvent produire une **analyse d'offre de construction** de niveau senior en 1 minute, repérer immédiatement les signaux d'alerte de prix et consacrer les pics de saison à gagner des contrats plutôt qu'à réparer des tableurs défaillants.
-*   👉 [**Téléchargez l'atelier Excel automatisé d'estimation de construction pour un usage local illimité**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+> **Note de compatibilité :** la prévisualisation Google Sheets peut afficher parfois des avertissements `#NAME?` à cause des différences de formules à tableaux dynamiques entre Google Sheets et Microsoft Excel. Ces artefacts ne concernent que la prévisualisation et n'apparaissent pas dans le fichier `.xlsx` téléchargé ouvert dans Microsoft Excel.
 
 ---
 
-## À qui s'adresse cet outil : modèles d'estimation de construction par rôle et par cas d'usage
+## Démarrage rapide : du BOQ client brut à la synthèse de soumission en 4 étapes simples
 
-Que vous recherchiez un **modèle d'estimation de construction pour débutants** ou un **système d'appel d'offres commercial** évolutif, cet outil est adapté à des flux de travail sectoriels précis :
+Pas besoin d'être un ingénieur des coûts avec 15 ans d'expérience ni d'écrire des formules complexes pour produire des soumissions commerciales défendables. **Chaque règle de recherche, construction d'assemblage et synthèse de marge est déjà pré-câblée et se met à jour automatiquement :**
 
-*   **Entrepreneurs généraux de petite et moyenne taille (alternative logicielle d'estimation pour GC) :** cessez de payer des milliers d'euros par an pour des logiciels d'entreprise surdimensionnés. Standardisez la façon dont votre équipe chiffre les rénovations résidentielles, les aménagements commerciaux et les projets de génie civil grâce à un **modèle d'estimation Excel pour entrepreneur** unifié.
-*   **Estimateurs débutants et économistes de la construction juniors (modèle QS BOQ) :** éliminez la crainte d'oublier des postes du périmètre ou de commettre des erreurs de calcul. Utilisez des **modèles d'assemblages de construction** préconçus pour chiffrer les appels d'offres avec la rigueur structurelle d'un ingénieur en coûts comptant 10 ans d'expérience.
-*   **Sous-traitants et spécialistes de corps d'état (électricité, plomberie, CVC, cloisons sèches, béton) :** transformez rapidement les métrés de matériaux et les taux horaires des équipes en **offres à prix unitaires** précises, tout en protégeant votre majoration contre les flambées des prix des matériaux.
-*   **Responsables commerciaux et directeurs des appels d'offres (analyseur de marge et de risque d'offre) :** obtenez une visibilité instantanée sur l'**exposition de la marge de l'appel d'offres**, l'écart des devis de sous-traitants et l'allocation des provisions avant de valider des offres à fort enjeu.
-*   **Entreprises de construction se préparant à un déploiement de Procore :** nettoyez des tableurs historiques chaotiques pour les transformer en **codes de coût WBS** standardisés, afin que vos données d'estimation circulent sans rupture dans les **budgets de projet Procore** sans reprise manuelle.
+### Étape 1 : définissez une fois vos règles de frais généraux, de productivité et de marge (`01_Settings`)
+Saisissez vos règles commerciales de référence dans un onglet de contrôle centralisé :
+- **Objectifs de frais généraux et de bénéfice :** définissez récupération des frais généraux d'entreprise et marge nette cible.
+- **Escalade matériaux et provision pour risques :** fixez des buffers explicites pour les matériaux volatils (béton, acier, bois, fournitures MEP).
+- **Facteurs régionaux de productivité main-d'œuvre :** calibrez les taux de rendement des équipes sur les conditions locales du chantier sans écraser votre bibliothèque de coûts historique.
+
+### Étape 2 : copiez-collez le BOQ client brut et les quantités de relevé (`04_Tender_Import`)
+Épargnez-vous l'intégration logicielle fastidieuse. Collez les lignes brutes depuis les bordereaux de soumission du client, les feuilles de relevé de quantités (QTO) ou les grilles de taux de sous-traitants dans la zone de saisie propre.
+
+### Étape 3 : laissez le moteur mapper les assemblages et calculer les prix unitaires (`05`–`08` onglets moteur)
+Sans aucun glissement manuel de formule, le classeur exécute une logique structurée d'ingénierie des coûts :
+- Il normalise le texte BOQ client incohérent en **assemblages** internes standardisés.
+- Il calcule les **coûts exacts matériaux, main-d'œuvre, équipement et sous-traitants** via vos multiplicateurs de l'Étape 1.
+- Il sépare coût direct de base, risque, frais généraux et bénéfice, afin que vous connaissiez votre **plancher de rentabilité** exact avant de déposer l'offre.
+- 👉 [**Testez gratuitement la logique d'assemblage BOQ automatisée dans votre navigateur**](https://hyvoid.github.io/construction-estimating/)
+
+### Étape 4 : exportez votre offre, transmettez au chantier et enrichissez votre bibliothèque de coûts (`09`–`12` onglets de sortie)
+- Ouvrez `09_Tender_Output` et `12_Dashboard` pour une synthèse commerciale propre, prête pour la direction, à examiner ou à remettre au client.
+- Utilisez `10_Procore_Export` pour transmettre les budgets WBS gagnants à votre équipe de gestion de projet.
+- Chaque soumission terminée alimente `11_History_Repository` — votre 10e soumission prend une fraction du temps de votre 1re.
+
+---
+
+## Calculateur web gratuit vs atelier Excel hors ligne complet à 12 onglets
+
+| Fonctionnalité | Calculateur web gratuit en ligne | **Atelier Excel local complet à 12 onglets (achat unique)** |
+|---|---|---|
+| **Idéal pour** | Test sandbox de 2 minutes de la logique d'assemblage BOQ | Soumission commerciale réelle et estimation d'entreprise permanente |
+| **Bibliothèque permanente de coûts et d'assemblages** | Test en session uniquement | Construisez et conservez vos `Cost Library`, `Assembly Library` et `History Repository` consultables |
+| **BOQ client de plusieurs centaines de lignes** | Test d'une seule soumission | Collez des BOQ de soumission complets avec mapping automatisé et files d'exceptions |
+| **Modélisation du risque, de l'escalade et de la marge** | Aperçu du calcul de base | Analyseur complet `08_Risk_Margin` + synthèse exécutive `12_Dashboard` |
+| **Transmission de projet / export ERP** | — | Feuille budgétaire WBS dédiée `10_Procore_Export` |
+| **Confidentialité et propriété des données** | Session navigateur | **Fichier `.xlsx` local 100 % hors ligne** — devis de sous-traitants et marges restent strictement sur votre disque |
+| **Modèle de coût et garantie** | Démo navigateur gratuite | **Petit achat unique** (zéro frais SaaS) · **garantie 30 jours sans conditions** |
+
+> **Prêt à passer la préparation des soumissions de jours à minutes et à arrêter de sous-évaluer vos offres ?**
+> 👉 [**Obtenez l'atelier complet d'estimation de construction et de tarification BOQ à 12 onglets (achat unique · garantie 30 jours)**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+
+---
+
+## Pour qui cet atelier d'estimation de construction Excel est conçu
+
+Que vous chiffriez votre première soumission commerciale ou standardisiez les appels d'offres d'une équipe débordée, cette boîte à outils associe les rôles réels du secteur à des flux prêts à l'emploi :
+
+- **Entrepreneurs généraux de petite et moyenne taille (*alternative abordable aux logiciels d'estimation d'entreprise*) :** arrêtez de payer des milliers par an pour des suites cloud enflées. Standardisez la tarification résidentielle, rénovations, aménagements commerciaux et soumissions de génie civil dans un seul fichier Excel hors ligne.
+- **Économistes de la construction (QS) juniors et estimateurs débutants (*modèle de tarification BOQ QS*) :** éliminez la peur d'oublier un poste de périmètre ou de casser des liens `VLOOKUP`. Chiffrez les soumissions dès le premier jour avec la rigueur structurelle d'un ingénieur des coûts chevronné.
+- **Sous-traitants spécialisés (*électricité, plomberie, HVAC, cloisons sèches, béton, génie civil*) :** transformez relevés de matériaux et taux horaires des équipes en offres à prix unitaires précises, tout en protégeant vos marges des flambées de prix des matériaux.
+- **Responsables commerciaux et directeurs des soumissions (*analyseur de marge et de risque de soumission*) :** visualisez d'un coup d'œil coût exact de rentabilité, exposition aux devis de sous-traitants et provisions pour risques avant de valider des offres à fort enjeu.
+- **Entrepreneurs en croissance qui préparent l'adoption de Procore ou d'un ERP :** transformez des tableurs historiques désordonnés en codes de coûts WBS propres, prêts à être importés dans Procore ou vos classeurs de contrôle de projet en aval.
+
+---
+
+## Comparaison : tableurs manuels de soumission traditionnels vs atelier d'estimation automatisé
+
+| Dimension opérationnelle de l'estimation | Tableurs Excel manuels traditionnels | **Atelier d'estimation de construction automatisé** |
+| --- | --- | --- |
+| **Vitesse de tarification BOQ et de relevé** | Les estimateurs passent des jours à saisir des codes WBS, recopier des assemblages et tirer des formules sur des milliers de lignes. | **Mappe automatiquement les postes du BOQ client** vers des assemblages réutilisables ; collez les lignes brutes et obtenez les prix unitaires instantanément. |
+| **Intégrité des formules et taux d'erreur** | Risque élevé de liens `VLOOKUP` cassés, de cellules écrasées et de trous silencieux dans les plages `SUM` qui ruinent la précision de l'offre. | **Moteur de calcul pré-conçu** — zéro écriture manuelle de formule ni tirage de poignée de recopie. |
+| **Cohérence de la tarification entre soumissions** | Les totaux d'offres oscillent de 15 % à 30 % selon celui qui a construit le tableur. | Impose **bibliothèques de coûts unitaires standardisées**, multiplicateurs de productivité d'équipe et règles de majoration d'entreprise. |
+| **Conservation des prix historiques** | Les devis fournisseurs précieux et les prix unitaires meurent dans des dossiers de projets oubliés après le dépôt. | Chaque soumission se capitalise dans `11_History_Repository`, formant une **base de données de coûts d'entreprise** permanente. |
+| **Clarté marge, frais généraux et risque** | Les estimateurs cachent le risque dans des prix unitaires gonflés, rendant votre prix plancher invisible en négociation. | **Séparation commerciale explicite** du coût direct de base, de l'escalade du risque, des frais généraux et de la marge nette. |
+| **Transmission post-victoire vers l'exécution** | Les chefs de projet perdent des jours à ressaisir les offres gagnées dans des suivis de budget et de trésorerie. | Produit des **tableaux budgétaires codés WBS** propres, prêts pour Procore ou un contrôle immédiat des coûts chantier. |
+
+---
+
+## La logique métier et la méthodologie : 4 angles morts de soumission fatals que cet atelier élimine
+
+Pour un débutant, l'estimation de construction ressemble à une simple addition : *Matériaux + Main-d'œuvre + Équipement + Majoration = Prix de l'offre*. En réalité, cette simplification est la raison n°1 pour laquelle des entrepreneurs remportent des chantiers pour ensuite y perdre de l'argent. Cet atelier intègre automatiquement quatre garde-fous d'ingénierie des coûts :
+
+1. **Angle mort n°1 — Le « piège du BOQ client » (résolu par la normalisation du périmètre) :** chaque client rédige son BOQ à sa manière — l'un regroupe béton, armatures et coffrage sur une ligne, un autre les éclate en trois. Chiffrer ligne par ligne invite au double comptage ou aux omissions fatales. Ce classeur mappe les descriptions client désordonnées dans votre **Work Breakdown Structure (WBS)** interne standardisée avant de calculer le moindre dollar.
+2. **Angle mort n°2 — Chiffrer des matériaux bruts au lieu de lots de travaux complets (résolu par l'estimation par assemblages) :** acheter 100 m² de cloisons sèches n'est pas le coût de leur pose. Oublier fixations, enduit à joints, coefficients de perte, échafaudage et nettoyage crée une **fuite de marge instantanée de 5 %–12 %**. Les assemblages regroupent matériaux, pertes, heures d'équipe, matériel et sous-traitance en une unité de travail complète et réutilisable.
+3. **Angle mort n°3 — Cacher le risque dans des prix unitaires gonflés (résolu par la séparation commerciale) :** ajouter arbitrairement 10 % au bois ou aux taux de main-d'œuvre rend la négociation aveugle — quand le client demande une remise de 5 %, vous ne savez plus où se situe votre plancher de rentabilité. Ce modèle isole le **Coût Direct de Base** de la **Productivité, Escalade, Provision pour Risques, Frais Généraux et Bénéfice Net**, afin que vous négociez avec une certitude mathématique à 100 %.
+4. **Angle mort n°4 — Traiter les estimations comme des fichiers jetables (résolu par la mémoire institutionnelle des coûts) :** la plupart des entreprises terminent une offre, l'enregistrent dans un dossier et repartent de zéro le mois suivant. Ici, chaque taux et assemblage validé alimente votre **History Repository** — rendant chaque future offre plus rapide, plus fine et plus rentable.
 
 ---
 
 ## Pourquoi j'ai créé cet outil : résoudre le problème de la « mémoire d'estimation institutionnelle »
 
-Après avoir analysé des centaines d'appels d'offres de construction et travaillé aux côtés d'équipes d'estimation commerciale, un fait objectif s'est imposé : **la plupart des entreprises de construction ne perdent pas leurs offres faute de logiciels coûteux — elles perdent de la marge parce qu'elles n'ont pas de mémoire d'estimation institutionnelle.**
+Après avoir passé en revue des centaines de soumissions aux côtés d'équipes d'estimation commerciale, un schéma s'est imposé : **la plupart des entrepreneurs ne perdent pas leurs offres faute de logiciels coûteux — ils perdent de la marge faute de mémoire d'estimation institutionnelle.**
 
-Dans plus de 80 % des petites et moyennes entreprises de construction et de métré (QS), le **processus de préparation d'offre** standard reste une boucle manuelle fragile et à haut risque :
+Dans plus de 80 % des entreprises de construction et de QS de petite et moyenne taille, la préparation des soumissions reste une boucle manuelle stressante et fragile :
 
 ```text
-New Client BOQ Spreadsheets Received
-      ↓
-Manually Read Drawings & Perform Quantity Takeoff (QTO)
+New Client BOQ Received
       ↓
 Hunt Through Old Project Folders & Siloed Excel Files
       ↓
@@ -96,92 +152,46 @@ Copy-Paste an Old Estimate & Overwrite Unit Prices by Hand
       ↓
 Accidentally Break Formulas or Miss Scope Differences
       ↓
-Submit Bid with Hidden Margin Erosion & Unpriced Risks
-
+Submit Bid With Hidden Margin Erosion & Unpriced Risks
 ```
 
----
-
-## Comparaison : tableurs de construction traditionnels vs atelier d'estimation automatisé
-
-| Dimension opérationnelle de l'estimation | Tableurs Excel manuels traditionnels | Atelier d'estimation de construction automatisé |
-| --- | --- | --- |
-| **Vitesse de tarification du BOQ et de métré** | Les estimateurs passent des jours à saisir manuellement les codes WBS, à reconstruire les assemblages de coûts et à faire glisser des formules sur des milliers de lignes. | **Associe automatiquement les postes du BOQ client** aux assemblages historiques en quelques secondes ; collez les données brutes et obtenez des calculs instantanés de prix unitaires. |
-| **Intégrité des formules et taux d'erreur** | Risque élevé de liens `VLOOKUP` cassés, de cellules écrasées et d'omissions silencieuses de plages `SUM` qui détruisent la précision de l'offre. | **Moteur de calcul verrouillé et préprogrammé** — aucune écriture manuelle de formules ni double-clic sur la poignée de recopie n'est nécessaire. |
-| **Précision des coûts et variance entre estimateurs** | Les prix des offres varient de 15 % à 30 % selon l'estimateur qui a construit le tableur. | Impose des **bibliothèques de coûts unitaires standardisées**, des multiplicateurs de productivité des équipes et des règles de majoration d'entreprise sur toutes les offres. |
-| **Conservation des données de prix historiques** | Les devis de sous-traitants et les prix unitaires précieux s'enfouissent dans des dossiers de projets morts après le dépôt de l'offre. | Chaque offre terminée alimente une **base de données de coûts de construction d'entreprise** consultable et permanente pour les projets futurs. |
-| **Visibilité sur la marge, les frais généraux et le risque** | Les estimateurs dissimulent des tampons de provision dans les taux de matériaux et de main-d'œuvre, rendant impossible la connaissance de votre véritable prix de retrait. | **Séparation commerciale explicite** des coûts directs de base, de la hausse des risques, de la récupération des frais généraux et de la marge bénéficiaire nette. |
-| **Transmission de projet et synchronisation ERP/Procore** | Les chefs de projet perdent des jours à ressaisir les estimations gagnées dans les budgets comptables et les formats de planning. | Produit des **tableaux budgétaires codés WBS** propres, prêts pour un export immédiat vers **Procore** ou les systèmes ERP de construction. |
+J'ai construit cet atelier Excel à 12 onglets pour briser ce cycle pour de bon — offrant aux petites équipes et estimateurs moins expérimentés un système hors ligne, rapide et permanent, qui transforme des tableurs de soumission chaotiques en décisions commerciales sereines et reproductibles.
 
 ---
 
-## La logique métier et la méthodologie : révéler les angles morts commerciaux cachés pour les débutants
+## À propos de Theseus Workshop — boîtes à outils Excel de décision prêtes à l'emploi et stockées localement
 
-Pour les débutants et les entrepreneurs en croissance, l'**estimation de construction** ressemble souvent à une simple addition : *coût des matériaux + coût de la main-d'œuvre + coût de l'équipement + majoration = prix de l'offre*.
+**Theseus Workshop** conçoit des boîtes à outils Excel de décision légères, abordables et stockées localement pour entrepreneurs de terrain, estimateurs, professionnels QS et dirigeants qui veulent **une clarté commerciale de niveau direction en quelques minutes — sans logiciels d'entreprise enflés ni abonnements SaaS récurrents**.
 
-Dans la réalité commerciale, traiter l'estimation comme une simple addition est la première raison pour laquelle les entrepreneurs remportent des offres pour ensuite perdre de l'argent sur le chantier. Le **Construction Tender Assembly Builder** intègre une **méthodologie professionnelle d'ingénierie des coûts** dans un tableur automatisé, afin que les utilisateurs partant de zéro évitent automatiquement quatre **angles morts** fatals en matière de **décision commerciale** :
-
-### 1. Angle mort n° 1 : le « piège du BOQ client » (résolu par la normalisation du périmètre)
-
-* **La réalité objective :** chaque client, architecte et consultant rédige son bordereau des quantités (BOQ) de manière différente. Ce qu'un client appelle *« dalle en béton armé coulée en place »*, un autre le divise en trois postes distincts pour le béton, les armatures et le coffrage. Les débutants qui chiffrent ligne par ligne doublent souvent les matériaux ou oublient complètement les travaux préparatoires nécessaires.
-* **Comment l'atelier y répond :** l'outil impose la **normalisation du BOQ** — en traduisant les descriptions incohérentes du client dans votre **structure de découpage du travail (WBS)** interne standardisée avant de calculer le moindre euro. Vous voyez immédiatement quels postes du périmètre sont couverts et lesquels nécessitent des devis de sous-traitants manuels.
-
-### 2. Angle mort n° 2 : chiffrer des articles isolés au lieu de lots de travaux complets (résolu par l'estimation par assemblages)
-
-* **La réalité objective :** commander 100 mètres carrés de cloisons sèches n'est pas le coût de la pose de ces cloisons. Les débutants chiffrent fréquemment les matériaux bruts avec précision mais oublient les fixations, l'enduit à joints, les facteurs de perte, l'échafaudage et la main-d'œuvre de nettoyage — ce qui provoque immédiatement une **fuite de marge brute de 5 % à 12 %**.
-* **Comment l'atelier y répond :** au lieu de chiffrer des matériaux isolés, l'atelier utilise l'**estimation des coûts par assemblages**. Un seul « assemblage » regroupe les matériaux, les tolérances de perte, les heures de main-d'œuvre des équipes, l'équipement et les taux des sous-traitants en une unité de travail réutilisable. Collez votre quantité une fois, et chaque coût de ressource associé se met à jour automatiquement.
-
-### 3. Angle mort n° 3 : gonfler les prix unitaires pour masquer le risque (résolu par la séparation commerciale des prix)
-
-* **La réalité objective :** lorsque les débutants s'inquiètent de l'inflation du bois ou du mauvais temps, ils ajoutent arbitrairement 10 % à leurs prix unitaires de matériaux ou de main-d'œuvre. Deux semaines plus tard, quand le client demande une remise de 5 % pour conclure l'affaire, l'entrepreneur n'a aucune idée de la « graisse » réellement contenue dans l'estimation, ni de l'endroit où se situe son seuil de rentabilité strict.
-* **Comment l'atelier y répond :** la méthodologie sépare strictement le **coût direct de base** (la vérité brute de ce que coûtent les travaux) des **ajustements commerciaux** (multiplicateurs de productivité, hausse de l'inflation, provision pour risques, frais généraux de l'entreprise et bénéfice net). Lors des négociations avec le client, vous pouvez ajuster vos curseurs de marge ou de risque avec une certitude mathématique totale quant à votre seuil de rentabilité.
-
-### 4. Angle mort n° 4 : traiter les estimations comme des fichiers jetables (résolu par l'accumulation dans une base de données historique)
-
-* **La réalité objective :** la plupart des entrepreneurs traitent une estimation comme un obstacle ponctuel à franchir pour gagner un chantier. Une fois déposé, le tableur reste dans un dossier, sans être touché. Sur 3 ans et 150 offres, l'entreprise n'accumule aucune vitesse ni intelligence tarifaire.
-* **Comment l'atelier y répond :** chaque fois que vous associez un nouveau poste BOQ ou validez un assemblage de sous-traitant dans cet atelier Excel, il est enregistré directement dans votre **dépôt historique**. Votre 10e offre prend la moitié du temps de la 1re, transformant un travail administratif de routine en actif d'entreprise permanent.
-
----
-
-## À propos et autres outils d'aide à la décision commerciale
-
-Je conçois des **outils d'aide à la décision commerciale et des ateliers Excel automatisés** légers et sans superflu, destinés à des situations professionnelles à fort enjeu où les variables mobiles sont trop nombreuses pour être gérées de façon fiable de tête.
-
-La question d'ingénierie centrale derrière chaque outil est la suivante :
-
-> **Quelles données exactes et quelle logique commerciale doivent tenir sur un seul écran pour que vous puissiez prendre la prochaine décision à forte valeur en moins de 60 secondes ?**
-
-Le **Construction Tender Assembly Builder & Estimating Workbench** transforme des connaissances tarifaires fragmentées en construction, des offres de projets historiques et des bibliothèques de coûts en un système opérationnel prêt à l'emploi.
-
-🚀 **Découvrez d'autres ateliers d'analyse business et commerciale prêts à l'emploi :**
-Rendez-vous sur la boutique officielle **[Theseus Workshop (Theseusworkshop.com) — Modèles Excel automatisés et systèmes de décision commerciale](https://www.google.com/search?q=https://theseusworkshop.com%3Futm_source%3Dgithub%26utm_medium%3DGitHub%2520README_About)** pour parcourir notre bibliothèque complète de modèles financiers prêts à l'emploi, d'ateliers d'appel d'offres et d'outils d'analyse business en 1 minute, conçus pour aider les opérationnels à se concentrer sur les décisions à fort levier.
-
+- 📥 [**Obtenez cet atelier complet d'estimation de construction et de tarification BOQ à 12 onglets**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+- 🎁 [**Commencez gratuitement : modèle Excel CVR & Accruals mensuel de construction (0 $+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink)
+- 🧰 [**Explorez toute la bibliothèque d'outils Theseus Workshop (theseusworkshop.com)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
 
 ---
 
 ## Détails techniques
 
 <details>
-<summary>Pour les réviseurs techniques, les praticiens d'Excel et les collaborateurs</summary>
+<summary><strong>Pour les relecteurs techniques, praticiens Excel et collaborateurs (architecture à 12 onglets, 3 pièges d'estimation, cas d'appel d'offres hospitalier, référence des formules et règles de validation)</strong></summary>
 
-## Architecture du classeur
+### Architecture du classeur
 
-| Sheet                 | Fonction                       |
+| Onglet                | Fonction                       |
 | --------------------- | ------------------------------ |
-| 01_Settings           | Hypothèses d'estimation globales  |
-| 02_Cost_Library       | Base de données de coûts standardisée |
-| 03_Assembly_Library   | Assemblages d'estimation réutilisables |
-| 04_Tender_Import      | Données brutes d'appel d'offres    |
-| 05_Tender_Mapping     | Normalisation et mapping du BOQ |
-| 06_Assembly_Builder   | Moteur de création d'assemblages   |
-| 07_Estimate_Engine    | Calculs de coûts            |
-| 08_Risk_Margin        | Analyse des risques et des prix      |
-| 09_Tender_Output      | Livrables d'appel d'offres     |
-| 10_Procore_Export     | Structures d'export budgétaire       |
-| 11_History_Repository | Savoir-faire d'estimation de l'entreprise |
-| 12_Dashboard          | Rapports de gestion            |
+| `01_Settings`           | Hypothèses d'estimation globales  |
+| `02_Cost_Library`       | Base de données de coûts standardisée     |
+| `03_Assembly_Library`   | Assemblages d'estimation réutilisables |
+| `04_Tender_Import`      | Données brutes de soumission    |
+| `05_Tender_Mapping`     | Normalisation et mapping du BOQ  |
+| `06_Assembly_Builder`   | Moteur de création d'assemblages   |
+| `07_Estimate_Engine`    | Calculs de coûts            |
+| `08_Risk_Margin`        | Analyse du risque et de la tarification      |
+| `09_Tender_Output`      | Livrables de soumission    |
+| `10_Procore_Export`     | Structures d'export budgétaire       |
+| `11_History_Repository` | Savoir d'estimation de l'entreprise |
+| `12_Dashboard`          | Rapports de gestion           |
 
-### Flux de données
+#### Flux de données
 
 ```text
 Tender Import
@@ -203,49 +213,24 @@ Procore Export
 
 ---
 
-## Trois pièges qui surprennent même les estimateurs expérimentés
+### Trois pièges qui prennent au dépourvu même les estimateurs expérimentés
 
-### Piège 1 — Réutiliser des estimations historiques sans normalisation du périmètre
+#### Piège 1 — Réutiliser des estimations historiques sans normalisation du périmètre
 
-Une décision a été prise :
+Une décision a été prise : *utiliser le projet A comme base du projet B*, en s'appuyant sur l'hypothèse passée inaperçue que les catégories de périmètre étaient identiques :
 
-> Utiliser le projet A comme base du projet B.
-
-L'estimation reposait sur une hypothèse passée inaperçue :
-
-> Les catégories de périmètre étaient supposées identiques.
-
-| Historique | Nouvel appel d'offres |
+| Historique | Nouvelle soumission |
 | ---------- | ---------- |
 | Excavation | Terrassement |
 | Structure | Béton   |
-| Services   | CVC        |
+| Services   | MEP        |
 
-Résultat :
+**Résultat :** 18 % des coûts omis, car la terminologie des appels d'offres clients correspond rarement aux définitions opérationnelles internes.
 
-* 18 % des coûts ont été omis.
-
-Le raisonnement est incorrect car la terminologie des appels d'offres correspond rarement aux définitions opérationnelles du périmètre.
-
-Approche correcte :
-
-```text
-Tender Item
-      ↓
-Scope Mapping
-      ↓
-Assembly Matching
-      ↓
-Cost Library
-```
-
-Résultat correct :
-
-* Exhaustivité du périmètre rétablie.
-* Variance d'estimation considérablement réduite.
+**Flux corrigé :** `Tender Item → Scope Mapping → Assembly Matching → Cost Library` — périmètre complet rétabli et variance d'estimation drastiquement réduite.
 
 <details>
-<summary>Logique des formules</summary>
+<summary>Logique de formule</summary>
 
 ```excel
 =XLOOKUP(Tender_Item,
@@ -261,174 +246,79 @@ Current_Assembly)
 
 ---
 
-### Piège 2 — Supposer que la productivité historique reste valable
+#### Piège 2 — Supposer que la productivité historique reste valable
 
-Décision :
-
-> Utiliser les taux de main-d'œuvre et la productivité de l'année dernière.
-
-Hypothèse erronée :
-
-> La productivité reste constante.
-
-Exemple :
+Décision prise de réutiliser les taux de main-d'œuvre et le rendement des équipes de l'an dernier, en supposant une productivité constante :
 
 | Année     | Productivité |
 | -------- | ------------ |
-| Précédente | 8 m²/hr      |
+| Précédente | 8.0 m²/hr    |
 | Actuelle  | 5.9 m²/hr    |
 
-Résultat :
+**Résultat :** coûts de main-d'œuvre sous-estimés de 35 %.
 
-* Coûts de main-d'œuvre sous-estimés de 35 %.
-
-Approche correcte :
-
-```text
-Historical Productivity
-       ×
-Adjustment Factor
-       ×
-Current Conditions
-```
-
-Résultat correct :
-
-* Les estimations de main-d'œuvre reflètent les conditions actuelles du marché.
+**Flux corrigé :** `Historical Productivity × Adjustment Factor × Current Conditions` — calibrage des estimations de main-d'œuvre sur les conditions réelles de chantier.
 
 <details>
-<summary>Logique des formules</summary>
+<summary>Logique de formule</summary>
 
 ```excel
-=Base_Productivity
-* Adjustment_Factor
+=Base_Productivity * Adjustment_Factor
 
-=Quantity
-/ Adjusted_Productivity
+=Quantity / Adjusted_Productivity
 ```
 
 </details>
 
 ---
 
-### Piège 3 — Appliquer la marge avant le risque
+#### Piège 3 — Appliquer la marge avant le risque
 
-Décision :
+Décision prise d'appliquer une marge cible de 10 % directement au coût de base $10M (`Bid = $11M`), en oubliant $1.5M de risque non reconnu.
 
-> Appliquer directement la marge cible.
-
-Hypothèse erronée :
-
-> L'exposition au risque est déjà prise en compte.
-
-Résultat :
-
-```text
-Cost = $10M
-Margin = 10%
-Bid = $11M
-```
-
-Risque non reconnu :
-
-```text
-Risk Exposure = $1.5M
-```
-
-Approche correcte :
-
-```text
-Base Cost
-      +
-Risk
-      +
-Contingency
-      +
-Margin
-```
-
-Résultat correct :
-
-```text
-$10M + $1.5M + 10%
-= $12.65M
-```
+**Flux corrigé :** `Base Cost + Risk + Contingency + Margin` → `($10M + $1.5M) × (1 + 10%) = $12.65M`.
 
 <details>
-<summary>Logique des formules</summary>
+<summary>Logique de formule</summary>
 
 ```excel
-=Direct_Cost
-+ Risk
-+ Contingency
+=Direct_Cost + Risk + Contingency
 
-=Adjusted_Cost
-* (1+Margin)
+=Adjusted_Cost * (1 + Margin)
 ```
 
 </details>
 
 ---
 
-## Exemple de scénario
+### Exemple de scénario — soumission d'extension d'hôpital
 
-Un entrepreneur reçoit un appel d'offres pour l'agrandissement d'un hôpital.
+| Élément en entrée   | Valeur |
+| ------------------- | ----: |
+| Valeur de la soumission |  $48M |
+| Postes du BOQ           | 1,240 |
+| Projets historiques |    42 |
+| Assemblages existants |   680 |
 
-Entrée :
+**Traitement automatisé :** `1,240 BOQ items → 892 auto-mapped (278 assembly matches) → 348 isolated for targeted manual review`.
 
-| Élément                | Valeur |
-| ------------------- | ----- |
-| Valeur de l'appel d'offres        | $48M  |
-| Articles du BOQ           | 1 240 |
-| Projets historiques | 42    |
-| Assemblages existants | 680   |
-
-Traitement :
-
-```text
-1240 BOQ items
-        ↓
-892 auto-mapped
-        ↓
-278 assembly matches
-        ↓
-348 manual reviews
-```
-
-Sortie d'estimation :
-
-| Composante      | Coût   |
-| -------------- | ------ |
+| Composante de coût |  Coût  |
+| -------------- | -----: |
 | Matériaux      | $19.4M |
-| Main-d'œuvre | $11.2M |
-| Équipement      | $5.1M  |
-| Sous-traitants | $7.8M  |
-| Frais généraux      | $1.6M  |
-| Risque           | $1.9M  |
+| Main-d'œuvre      | $11.2M |
+| Équipement      |  $5.1M |
+| Sous-traitants |  $7.8M |
+| Frais généraux      |  $1.6M |
+| Risque           |  $1.9M |
 
-Offre finale :
-
-```text
-Direct Cost:
-$45.1M
-
-Margin:
-8%
-
-Tender Price:
-$48.7M
-```
-
-Implication opérationnelle :
-
-Au lieu de passer trois semaines à reconstruire des estimations historiques, l'estimateur se concentre uniquement sur les exceptions de périmètre et la stratégie commerciale.
+**Synthèse finale de la soumission :** Coût direct + Frais généraux + Risque = **$45.1M** → Marge (8 %) → Prix final = **$48.7M**. Au lieu de passer trois semaines à reconstruire d'anciens fichiers, l'estimateur se concentre sur les exceptions de périmètre et la stratégie commerciale.
 
 ---
 
-## Référence des formules
+### Référence des formules
 
 <details>
-<summary>Mapping d'assemblages</summary>
+<summary>Mapping des assemblages</summary>
 
 ```excel
 XLOOKUP()
@@ -452,7 +342,7 @@ LAMBDA()
 </details>
 
 <details>
-<summary>Analyse des risques</summary>
+<summary>Analyse du risque</summary>
 
 ```excel
 IF()
@@ -465,17 +355,17 @@ SWITCH()
 
 ---
 
-## Règles de validation
+### Règles de validation
 
 | Champ          | Règle                     | Comportement en cas d'erreur     |
 | -------------- | ------------------------ | ------------------ |
-| Code de coût      | Doit exister dans la bibliothèque    | Avertissement de validation |
-| ID d'assemblage    | Doit être unique           | Rejeter la saisie       |
-| Quantité       | Supérieure à zéro        | Signaler l'erreur    |
+| Cost Code      | Doit exister dans la bibliothèque    | Avertissement de validation |
+| Assembly ID    | Doit être unique           | Rejet de la saisie       |
+| Quantité       | Supérieure à zéro        | Erreur en surbrillance    |
 | Productivité   | Dans la plage acceptée    | Avertissement            |
 | Marge         | Entre 0–50 %            | Rejet             |
 | Escalade     | Entre -20 % et +50 %    | Avertissement            |
-| Mapping d'appel d'offres | Doit résoudre en un assemblage | File d'attente des exceptions    |
+| Mapping de soumission | Doit correspondre à un assemblage | File d'exceptions    |
 | Export Procore | WBS valide requis       | Export bloqué     |
 
 </details>
@@ -484,20 +374,32 @@ SWITCH()
 
 ## Autres outils de cette série
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — La conception de l'arbre satisfait-elle la logique de calcul applicable ? — Appliquez les normes de calcul d'arbre DIN 743 aux décisions de conception technique.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Comment les estimations et les coûts suivis se comparent-ils tout au long de la réalisation ? — Comparez les estimations de construction aux coûts réels pendant toute la réalisation du projet, selon les formats standard AIA.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — La situation financière du projet est-elle exacte après intégration des modifications approuvées, des coûts réels et de l'avancement de la facturation ? — Intégrez les budgets, les ordres de modification, la facturation à l'avancement et la trésorerie dans un cadre unique de contrôle de projet de construction.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Quelle option énergétique offre le coût total de possession le plus bas pour ce projet précis, dans ses conditions d'exploitation réelles ? — Comparez les sources d'énergie industrielles sur une base d'énergie réellement utile, en normalisant les coûts de carburant, l'efficacité des équipements, l'investissement en infrastructure et les coûts de possession sur le cycle de vie.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Combien coûtera ce projet résidentiel et quels lots sont déjà au-dessus du budget ? — Estimez les coûts de construction résidentielle à partir des métrés et des prix du BOQ, tout en comparant les budgets approuvés aux dépenses réelles.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Combien coûtera ce projet de tunnel en forage-dynamitage selon le cycle de construction retenu ? — Estimez les besoins d'excavation, de forage, de dynamitage, de soutènement, d'équipement et de main-d'œuvre d'un tunnel en forage-dynamitage pour obtenir un coût de projet et un BOQ complets.
-* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Quel est le coût total des matériaux et des armatures pour l'infrastructure de fondation, et puis-je rattacher chaque valeur commerciale de l'offre aux dimensions mesurées ? — Calculez les volumes de béton de fondation, les surfaces de coffrage, les quantités de terrassement, le tonnage d'armatures via des bordereaux automatiques de façonnage, et les valeurs du bordereau des quantités commercial à partir des dimensions structurelles mesurées.
+Découvrez d'autres boîtes à outils Excel légères et prêtes à l'emploi de **[Theseus Workshop](https://theseusworkshop.com/)** :
 
-D'autres outils sont disponibles via le profil GitHub et le dépôt de versions.
+- 🎁 **[Modèle Excel CVR & Accruals mensuel de construction (gratuit · 0 $+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *commencez ici gratuitement :* réconciliez en fin de mois valeurs certifiées, accruals de chantier non facturés, risque de variations et prévisions de bénéfice EAC.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Intégrez budgets, ordres de modification, facturation d'avancement SOV, retainage et trésorerie glissante dans un cadre de contrôle unique par projet.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Comparez estimations de construction et coûts réels tout au long de l'exécution, selon les formats standard AIA.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Estimez les coûts résidentiels à partir des relevés BOQ et des prix, en suivant budgets approuvés face aux dépenses réelles.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Calculez volumes de béton de fondation, surfaces de coffrage, quantités de terrassement, plans de façonnage des armatures (BBS) et valeurs BOQ des offres à partir des dimensions structurelles mesurées.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Estimez excavation, soutènement, équipement et main-d'œuvre d'un tunnel en forage-dynamitage pour aboutir à un BOQ complet.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Comparez les sources d'énergie industrielles sur la base d'un TCO de cycle de vie en énergie utile réelle.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Appliquez les normes de calcul d'arbres DIN 743 aux décisions de conception d'ingénierie.
 
 ---
+
+## Questions, retours et mises à jour du produit
+
+Cet atelier s'articule autour de flux pratiques de BOQ, de relevé de quantités (quantity takeoff) et de préparation de soumissions. Utilisez les canaux ci-dessous pour séparer bugs techniques, questions de flux de travail et idées de produit :
+
+- **Questions et adéquation au flux :** [Posez vos questions sur les entrées BOQ/QTO, assemblages, productivité main-d'œuvre, construction des coûts ou livrables de soumission](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Idées et améliorations :** [Proposez un flux d'estimation manquant, un assemblage de corps d'état, une règle de coûts ou un rapport](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Signaler un problème technique :** [Ouvrez le formulaire de rapport de bug d'estimation de construction](https://github.com/HyVoid/construction-estimating/issues/new?template=bug-report.yml).
+- **Mises à jour du produit :** [Suivez les notes de maintenance et d'amélioration](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+Pour décrire un problème, mentionnez l'étape d'estimation, la composante de coût ou l'onglet concerné. Utilisez quantités et tarifs anonymisés ; ne téléversez ni BOQ clients, ni appels d'offres en cours, ni devis de sous-traitants, ni données de projet confidentielles.
 
 ## Licence
 
 Ce projet est sous licence **Apache License 2.0**.
 
-Voir le fichier LICENSE pour plus de détails.
+Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
