@@ -9,47 +9,48 @@
 
 <img width="1425" height="790" alt="Construction Estimating & BOQ Pricing Excel Workbench Dashboard Preview" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
 
-**Stop met het verliezen van winst op inschrijvingen nog voordat de bouw is gestart.** **Construction Tender Assembly Builder** is een plug-and-play **Excel-werkbank voor bouwkostencalculatie met 12 tabbladen** (gekoppeld aan een **gratis online BOQ-webcalculator**), gebouwd voor kleine en middelgrote aannemers, junior bouwkostendeskundigen (QS) en praktisch ingestelde calculators die de **prijsexpressie van hoeveelhedenstaten (BOQ)** willen automatiseren, **materiaal- en arbeidsopmetingen** willen standaardiseren, **overhead- en winstmarges** willen beschermen en elke afgeronde inschrijving willen omzetten in een permanente **eenheidsprijzendatabank**—zonder dat daarbij **gevorderde Excel-vaardigheden of calculatiesoftware van $5,000 per jaar** nodig zijn.
+**Stop met het gokken van forfaitaire inschrijvingsprijzen onder strakke inschrijvingsdeadlines — en stop met het verliezen van projectmarges nog voordat de bouw is gestart.** Deze plug-and-play **Excel-werkbank voor kostencalculatie en BOQ-prijsbepaling (Bill of Quantities, lijst van hoeveelheden)** helpt aannemers, junior calculators en bouwkostendeskundigen (QS) om verspreide historische tarieven voor materiaal, arbeid, materieel en onderaanneming om te zetten in een herbruikbare **eenheidsprijzen- en assemblagebibliotheek**, klant-BOQ's binnen enkele minuten te prijzen, overhead- en winstmarges te beschermen en **Procore-klaar WBS-budgetten** te exporteren—**zonder ook maar één complexe formule te schrijven** en **zonder enterprise-calculatiesoftware**.
 
-> ### In enkele minuten van start
+> ### Drie manieren om vandaag te starten
 >
-> - 📥 **Download de volledige offline Excel-calculatiewerkbank met 12 tabbladen (eenmalige aankoop · 30 dagen geld-terug-garantie zonder vragen):** [**Download de complete Excel-werkbank voor kostencalculatie en BOQ op Theseus Workshop**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README) — een vrijgegeven `.xlsx`-systeem met geautomatiseerde BOQ-koppeling, herbruikbare assemblagebibliotheken, risico-/margeanalyse en Procore-klaar WBS-export. Herbruikbaar voor onbeperkt veel inschrijvingen, 100% lokale privacy, nul SaaS-abonnementen.
-> - 🌐 **Probeer eerst de directe browsercalculator (100% gratis · geen registratie):** [**Start de gratis online calculator voor kostencalculatie en BOQ**](https://hyvoid.github.io/construction-estimating/) om assemblagegebaseerde prijsbepaling en eenheidsprijslogica rechtstreeks in uw browser te testen.
-> - 🎁 **Nieuw bij Theseus Workshop en wilt u eerst voor $0 een offline Excel-bestand testen?** Pak onze [**gratis maandelijkse Construction CVR & Accruals Excel-sjabloon ($0+ betaal wat u wilt)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink) om onze plug-and-play Excel-kwaliteit offline te ervaren voordat u uw inschrijvingsworkflow opwaardeert.
+> - 📥 **Download de volledige offline Excel-calculatiewerkbank met 8 tabbladen (eenmalige aankoop · 30 dagen geld-terug-garantie zonder vragen):** [**Download de complete Excel-sjabloon voor kostencalculatie en BOQ (.xlsx) op Theseus Workshop**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README&utm_content=construction-estimating) — een vrijgegeven, voorgeautomatiseerd lokaal Excel-werkblad voor onbeperkt veel inschrijvingen, herbruikbare kostenassemblagebibliotheken, parametrische margeanalyse en Procore WBS-budgetexports. **Eenmalige betaling, nul terugkerende SaaS-kosten, 100% offline privacy.**
+> - 🌐 **Test de prijsengine gratis in uw browser (geen registratie · geen installatie):** [**Start de gratis online calculator voor kostencalculatie en BOQ-prijsbepaling**](https://hyvoid.github.io/construction-estimating/) om eenheidsprijzassemblages en BOQ-naar-assemblagekoppeling te testen op een live scenario.
+> - 🎁 **Wilt u eerst voor $0 een offline Excel-bestand van Theseus Workshop inspecteren?** Pak onze [**gratis maandelijkse Construction CVR & Accruals Excel-sjabloon ($0+ betaal wat u wilt)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink) om onze plug-and-play Excel-kwaliteit offline te ervaren voordat u uw inschrijvingsworkflow opwaardeert.
 
 ---
 
-## Hoe deze calculatiewerkbank uw winstbeschermingslus voltooit (combineert met onze gratis CVR-sjabloon)
+## Stop margelekken vóór dag één (hoe dit samenwerkt met onze gratis CVR-sjabloon)
 
-Als u onze **gratis maandelijkse CVR & Accruals-sjabloon** al heeft gedownload, weet u hoe pijnlijk het is om halverwege de bouw een verliesgevend onderaannemerspakket te ontdekken. **In de meeste gevallen begon dat verlies al in de inschrijvingsfase**—door een gemiste BOQ-post, verouderde arbeidsproductiviteit of een verborgen risicoreservering.
+De meeste aannemers ontdekken pas tijdens een **maandafsluiting met Cost Value Reconciliation (CVR)** dat een project verlies draait—als het al te laat is om een slechte inschrijvingsprijs te corrigeren. De werkelijke oorzaak ontstaat bijna altijd **in de inschrijvingsfase**: gegokte forfaitsommen, gemiste BOQ-posten en niet-gescheiden overhead of risico.
 
-Deze werkbank verhelpt het lek **voordat u het contract tekent** en maakt van uw commerciële workflow een end-to-end margeschild:
+Samen dekken de toolkits van Theseus Workshop uw volledige commerciële bouwlevenscyclus af—zonder enterprise-ERP-abonnementen:
 
-| Commerciële fase | Tool in het Theseus Workshop-assortiment | De dure fout die ermee wordt voorkomen |
+| Fase in de projectlevenscyclus | Kerncommerciële vraag | Theseus Workshop-toolkit |
 |---|---|---|
-| **Fase 1 — Voorbereiding en inschrijving** | **Deze werkbank: Construction Estimating & BOQ Builder** (*eenmalige aankoop*) | Voorkomt te lage inschrijvingen, gemiste BOQ-scopeposten van de klant, verouderde arbeidstarieven en blindelings prijskortingen vóór de contracttoekenning |
-| **Fase 2 — Actieve bouwuitvoering** | [Construction Project Management & Cash Flow Workbook](https://github.com/HyVoid/construction-project-management-excel) (*eenmalige aankoop*) | Houdt Cost Code-budgetten, goedgekeurde change orders, SOV-voortgangsfacturatie, retainage en rolling cash runway elke week strak op elkaar afgestemd |
-| **Fase 3 — Winstaudit op maandafsluiting** | [Monthly Construction CVR & Accruals Template](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**gratis · $0+ PWYW**) | Brengt niet-gefactureerde bouwplaatsaccruals, betwist variatierisico en marge-afwijking in Estimate at Completion (EAC) aan het licht op maandafsluiting |
+| **1. Voorbereiding en inschrijving *(dit werkblad)*** | *"Wat zijn onze werkelijke directe kosten, verantwoorde inschrijvingsverkoopprijs en resourcebudget voordat we inschrijven?"* | **Construction Estimating & BOQ Pricing Workbench** *(eenmalige aankoop)* |
+| **2. Actieve bouwuitvoering en cashflow** | *"Zitten we op budget per Cost Code, factureren we correct (SOV/retainage) en zijn we cashflow-positief?"* | [Construction Project Management & Cash Flow Workbook](https://github.com/HyVoid/construction-project-management-excel) *(eenmalige aankoop)* |
+| **3. Winstaudit op maandafsluiting** | *"Wat is onze werkelijke winstprognose (EAC) na niet-gefactureerde bouwplaatsaccruals en betwiste variaties?"* | [Free Monthly Construction CVR & Accruals Template](https://github.com/HyVoid/construction-cvr-accruals-excel-template) *(gratis · $0+ PWYW)* |
 
 ---
 
-## Wat het bijhoudt en beschermt: frequent terugkerende calculatiepijnpunten gekoppeld aan geautomatiseerde controles
+## Kostencalculatie en BOQ-inschrijvingen: pijnpunten vs. geautomatiseerde oplossingen
 
-Veel aannemers en junior calculators verliezen geld niet omdat hun bouwuitvoering slecht is, maar omdat hun **spreadsheet met de bouwkostenopbouw** verborgen inschrijvingsvallen mist. Deze werkbank vervangt kwetsbare handmatige spreadsheets door gestructureerde commerciële controles:
+Of u nu uw eerste woningbouwinschrijving prijst of tijdens het hoogseizoen tientallen commerciële RFP's beheert: ad-hocspreadsheets veroorzaken geruisloze winstlekken. Zo verandert deze **calculatie- en BOQ-prijsbepalingswerkbench** inschrijvingsstress in directe commerciële duidelijkheid:
 
-| Frequent terugkerend calculatiepijnpunt | Financieel risico en marge-impact | Wat deze Excel-calculatiewerkbank voor u automatiseert |
-| :--- | :--- | :--- |
-| **Gemiste posten in de BOQ van de klant (scopekloof)** | Te laag inschrijven—onbegroot werk komt tijdens de uitvoering rechtstreeks uit uw nettowinst. | **Geautomatiseerde BOQ-scoopenormalisatie:** koppelt rommelige BOQ-omschrijvingen van de klant aan gestandaardiseerde vakgebiedassemblages en markeert niet-gekoppelde scope onmiddellijk. |
-| **Ramingen bij elke inschrijving opnieuw vanaf nul opbouwen** | 20+ uur per inschrijving verspillen aan het kopiëren van oude tabbladen, waardoor u in het hoogseizoen minder inschrijvingen indient. | **Herbruikbare eenheidsprijzen- en assemblagebibliotheek:** slaat gestandaardiseerde assemblages voor materiaal, arbeid, materieel en onderaanneming op voor direct ophalen bij elke nieuwe inschrijving. |
-| **Verouderde arbeidstarieven en bouwplaatsproductiviteit** | Het hergebruik van de eenheidsprijzen van vorig jaar negeert looninflatie en bouwplaatscomplexiteit en leidt tot ernstige arbeidsoverschrijdingen. | **Dynamische multiplicatoren voor arbeidsproductiviteit en escalatie:** past regionale arbeidstarieven, ploegenefficiëntie en materiaalinflatie centraal aan zonder uw basisbibliotheek te overschrijven. |
-| **Verwarring tussen verborgen opslag en marge** | Risicobuffers verstoppen in eenheidsprijzen maakt u blind voor uw werkelijke break-evenpunt tijdens onderhandelingen met de klant. | **Scheiding van commerciële marge en risico:** scheidt directe basiskosten, risicoreservering, bedrijfsoverhead en nettowinstdoelen expliciet van elkaar. |
-| **Rommelige overdracht na het winnen van de inschrijving** | Dagen besteden aan het opnieuw invoeren van gewonnen inschrijvingsbladen in boekhoud- of projectmanagementbudgetten. | **Procore-klaar WBS- en Cost Code-export:** structureert elke gewonnen raming in overzichtelijke Work Breakdown Structure (WBS)-budgettabellen, klaar voor directe overdracht. |
+| Inschrijvingspijnpunt (wat er misgaat) | Blinde vlek met hoog risico | Hoe deze werkbank het oplost (geautomatiseerde uitvoer) |
+|---|---|---|
+| **Gokken van samengestelde eenheidsprijzen** | Onverklaarde forfaitsommen verhullen of materiaal, arbeid, materieel of onderaannemers uw winst opeten. | **Uitsplitsing van eenheidskosten op assemblageniveau:** Ontleedt elke werkactiviteit in transparante kostendrijvers voor materiaal, arbeid, materieel en onderaanneming. |
+| **Gemiste of ongeprijsde BOQ-regelitems** | Onder inschrijvingsdeadlines van 48 uur glippen niet-gekoppelde klantposten er ongemerkt doorheen en veroorzaken direct verlies op de bouwplaats. | **Realtime tracking van BOQ-naar-assemblage-dekking:** Markeert automatisch geprijsde vs. niet-gekoppelde klantposten (`Waiting for Mapping...`) vóór indiening. |
+| **Verborgen blootstelling aan directe kosten** | Kleine sprongen in beton-, wapenings- of ploegtarieven wissen geruisloos marges over honderden BOQ-regels heen. | **Zichtbaarheid van directe kosten op componentniveau:** Aggregeert de blootstelling over onderliggende resources zodat u uw grootste kostendrijvers binnen enkele seconden ziet. |
+| **Verwarring tussen opslag, overhead en winst** | Het inconsistent toepassen van één vlak percentage leidt tot te laag inschrijven op risicovolle scope of te hoog prijzen van competitieve inschrijvingen. | **Parametrische inschrijvingsprijs- en marge-engine:** Scheidt directe kosten, bouwplaatsoverhead, risicoreservering en doelmarge in overzichtelijke, instelbare regelaars. |
+| **Pijnlijke overdracht van inschrijving naar budget** | Een contract winnen betekent dagen besteden aan het opnieuw typen van inschrijvingsramingen in boekhoudkundige Cost Codes en bouwplaatsbudgetten. | **Geautomatiseerde WBS- en kostencategorie-export:** Vouwt assemblagetotalen weer uit naar Materiaal-, Arbeids-, Materieel- en Onderaannemingsbudgetten, klaar voor Procore WBS-import. |
+| **Elke inschrijving opnieuw vanaf nul opbouwen** | Waardevolle historische prijzen sterven in oude projectmappen in plaats van uw volgende inschrijving sneller en scherper te maken. | **Herbruikbare bouwassemblagebibliotheek:** Slaat gecontroleerde eenheidsprijzrecepten lokaal op zodat elke afgeronde inschrijving uw calculatiesnelheid laat toenemen. |
 
 ---
 
 ## Spreadsheetvoorbeeld
 
-Wilt u de indeling met 12 tabbladen, de assemblagebibliotheek en het inschrijvingsoverzichtsdashboard bekijken voordat u koopt? Bekijk het werkblad rechtstreeks in Google Sheets:
+Wilt u alle 6 tabbladen, de staafbuigstaat-engine (BBS) en het kosten-dashboard bekijken voordat u downloadt? Bekijk het werkblad rechtstreeks in Google Sheets:
 
 **[Bekijk het live spreadsheetvoorbeeld op Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
@@ -57,316 +58,577 @@ Wilt u de indeling met 12 tabbladen, de assemblagebibliotheek en het inschrijvin
 
 ---
 
-## Snelle startworkflow: in 4 eenvoudige stappen van ruwe klant-BOQ naar inschrijvingsoverzicht voor het management
+## Snelle startworkflow: in 4 eenvoudige stappen van ruwe klant-BOQ naar winnende inschrijving
 
-U hoeft geen kostendeskundige met 15 jaar ervaring te zijn of complexe formules te schrijven om verdedigbare commerciële inschrijvingen te produceren. **Elke opzoekregel, assemblageopbouw en margeoverzicht is al vooringebouwd en werkt automatisch bij:**
+U hoeft geen Excel-wizard of senior kostendeskundige te zijn om een audit-klaar inschrijvingsvoorstel te produceren. Elke opzoekregel, assemblage-aggregatie en dynamische-arrayformule is al ingebouwd—**u hoeft niet eens formules met de vulgreep naar beneden door te trekken.**
 
-### Stap 1: stel uw overhead-, productiviteits- en margeregels één keer in (`01_Settings`)
-Voer uw commerciële basisregels in op één centraal beheertabblad:
-- **Overhead- en winstdoelen:** definieer de dekking van bedrijfsoverhead en uw doelnettowinstmarge.
-- **Materiaalescalatie en risicoreservering:** stel expliciete procentuele buffers in voor volatiele materialen (beton, staal, hout, MEP-leveringen).
-- **Regionale arbeidsproductiviteitsfactoren:** kalibreer de productiesnelheden van ploegen op lokale bouwplaatsomstandigheden zonder uw historische kostenbibliotheek te overschrijven.
+### Stap 1: stel uw commerciële prijsregels één keer in (`01_Settings`)
+Voer uw doel **Overhead %**, **Risicoreservering %** en **Doelmarge %** in op één centraal beheertabblad. Wilt u een scherpere prijs testen om concurrenten te verslaan? Wijzig één getal en zie elke BOQ-regel direct herberekenen.
 
-### Stap 2: kopieer en plak ruwe klant-BOQ en opmetingshoeveelheden (`04_Tender_Import`)
-Sla tedere software-onboarding over. Plak ruwe posten rechtstreeks uit inschrijvingsspreadsheets van de klant, hoeveelhedenopmetingsbladen (QTO) of tariefstaten van onderaannemers in het overzichtelijke invoergedeelte.
+### Stap 2: kopieer en plak de Bill of Quantities van uw klant (`04_Tender_Import`)
+Plak de inschrijvingsstaat van de klant rechtstreeks in de BOQ-invoertabel met vier standaardkolommen: **Client Item Number**, **BOQ Description**, **Tender Quantity** en **Unit of Measurement**—waarbij de originele nummering van de klant intact blijft.
 
-### Stap 3: laat de engine assemblages koppelen en eenheidsprijzen berekenen (`05`–`08` Engine-tabbladen)
-Zonder enige handmatige formule-doortrekking voert het werkblad gestructureerde kostentechnische logica uit:
-- Normaliseert inconsistente BOQ-tekst van de klant naar uw gestandaardiseerde interne **assemblages**.
-- Berekent exacte **kosten voor materiaal, arbeid, materieel en onderaannemers** met uw multiplicatoren uit stap 1.
-- Scheidt directe basiskosten van risico, overhead en winst, zodat u uw exacte **break-evenpunt** kent voordat u de inschrijving indient.
-- 👉 [**Test de geautomatiseerde BOQ-assemblagelogica gratis in uw browser**](https://hyvoid.github.io/construction-estimating/)
+### Stap 3: koppel gestandaardiseerde kostenassemblages (`05_Tender_Mapping`)
+Selecteer de bijpassende interne **Assembly ID** voor elke BOQ-regel. De ingebouwde prijsengine (`06_Estimate_Engine`) haalt automatisch de tarieven voor materiaal, arbeid, materieel en onderaanneming uit uw bibliotheek, berekent de directe bouwkosten en past uw overhead-, risico- en margeregels toe—**nul VLOOKUP-foutopsporing.**
 
-### Stap 4: exporteer uw inschrijving, draag over aan de bouwplaats en groei uw kostenbibliotheek (`09`–`12` Uitvoertabbladen)
-- Open `09_Tender_Output` en `12_Dashboard` voor een overzichtelijk, kant-en-klaar commercieel overzicht om met de leiding te bespreken of bij de klant in te dienen.
-- Gebruik `10_Procore_Export` om gewonnen WBS-budgetten overzichtelijk over te dragen aan uw projectmanagementteam.
-- Elke inschrijving die u afrondt voedt `11_History_Repository`—zodat uw tiende inschrijving een fractie van de tijd van uw eerste kost.
+### Stap 4: controleer uw marge en exporteer Procore-klaar WBS-budgetten (`07` & `08`)
+Open **`08_Tender_Dashboard`** om uw exacte minimumprijs, kostenopbouw en brutowinst te verifiëren voordat u de inschrijving indient. Zodra u de opdracht wint, opent u **`07_Procore_Export`** om schone resourcebudgetten op resourceniveau (WBS Code, Cost Code, Cost Category, Original Budget) rechtstreeks over te dragen aan uw bouwplaats- en boekhoudteams.
 
 ---
 
-## Gratis browsercalculator vs. volledige offline Excel-werkbank met 12 tabbladen
+## Gratis online webcalculator vs. volledige offline Excel-werkbank
 
-| Functie | Gratis online webcalculator | **Volledige lokale Excel-werkbank met 12 tabbladen (eenmalige aankoop)** |
+De [**gratis online BOQ-webcalculator voor bouwkosten**](https://hyvoid.github.io/construction-estimating/) is ideaal voor een sandboxtest van 2 minuten in uw browser. Wilt u echte klantinschrijvingen prijzen, uw vertrouwelijke eenheidsprijzen offline beschermen en een permanente bedrijfskostenbibliotheek opbouwen, ga dan over op het volledige lokale Excel-systeem:
+
+| Functie | Gratis online webcalculator | **Volledige lokale Excel-werkbank met 8 tabbladen (eenmalige aankoop)** |
 |---|---|---|
-| **Beste voor** | Snelle sandboxtest van 2 minuten van de BOQ-assemblagelogica | Echte commerciële inschrijvingen en permanente bedrijfscalculatie |
-| **Permanente kosten- en assemblagebibliotheek** | Alleen sessietest | Bouw en bewaar uw eigen doorzoekbare `Cost Library`, `Assembly Library` en `History Repository` |
-| **Klant-BOQ's met honderden regels** | Snelle test voor één inschrijving | Plak volledige inschrijvings-BOQ's met geautomatiseerde koppeling en uitzonderinglijsten |
-| **Modelering van risico, escalatie en marge** | Voorbeeld van de kernberekening | Volledige `08_Risk_Margin`-analysator + `12_Dashboard`-managementsamenvatting |
-| **Projectoverdracht / ERP-export** | — | Speciaal WBS-budgetblad `10_Procore_Export` |
-| **Gegevensprivacy en eigendom** | Browsersessie | **100% offline lokaal `.xlsx`-bestand**—offertes van onderaannemers en marges blijven strikt op uw eigen schijf |
-| **Kostenmodel en garantie** | Gratis browserdemo | **Kleine eenmalige aankoop** (geen SaaS-kosten) · **30 dagen geld-terug-garantie zonder vragen** |
+| **Beste voor** | Snelle test in de browser en het leren van assemblageprijslogica | Echte commerciële en woningbouwinschrijvingen prijzen en projectbudgetten overdragen |
+| **Volledige geautomatiseerde engine met 8 tabbladen** | Alleen interactieve democalculator | Settings, Cost Library, Assembly Factory, BOQ Import, Mapping, Engine, Procore Export & Dashboard |
+| **Permanente herbruikbare kostenbibliotheek** | Wordt gereset in de browser | **Lokaal opslaan en voor altijd laten toenemen** over onbeperkt veel inschrijvingen—nul seatlimieten |
+| **Procore-klaar WBS-budgetexport** | Niet inbegrepen | **Geautomatiseerde uitsplitsing op componentniveau** naar M/L/E/S-kostencategorieën |
+| **Gegevensprivacy en concurrentievoordeel** | Browsersessie | **100% offline `.xlsx`-bestand**—uw leveranciersoffertes en marges raken nooit de cloud |
+| **Kostenmodel** | Gratis voorbeeld | **Kleine eenmalige betaling** vs. $300+/maand enterprise-calculatie-SaaS-abonnementen |
+| **Risicovrij beoordelen** | — | Ondersteund door een **30 dagen geld-terug-garantie zonder vragen** |
 
-> **Klaar om de inschrijvingsvoorbereiding van dagen naar minuten terug te brengen en te stoppen met te laag inschrijven?**
-> 👉 [**Download de complete Excel-werkbank voor kostencalculatie en BOQ met 12 tabbladen (eenmalige aankoop · 30 dagen garantie)**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+> **Klaar om sneller te prijzen, uw marges te beschermen en uw kostendatabase 100% offline te houden?**
+> 👉 [**Download de complete Excel-werkbank voor kostencalculatie en BOQ (eenmalige aankoop · 30 dagen garantie)**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README&utm_content=construction-estimating)
 
 ---
 
 ## Voor wie deze Excel-werkbank voor bouwkostencalculatie is gebouwd
 
-Of u nu uw eerste commerciële inschrijving prijst of de prijsbepaling binnen een druk aannemersteam standaardiseert, deze toolkit koppelt echte sectorrollen aan plug-and-play workflows:
+Gebouwd voor praktisch ingestelde bouwprofessionals die **scherpe, verdedigbare inschrijvingen binnen enkele minuten** willen—zonder de complexiteit van enterprise-software of $3,000+/jaar abonnementskosten:
 
-- **Kleine en middelgrote hoofdaannemers (*betaalbaar alternatief voor enterprise-calculatiesoftware*):** stop met het betalen van duizenden per jaar voor opgeblazen cloudpakketten. Standaardiseer de prijsbepaling van woningbouw, renovaties, commerciële inrichting en civiele inschrijvingen in één offline Excel-bestand.
-- **Junior bouwkostendeskundigen (QS) en beginnende calculators (*QS BOQ-prijssjabloon*):** elimineer de angst voor gemiste scopeposten of verbroken `VLOOKUP`-koppelingen. Prijs inschrijvingen vanaf dag één met de structurele discipline van een ervaren kostendeskundige.
-- **Specialistische onderaannemers (*elektra, loodgieterswerk, HVAC, gipsplaten, beton, civiel*):** zet materiaalopmetingen en uurtarieven van ploegen om in nauwkeurige eenheidsprijsinschrijvingen en bescherm uw marges tegen plotselinge materiaalprijsstijgingen.
-- **Commercieel managers en inschrijvingsdirecteuren (*analysator van inschrijvingsmarge en risico*):** zie uw exacte break-evenkosten, de blootstelling aan onderaannemersoffertes en de risicoreservering in één oogopslag voordat u risicovolle inschrijvingen goedkeurt.
-- **Groeiende aannemers die zich voorbereiden op Procore of ERP:** transformeer rommelige legacyspreadsheets in overzichtelijke WBS-kostencodes, klaar om rechtstreeks in Procore of stroomafwaartse projectbeheerwerkbladen te importeren.
-
----
-
-## Vergelijking: traditionele handmatige inschrijvingsspreadsheets vs. geautomatiseerde calculatiewerkbank
-
-| Operationeel calculatieaspect | Traditionele handmatige Excel-spreadsheets | **Geautomatiseerde werkbank voor bouwkostencalculatie** |
-| --- | --- | --- |
-| **Snelheid van BOQ-prijsbepaling en opmeting** | Calculators zijn dagen bezig met het typen van WBS-codes, het kopiëren van oude assemblages en het doortrekken van formules over duizenden rijen. | **Koppelt klant-BOQ-posten automatisch** aan herbruikbare assemblages; plak ruwe rijen en krijg direct eenheidsprijscalculaties. |
-| **Formule-integriteit en foutmarge** | Groot risico op verbroken `VLOOKUP`-koppelingen, overschreven cellen en stille `SUM`-bereikgaten die de nauwkeurigheid van de inschrijving vernietigen. | **Vooringebouwd berekeningsysteem**—geen handmatig formulewerk of doortrekking met de vulgreep nodig. |
-| **Prijsconsistentie tussen inschrijvingen** | Inschrijvingstotalen schommelen 15%–30% afhankelijk van wie het spreadsheet bouwde. | Legt **gestandaardiseerde eenheidsprijzenbibliotheken**, ploegproductiviteitsmultiplicatoren en bedrijfsopslagregels vast. |
-| **Behoud van historische prijzen** | Waardevolle leveranciersoffertes en eenheidsprijzen verdwijnen na indiening in vergeten projectmappen. | Elke inschrijving groeit door in `11_History_Repository` en bouwt een permanente **bedrijfskostendatabank** op. |
-| **Duidelijkheid over marge, overhead en risico** | Calculators verstoppen risico in opgeblazen eenheidsprijzen, waardoor uw werkelijke minimumprijs tijdens onderhandelingen onzichtbaar blijft. | **Expliciete commerciële scheiding** van directe basiskosten, risico-escalatie, overheaddekking en nettomarge. |
-| **Overdracht na winst aan de uitvoering** | Projectmanagers verspillen dagen aan het opnieuw invoeren van gewonnen inschrijvingen in budget- en cashflowtrackers. | Levert overzichtelijke **WBS-gecodeerde budgettabellen** op, klaar voor Procore of directe kostenbeheersing op de bouwplaats. |
+- **Kleine en middelgrote hoofdaannemers (GC Bid Sheet Template):** prijs woningbouw-, renovatie- en commerciële inschrijvingen sneller met een herhaalbare eenheidsprijzenbibliotheek in plaats van voor elke RFP opnieuw spreadsheets te bedenken.
+- **Junior calculators en eerste keer inschrijvers (Beginner Construction Estimating Tool):** elimineer formulefouten en produceer direct inschrijvingen op seniorniveau met een begeleide, voorgebouwde Excel-engine.
+- **Bouwkostendeskundigen (QS) en kostenconsultants (BOQ Pricing & Tender Analysis Workbench):** koppel uiteenlopende klant-BOQ-formaten aan gestandaardiseerde interne assemblages, audit directe kostendrijvers en voer gevoeligheidsanalyses uit op overhead en risico.
+- **Specialistische onderaannemers — beton, MEP, gipsplaten en civiel (Trade Unit Rate Calculator):** bouw herbruikbare ploeg- en materiaalassemblages (bijv. 150 mm betonvloer, timmerwerkpackages, leidingtracés) zodat het prijzen van terugkerende scope minuten in plaats van uren kost.
+- **Preconstruction managers en project controlteams (Procore Budget Import Workflow):** bouw een brug tussen inschrijvingscalculatie en actieve kostenbeheersing op de bouwplaats door samengestelde BOQ-inschrijvingen automatisch om te zetten in gestructureerde WBS Cost Codes en resourcebudgetten.
+- **Freelance calculators en bouwanalisten (Offline Estimating Software Alternative):** lever schone, transparante inschrijvingsuitsplitsingen vanuit een draagbaar lokaal `.xlsx`-bestand zonder enkele software-lock-in.
 
 ---
 
-## De bedrijfslogica en methodiek: 4 fatale blinde vlekken bij inschrijvingen die deze werkbank elimineert
+## Inschrijvingsscenario's met hoge urgentie: wanneer u deze werkbank nu nodig heeft
 
-Voor beginners lijkt bouwkostencalculatie op simpele optelling: *Materialen + Arbeid + Materieel + Opslag = Inschrijvingsprijs*. In werkelijkheid is het behandelen van inschrijvingen als simpele optelling de belangrijkste reden waarom aannemers opdrachten winnen maar geld verliezen op de bouwplaats. Deze werkbank neemt automatisch vier kernvoorzieningen uit de kostentechniek op:
+- **Strakke inschrijvingsdeadlines van 48 uur:** een klant mailt een onbekende BOQ-spreadsheet met 200 regels die binnen twee dagen moet worden ingediend, en u moet die nauwkeurig prijzen zonder vanaf een leeg werkblad te beginnen.
+- **Verspreide offertes omzetten in een echte kostenbibliotheek:** u heeft materiaalprijzen en onderaannemersoffertes verspreid over oude projectmappen en wilt een eenvoudige, permanente bedrijfsdatabase met eenheidsprijzen.
+- **Audit-klaar commerciële goedkeuringen:** vóór het indienen van een inschrijving willen directeuren of geldschieters de exacte directe kosten vs. overhead, risicoreservering en nettomarge zien—niet één gegokt forfait.
+- **Schone overdracht van inschrijving naar bouwplaats:** u heeft de inschrijving gewonnen en moet samengestelde inschrijvingstarieven uitsplitsen naar arbeids-, materiaal-, materieel- en onderaannemingsbudgetten voor Procore of job-cost tracking.
 
-1. **Blinde vlek #1 — De "klant-BOQ-val" (opgelost via scoopenormalisatie):** elke klant schrijft zijn BOQ anders—de ene combineert beton, staalvezelgewapend beton en bekisting in één post, de andere splitst ze in drie. Post voor post prijzen nodigt uit tot dubbeltellingen of fatale omissies. Dit werkblad koppelt rommelige klantomschrijvingen aan uw gestandaardiseerde interne **Work Breakdown Structure (WBS)** voordat er ook maar één dollar wordt berekend.
-2. **Blinde vlek #2 — Ruwe materialen prijzen in plaats van complete werkpakketten (opgelost via assemblagegebaseerde calculatie):** 100 m² gipsplaten kopen is niet de kost van het installeren ervan. Het vergeten van bevestigingsmiddelen, kit, afvalfactoren, stellingmateriaal en opruiming creëert direct een **margelek van 5%–12%**. Assemblages bundelen materialen, afval, ploeguren, materieel en onderaannemingsposten in één complete, herbruikbare werkeenheid.
-3. **Blinde vlek #3 — Risico verstoppen in opgeblazen eenheidsprijzen (opgelost via commerciële scheiding):** willekeurig 10% toevoegen aan hout- of arbeidstarieven maakt onderhandelen blind—als de klant om 5% korting vraagt, weet u niet meer waar uw werkelijke break-evenpunt ligt. Dit model isoleert **directe basiskosten** van **productiviteit, escalatie, risicoreservering, overhead en nettowinst**, zodat u onderhandelt met 100% wiskundige zekerheid.
-4. **Blinde vlek #4 — Ramingen behandelen als wegwerpbare bestanden (opgelost via institutioneel kostengeheugen):** de meeste bedrijven maken een inschrijving af, slaan die op in een map en beginnen volgende maand opnieuw vanaf nul. Hier voedt elke gevalideerde prijs en assemblage uw **History Repository**—waardoor elke toekomstige inschrijving sneller, scherper en winstgevender wordt.
-
----
-
-## Waarom ik dit heb gebouwd: het probleem van het "institutionele calculatiegeheugen" oplossen
-
-Na het beoordelen van honderden bouwinschrijvingen samen met commerciële calculatieteams viel één patroon op: **de meeste aannemers verliezen inschrijvingen niet omdat ze dure software missen—ze verliezen marge omdat ze institutioneel calculatiegeheugen missen.**
-
-Bij meer dan 80% van de kleine en middelgrote aannemers- en QS-bedrijven verloopt de inschrijvingsvoorbereiding nog steeds via een stressvolle, kwetsbare handmatige lus:
-
-```text
-New Client BOQ Received
-      ↓
-Hunt Through Old Project Folders & Siloed Excel Files
-      ↓
-Copy-Paste an Old Estimate & Overwrite Unit Prices by Hand
-      ↓
-Accidentally Break Formulas or Miss Scope Differences
-      ↓
-Submit Bid With Hidden Margin Erosion & Unpriced Risks
-```
-
-Ik heb deze Excel-werkbank met 12 tabbladen gebouwd om die cirkel voorgoed te doorbreken—kleine teams en nieuwe calculators een snel, permanent, offline systeem bieden dat chaotische inschrijvingsspreadsheets omzet in rustige, herhaalbare commerciële beslissingen.
+*Scoopenotitie:* deze werkbank is een flexibele calculatie- en commerciële beslissingsengine—geen 3D BIM-hoeveelhedenopmetingstool of volledige ERP. Ze sluit naadloos aan waar uw hoeveelhedenopmeting eindigt en zet ruwe hoeveelheden om in winnende, winstgevende inschrijvingen.
 
 ---
 
-## Over Theseus Workshop — plug-and-play offline Excel-beslissingstoolkits
+## Legacy-spreadsheets vs. geautomatiseerde BOQ-calculatiewerkbank
 
-**Theseus Workshop** bouwt lichtgewicht, betaalbare, lokaal opgeslagen Excel-beslissingstoolkits voor praktisch ingestelde aannemers, calculators, QS-professionals en bedrijfsvoerders die **commerciële duidelijkheid op managementsniveau binnen minuten willen—zonder opgeblazen enterprise-software of terugkerende SaaS-abonnementen**.
+| Operationele calculatie-uitdaging | Handmatige Excel-spreadsheets (hoog risico op te laag inschrijven) | **Construction Estimating & BOQ Workbench (geautomatiseerde oplossing)** |
+|---|---|---|
+| **Consistentie van historische eenheidsprijzen** | Vergelijkbare items worden per inschrijving verschillend geprijsd door gokken en verouderde gekopieerde bestanden. | **Gestandaardiseerde assemblagebibliotheek:** hergebruikt elke keer gevalideerde verbruiksfactoren voor materiaal, arbeid, materieel en onderaanneming. |
+| **Transparantie van samengestelde eenheidsprijzen** | Ondoorzichtige forfaitsommen verhullen ploegproductiviteit en prijssprongen van leveranciers. | **Volledige zichtbaarheid van resourcekosten:** elke assemblage bewaart exacte componentdrijvers en bijdragen aan de eenheidskosten. |
+| **Normalisatie van klant-BOQ-formaten** | Verschillende klantnummering dwingt uren handmatig herformatteren en verbroken `VLOOKUP`-koppelingen af. | **Geautomatiseerde BOQ-naar-assemblagekoppeling:** houdt de klantnummering intact en koppelt op een schone manier aan interne assemblages. |
+| **Beheersing van overhead, risico en marge** | Opslagpercentages verdwijnen in verspreide celformules, wat kostbare fouten bij last-minute revisies veroorzaakt. | **Gecentraliseerde parametrische prijsengine:** pas overhead, risico of marge aan in één cel voor directe herberekening van de hele inschrijving. |
+| **Overdracht van inschrijving naar budget (WBS)** | Projectmanagers besteden dagen aan het handmatig uitsplitsen van gewonnen totalen naar CSI/WBS Cost Codes. | **Geautomatiseerde kostenontledingsexport:** vouwt assemblageramingen uit naar Procore-klaar WBS-items en M/L/E/S-budgetten. |
+| **Behoud van bedrijfscalculatieassets** | Calculatiekennis verdwijnt in oude mappen of vertrekt bij personeelswisselingen. | **Herbruikbare lokale kostendatabase:** elke gecontroleerde assemblage blijft lokaal opgeslagen als continu groeiend bedrijfsasset. |
 
-- 📥 [**Download deze complete Excel-werkbank voor kostencalculatie en BOQ met 12 tabbladen**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+---
+
+## De bedrijfslogica en methodiek: 4 verborgen blinde vlekken bij inschrijvingen verhelpen
+
+U heeft geen bouwkostendiploma nodig om projecten veilig te prijzen. Dit werkblad automatiseert vier bewezen kostentechnische regels zodat zelfs beginners de inschrijvingsvallen vermijden die geruisloos winst wegtrekken:
+
+1. **Blinde vlek: prijzen op basis van "buikgevoel"-forfaitsommen → opgelost door *resourcegebaseerde kostencalculatie*:** het opsplitsen van elke taak in **Materialen, Arbeid, Materieel en Onderaannemers** toont onmiddellijk wat er gebeurt wanneer beton 12% stijgt of ploegtarieven omhoog gaan—zodat u slimmer onderhandelt en uw bodemlijn beschermt.
+2. **Blinde vlek: elke inschrijving als eenmalig project behandelen → opgelost door *assemblagegebaseerde calculatie*:** het bundelen van terugkerende resourceverhoudingen in herbruikbare **bouwassemblages** vermindert repetitief calculatiewerk met 60%–80%, waardoor elke nieuwe inschrijving sneller en consistenter wordt dan de vorige.
+3. **Blinde vlek: kosten, risico en winst door elkaar halen → opgelost door *parametrische inschrijvingsprijzen*:** door **Directe kosten**, **Overhead**, **Risicoreservering** en **Doelmarge** in aparte regelaars te houden, voert u direct "wat nu als"-scenario's uit en kent u uw exacte minimumprijs vóór het inschrijven.
+4. **Blinde vlek: de kloof tussen inschrijving en budget → opgelost door *geautomatiseerde kostenontleding*:** gewonnen BOQ-items automatisch weer uitsplitsen naar M/L/E/S-resourcebudgetten verbindt **het winnen van de inschrijving** vanaf dag één rechtstreeks aan **het beheersen van de bouwplaatscashflow en de maandafsluiting-CVR**.
+
+---
+
+## Waarom ik dit herbruikbare bouwinschrijvingssysteem heb gebouwd
+
+De meeste bouwteams beschikken al over waardevolle historische prijsgegevens uit eerdere projecten—het echte probleem is dat oude offertes niet automatisch herbruikbare calculatiekennis zijn. Een afgerond project bevat honderden leveranciersfacturen en ploegtarieven, terwijl elke nieuwe inschrijving aankomt als een klantspecifieke BOQ met compleet andere omschrijvingen en nummering.
+
+Zonder een schone brug tussen die twee werelden vallen teams terug op repetitieve handmatige spreadsheets, ondoorzichtige samengestelde tarieven en pijnlijke budgetherwerking na contracttoewijzing.
+
+Ik heb dit werkblad rond één praktisch principe gebouwd: **scheid herbruikbare bouwkostenassemblages van klantspecifieke BOQ-bladen, automatiseer alle koppelingen en margewiskunde op de achtergrond, en laat aannemers focussen op het winnen van winstgevend werk in plaats van op Excel-formules te vechten.**
+
+---
+
+## Over Theseus Workshop — lichtgewicht offline Excel-beslissingstoolkits
+
+**Theseus Workshop** bouwt betaalbare, offline-first Excel-beslissingswerkbanken voor praktisch ingestelde aannemers, calculators, QS-teams en bedrijfsvoerders die **analytische duidelijkheid op managementsniveau willen zonder opgeblazen SaaS-abonnementen**.
+
+- 📥 [**Download deze complete Excel-werkbank voor kostencalculatie en BOQ (eenmalige aankoop · 30 dagen garantie)**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README&utm_content=construction-estimating)
 - 🎁 [**Gratis beginnen: maandelijkse Construction CVR & Accruals Excel-sjabloon ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink)
-- 🧰 [**Verken de volledige Theseus Workshop-toolkitbibliotheek (theseusworkshop.com)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
+- 🧰 [**Verken alle plug-and-play Excel-toolkits op Theseus Workshop (theseusworkshop.com)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
 ## Technische details
 
 <details>
-<summary><strong>Voor technische beoordelaars, Excel-specialisten en medewerkers (architectuur met 12 tabbladen, 3 calculatievallen, case-studie ziekenhuistender, formularereferentie en validatieregels)</strong></summary>
+<summary><strong>Voor technische beoordelaars, Excel-specialisten en bouwkostencalculatie-medewerkers (8-bladarchitectuur, 3 inschrijvingsvallen, doorgerekend voorbeeld, dynamische-arrayformules en validatieregels)</strong></summary>
 
 ### Werkbladarchitectuur
 
-| Blad                 | Functie                       |
-| --------------------- | ------------------------------ |
-| `01_Settings`           | Globale calculatie-aannames  |
-| `02_Cost_Library`       | Gestandaardiseerde kostendatabank     |
-| `03_Assembly_Library`   | Herbruikbare calculatie-assemblages |
-| `04_Tender_Import`      | Ruwe inschrijvingsgegevens                |
-| `05_Tender_Mapping`     | BOQ-normalisatie en -koppeling  |
-| `06_Assembly_Builder`   | Assemblage-creatie-engine       |
-| `07_Estimate_Engine`    | Kostenberekeningen              |
-| `08_Risk_Margin`        | Risico- en prijsanalyse      |
-| `09_Tender_Output`      | Inschrijvingsproducten            |
-| `10_Procore_Export`     | Budget-exportstructuren       |
-| `11_History_Repository` | Bedrijfscalculatiekennis |
-| `12_Dashboard`          | Managementrapportage           |
+Het werkblad is opgebouwd rond een gecontroleerde gegevensstroom:
+
+**Systeemconfiguratie → Kostenbibliotheek → Assemblagebibliotheek → Inschrijvingskoppeling → Calculatie-engine → Uitvoer**
+
+De architectuur scheidt brongegevens, herbruikbare calculatielogica, klantspecifieke koppeling, prijsberekeningen en stroomafwaartse rapportage.
+
+| Blad | Module | Primaire verantwoordelijkheid | Gegevensrol |
+|---|---|---|---|
+| `01_Settings` | Systeemconfiguratie | Beheert overhead-, risico- en margeparameters. | Handmatige invoer |
+| `02_Cost_Library` | Gestandaardiseerde kostendatabase | Slaat gestandaardiseerde tarieven voor materiaal, arbeid, materieel en onderaanneming op. | Handmatige invoer + berekend totaal |
+| `03_Assembly_Library` | Assemblagefabriek | Combineert Cost Codes en verbruiksfactoren tot herbruikbare bouwassemblages. | Handmatige invoer + berekende componentgegevens |
+| `04_Tender_Import` | BOQ-invoer | Bewaart de originele BOQ-postnummers, omschrijvingen, hoeveelheden en eenheden van de klant. | Handmatige invoer |
+| `05_Tender_Mapping` | BOQ-naar-assemblagekoppeling | Verbindt klantinschrijvingsitems met interne Assembly ID's. | Geïmporteerde gegevens + handmatige toewijzing + berekende tarieven |
+| `06_Estimate_Engine` | Prijsengine | Berekent directe kosten, overhead, risicoreservering, marge en verkoopprijzen. | Formulegegenereerd |
+| `07_Procore_Export` | Budget-export | Vouwt assemblagecomponenten uit naar budgetrecords per Cost Code en kostencategorie. | Formulegegenereerd |
+| `08_Tender_Dashboard` | Beslissingsdashboard | Presenteert inschrijvingstotalen, brutomarge en kostenopbouw. | Rapportage-uitvoer |
 
 #### Gegevensstroom
 
 ```text
-Tender Import
-        ↓
-Tender Mapping
-        ↓
-Assembly Builder
-        ↓
-Cost Library
-        ↓
-Estimate Engine
-        ↓
-Risk/Margin
-        ↓
-Tender Output
-        ↓
-Procore Export
+01_Settings
+     │
+     ▼
+02_Cost_Library
+     │
+     ▼
+03_Assembly_Library
+     │
+     ├─────────────────────────────┐
+     ▼                             │
+04_Tender_Import                   │
+     │                             │
+     ▼                             │
+05_Tender_Mapping ◄────────────────┘
+     │
+     ├──────────────────────┐
+     ▼                      ▼
+06_Estimate_Engine     07_Procore_Export
+     │                      │
+     ▼                      ▼
+08_Tender_Dashboard    Procore Budget Import
 ```
+
+#### Architectuurprincipes
+
+1. **Scheid standaardkosten van klantspecifieke hoeveelheden:** de Cost Library slaat herbruikbare eenheidsprijzen op; de Tender Import slaat klantspecifieke BOQ-hoeveelheden op, verbonden via de Assembly Library- en Tender Mapping-lagen.
+2. **Gebruik assemblages als calculatie-interface:** een bouwactiviteit wordt vertegenwoordigd door een Assembly ID met meerdere onderliggende kostencomponenten en verbruiksfactoren.
+3. **Houd prijsaannames gecentraliseerd:** `01_Settings` vormt het enige beheerpunt voor overhead-, risico- en margeparameters.
+4. **Behoud kostenherleidbaarheid op componentniveau:** `06_Estimate_Engine` berekent inschrijvingsverkoopprijzen, terwijl `07_Procore_Export` de onderliggende directe componentkosten reconstrueert in plaats van samengestelde assemblagetarieven te exporteren.
+5. **Scheid calculatie-uitvoer van brongegevens:** dashboards en exports verbruiken berekende resultaten zonder handmatige herstructurering van bronrecords.
+
+#### Afhankelijkheids- en validatiestroom
+
+| Fase | Afhankelijkheid | Validatiefocus |
+|---|---|---|
+| Cost Library | Unieke Cost Codes | Dubbele codes, ontbrekende omschrijvingen, ongeldige tarieven |
+| Assembly Library | Bestaande Cost Codes | Onbekende componentcodes, ontbrekende verbruiksfactoren |
+| Tender Import | Klant-BOQ | Ontbrekende postnummers, omschrijvingen, hoeveelheden en eenheden |
+| Tender Mapping | Geldige Assembly ID's | Niet-gekoppelde BOQ-items en ongeldige assemblagetoewijzingen |
+| Estimate Engine | Koppeling + Settings | Ontbrekende koppelingen, ongeldige prijsparameters, nulhoeveelheden |
+| Procore Export | Gekoppelde assemblages + kostenbibliotheek | Consistentie van Cost Codes en classificatie van kostencategorieën |
+| Dashboard | Voltooid estimate | Reconciliatie van totalen en kostenopbouw |
+
+### Belangrijk onderscheid in het gegevensmodel
+
+| Niveau | Object | Betekenis |
+|---|---|---|
+| Componentniveau | Cost Code | De gestandaardiseerde kosten van één materiaal-, arbeids-, materieel- of onderaannemingsresource. |
+| Assemblageniveau | Assembly ID | Een herbruikbare bouwactiviteit bestaande uit meerdere kostencomponenten en verbruiksfactoren. |
+
+Illustratief assemblagevoorbeeld (150 mm gewapende betonvloer):
+
+| Component | Verbruik per $\text{m}^2$ | Eenheidsprijs | Uitgebreide kosten |
+|---|---:|---:|---:|
+| Beton | $0.15\text{ m}^3$ | $150.00 / $\text{m}^3$ | $22.50 |
+| Wapening | $0.012\text{ t}$ | $1,200.00 / t | $14.40 |
+| Bekisting | $1.00\text{ m}^2$ | $18.00 / $\text{m}^2$ | $18.00 |
+| Arbeid | $0.35\text{ hr}$ | $35.00 / hr | $12.25 |
+| Pompen | $0.15\text{ m}^3$ | $25.00 / $\text{m}^3$ | $3.75 |
+| **Directe kosten van de assemblage** | | | **$70.90 / $\text{m}^2$** |
+
+*Illustratief assemblagevoorbeeld. Werkelijke tarieven en verbruiksfactoren moeten worden vastgesteld op basis van projectspecificaties, historische gegevens en lokale marktomstandigheden.*
 
 ---
 
-### Drie vallen die zelfs ervaren calculators te pakken nemen
+### Drie vallen die zelfs ervaren bouwcalculators te pakken nemen
 
-#### Val 1 — Historische ramingen hergebruiken zonder scoopenormalisatie
+#### Val 1: een assemblagetarief behandelen als directe resourcekosten
 
-Er is een besluit genomen: *gebruik project A als basis voor project B*, op de onopgemerkte aanname dat de scoopcategorieën identiek waren:
+**De beslissing:** een historisch eenheidstarief hergebruiken voor een nieuw inschrijvingsitem.
 
-| Historisch | Nieuwe inschrijving |
-| ---------- | ---------- |
-| Uitgraving | Grondwerken |
-| Constructief | Beton   |
-| Installaties   | MEP        |
+**Het verborgen probleem:** het historische tarief is een samengestelde bouwassemblage, geen individuele resourceprijs. Materiaalhoeveelheden, arbeidsbehoeften, materieelverbruik en onderaannemingsbijdragen kunnen onder de nieuwe specificatie afwijken.
 
-**Resultaat:** 18% van de kosten werd weggelaten, omdat de terminologie van klantinschrijvingen zelden overeenkomt met de interne operationele definities.
-
-**Gecorrigeerde workflow:** `Tender Item → Scope Mapping → Assembly Matching → Cost Library` — herstelt scoopevolledigheid en verkleint de ramingafwijking aanzienlijk.
+| Aanpak | Calculatieresultaat |
+|---|---|
+| Onjuist | Het historische tarief van $70.90/$\text{m}^2$ toepassen zonder de samenstelling te controleren. |
+| Gecorrigeerd | Beoordeel eerst de beton-, wapenings-, bekistings-, arbeids- en pomp hoeveelheden tegen de nieuwe specificatie voordat u hergebruikt. |
 
 <details>
-<summary>Formulelogica</summary>
+<summary>Berekeningsreferentie — componentkosten van de assemblage</summary>
 
 ```excel
-=XLOOKUP(Tender_Item,
-Mapping_Table[Tender],
-Mapping_Table[Assembly])
-
-=SUMIFS(Costs[Amount],
-Costs[Assembly],
-Current_Assembly)
+Extended Cost = Usage Factor * Component Unit Rate
+Assembly Base Rate = SUM(Extended Cost)
 ```
+
+Opzoeken van componenttarieven uit `02_Cost_Library`:
+
+```excel
+=XLOOKUP(
+    C2:INDEX(C:C,COUNTA(C:C)),
+    '02_Cost_Library'!A2:A10000,
+    '02_Cost_Library'!H2:H10000,
+    0
+)
+```
+
+</details>
+
+#### Val 2: opslag verwarren met winstmarge
+
+**De beslissing:** de directe bouwkosten verhogen met één procentpunt en aannemen dat het resulterende bedrag de beoogde winst vertegenwoordigt.
+
+**Het verborgen probleem:** overhead, risicoreservering en marge zijn afzonderlijke prijscomponenten. Het toepassen van marge op de verkeerde kostenbasis verandert de uiteindelijke verkoopprijs.
+
+Stel Directe kosten = $70,900, Overhead = 10%, Risico = 5%, Doelmarge = 12%:
+
+| Berekening | Bedrag |
+|---|---:|
+| Directe kosten | $70,900.00 |
+| Overhead (10% van directe kosten) | $7,090.00 |
+| Risicoreservering (5% van directe kosten) | $3,545.00 |
+| Subtotaal vóór marge | $81,535.00 |
+| Marge (12% van subtotaal) | $9,784.20 |
+| **Uiteindelijke verkoopprijs** | **$91,319.20** |
+
+<details>
+<summary>Berekeningsreferentie — inschrijvingsprijzen</summary>
+
+```excel
+Overhead Amount = Base Cost Total * Overhead Rate
+Risk Allowance = Base Cost Total * Risk Rate
+Subtotal Before Margin = Base Cost Total + Overhead Amount + Risk Allowance
+Margin Amount = Subtotal Before Margin * Margin Rate
+Final Sell Price = Subtotal Before Margin + Margin Amount
+```
+
+Wiskundig uitgedrukt:
+
+$$\text{SellPrice} = \text{DirectCost} \times (1 + \text{OverheadRate} + \text{RiskRate}) \times (1 + \text{MarginRate})$$
+
+*Let op: dit is een sequentieel opslagmodel; het margebedrag wordt toegepast op het subtotaal vóór marge in plaats van direct als brutomarge op de uiteindelijke omzet.*
+
+</details>
+
+#### Val 3: samengestelde assemblagekosten exporteren in plaats van projectkostcomponenten
+
+**De beslissing:** het uiteindelijke samengestelde assemblagetarief rechtstreeks overdragen naar het projectbudget.
+
+**Het verborgen probleem:** een samengesteld tarief is nuttig voor het inschrijven, maar verliest de scheiding op resourceniveau (beton, staal, bekisting, arbeid, pompen) die nodig is voor job-cost tracking.
+
+Voor $1,000\text{ m}^2$ aan vloerwerk zouden de oorspronkelijke budgetten op componentniveau als volgt moeten zijn:
+
+| Kostcomponent | Oorspronkelijk budget |
+|---|---:|
+| Beton | $22,500.00 |
+| Wapening | $14,400.00 |
+| Bekisting | $18,000.00 |
+| Arbeid | $12,250.00 |
+| Pompen | $3,750.00 |
+| **Totaal** | **$70,900.00** |
+
+<details>
+<summary>Berekeningsreferentie — budgetexport op componentniveau</summary>
+
+```excel
+Component Budget = Tender Quantity * Usage Factor * Component Unit Rate
+```
+
+Bedoelde Cost Category-codes:
+
+| Cost Category | Code |
+|---|---|
+| Materiaal | M |
+| Arbeid | L |
+| Materieel | E |
+| Onderaanneming | S |
+| Overig | O |
+
+*Let op: de huidige blueprint-formule classificeert componenten in M/L/E/S met behulp van een prioriteitsgebaseerde controle; indien nodig kan een expliciete O-categorieregel worden toegevoegd.*
 
 </details>
 
 ---
 
-#### Val 2 — Aannemen dat historische productiviteit geldig blijft
+### Voorbeeldscenario: het prijzen van een 150 mm gewapende betonvloer ($1,000\text{ m}^2$)
 
-Er is besloten om de arbeidstarieven en ploegproductie van vorig jaar te hergebruiken, uitgaande van constante productiviteit:
+#### 1. Ruwe invoer
 
-| Jaar     | Productiviteit |
-| -------- | ------------ |
-| Vorige   | 8.0 m²/hr    |
-| Huidige  | 5.9 m²/hr    |
+| Invoer | Waarde |
+|---|---:|
+| BOQ-item | 1.1 |
+| Omschrijving | 150 mm gewapende betonvloer |
+| Tender Quantity | $1,000\text{ m}^2$ |
+| Assembly ID | ASM-SLAB-150 |
+| Overhead / Risico / Margetarief | 10% / 5% / 12% |
 
-**Resultaat:** De arbeidskosten waren met 35% te laag ingeschat.
+#### 2. Directe kosten en inschrijvingsprijssoverzicht
 
-**Gecorrigeerde workflow:** `Historische productiviteit × aanpassingsfactor × huidige omstandigheden` — kalibreert arbeidsramingen op de werkelijke bouwplaatsomstandigheden.
+$$\text{Direct Cost} = 1,000 \times \$70.90 = \$70,900.00$$
 
-<details>
-<summary>Formulelogica</summary>
+| Prijscomponent | Berekening | Bedrag |
+|---|---|---:|
+| Directe kosten | $1,000 \times \$70.90$ | $70,900.00 |
+| Overhead | $\$70,900 \times 10\%$ | $7,090.00 |
+| Risico | $\$70,900 \times 5\%$ | $3,545.00 |
+| Marge | $\$81,535 \times 12\%$ | $9,784.20 |
+| **Verkoopprijs** | | **$91,319.20** |
 
-```excel
-=Base_Productivity * Adjustment_Factor
+$$\text{Unit Sell Rate} = \frac{\$91,319.20}{1,000} = \$91.3192/\text{m}^2$$
 
-=Quantity / Adjusted_Productivity
-```
-
-</details>
-
----
-
-#### Val 3 — Marge toepassen vóór risico
-
-Er is besloten om een doelmarge van 10% rechtstreeks toe te passen op een basiskost van $10M (`Bid = $11M`), waarbij $1.5M aan onerkend projectrisico over het hoofd werd gezien.
-
-**Gecorrigeerde workflow:** `Basiskosten + risico + reservering + marge` → `($10M + $1.5M) × (1 + 10%) = $12.65M`.
-
-<details>
-<summary>Formulelogica</summary>
-
-```excel
-=Direct_Cost + Risk + Contingency
-
-=Adjusted_Cost * (1 + Margin)
-```
-
-</details>
-
----
-
-### Voorbeeldscenario — inschrijving voor ziekenhuisuitbreiding
-
-| Invoerpost          | Waarde |
-| ------------------- | ----: |
-| Inschrijvingswaarde        |  $48M |
-| BOQ-posten           | 1,240 |
-| Historische projecten |    42 |
-| Bestaande assemblages |   680 |
-
-**Geautomatiseerde verwerking:** `1,240 BOQ-posten → 892 automatisch gekoppeld (278 assemblage-overeenkomsten) → 348 geïsoleerd voor gerichte handmatige controle`.
-
-| Kostcomponent |  Kosten  |
-| -------------- | -----: |
-| Materialen      | $19.4M |
-| Arbeid         | $11.2M |
-| Materieel      |  $5.1M |
-| Onderaannemers |  $7.8M |
-| Overhead      |  $1.6M |
-| Risico           |  $1.9M |
-
-**Eindoverzicht van de inschrijving:** Directe kosten + overhead + risico = **$45.1M** → marge (8%) → definitieve inschrijvingsprijs = **$48.7M**. In plaats van drie weken te besteden aan het herbouwen van oude bestanden, richt de calculator zich uitsluitend op scope-uitzonderingen en commerciële strategie.
+Dit geeft de calculator drie glasheldere cijfers vóór indiening: **$70.90/$\text{m}^2$** (directe kosten), **$81.535/$\text{m}^2$** (break-even vóór marge, inclusief overhead en risico) en **$91.3192/$\text{m}^2$** (uiteindelijk inschrijvingsverkooptarief).
 
 ---
 
 ### Formularereferentie
 
+De volgende formules documenteren de berekeningslogica uitgaande van ondersteuning voor dynamische arrays in Microsoft 365 / Excel 2021+.
+
 <details>
-<summary>Assemblagekoppeling</summary>
+<summary>01 — Cost Library: berekening van resourcekosten (`02_Cost_Library!H2`)</summary>
 
 ```excel
-XLOOKUP()
-INDEX/MATCH()
-TEXTAFTER()
-TEXTBEFORE()
+=LET(
+    active_rows,
+        FILTER(A2:G10000,A2:A10000<>""),
+    material,
+        CHOOSECOLS(active_rows,4),
+    labor,
+        CHOOSECOLS(active_rows,5),
+    equip,
+        CHOOSECOLS(active_rows,6),
+    subcon,
+        CHOOSECOLS(active_rows,7),
+    material+labor+equip+subcon
+)
 ```
 
 </details>
 
 <details>
-<summary>Ramingberekening</summary>
+<summary>02 — Assembly Library: ophalen en opslaan van componentkosten (`03_Assembly_Library`)</summary>
+
+**Componenteenheid — `E2`**
 
 ```excel
-SUMIFS()
-SUMPRODUCT()
-LET()
-LAMBDA()
+=XLOOKUP(
+    C2:INDEX(C:C,COUNTA(C:C)),
+    '02_Cost_Library'!A2:A10000,
+    '02_Cost_Library'!C2:C10000,
+    "Unknown Code"
+)
+```
+
+**Componenteenheidsprijs — `F2`**
+
+```excel
+=XLOOKUP(
+    C2:INDEX(C:C,COUNTA(C:C)),
+    '02_Cost_Library'!A2:A10000,
+    '02_Cost_Library'!H2:H10000,
+    0
+)
+```
+
+**Uitgebreide kosten — `G2`**
+
+```excel
+=D2:INDEX(D:D,COUNTA(D:D))*F2#
 ```
 
 </details>
 
 <details>
-<summary>Risicoanalyse</summary>
+<summary>03 — Tender Mapping: BOQ-naar-assemblageberekening (`05_Tender_Mapping`)</summary>
+
+**Ophalen van inschrijvingsinvoer — `A2`**
 
 ```excel
-IF()
-IFS()
-CHOOSE()
-SWITCH()
+=FILTER(
+    '04_Tender_Import'!A2:C10000,
+    '04_Tender_Import'!A2:A10000<>""
+)
 ```
+
+**Assemblageomschrijving — `E2`**
+
+```excel
+=XLOOKUP(
+    D2:INDEX(D:D,COUNTA(D:D)),
+    '03_Assembly_Library'!A2:A10000,
+    '03_Assembly_Library'!B2:B10000,
+    "Waiting for Mapping...",
+    0
+)
+```
+
+**Assemblagebasistarief — `F2`**
+
+```excel
+=MAP(
+    D2:INDEX(D:D,COUNTA(D:D)),
+    LAMBDA(
+        assembly_id,
+        SUMIFS(
+            '03_Assembly_Library'!G2:G10000,
+            '03_Assembly_Library'!A2:A10000,
+            assembly_id
+        )
+    )
+)
+```
+
+**Totale basiskosten — `G2`**
+
+```excel
+=C2:INDEX(C:C,COUNTA(C:C))*F2#
+```
+
+</details>
+
+<details>
+<summary>04 — Estimate Engine: berekening van overhead, risico en marge (`06_Estimate_Engine`)</summary>
+
+**Berekeningsinvoer — `A2`**
+
+```excel
+=CHOOSECOLS(
+    FILTER(
+        '05_Tender_Mapping'!A2:G10000,
+        '05_Tender_Mapping'!A2:A10000<>""
+    ),
+    1,
+    7
+)
+```
+
+**Prijscalculatie — `C2`**
+
+```excel
+=LET(
+    base_costs,
+        B2:INDEX(B:B,COUNTA(B:B)),
+    overhead_rate,
+        XLOOKUP("Overhead Rate",'01_Settings'!A2:A100,'01_Settings'!B2:B100,0),
+    risk_rate,
+        XLOOKUP("Risk Rate",'01_Settings'!A2:A100,'01_Settings'!B2:B100,0),
+    margin_rate,
+        XLOOKUP("Margin Rate",'01_Settings'!A2:A100,'01_Settings'!B2:B100,0),
+    overhead_amt,
+        base_costs*overhead_rate,
+    risk_amt,
+        base_costs*risk_rate,
+    sub_for_margin,
+        base_costs+overhead_amt+risk_amt,
+    margin_amt,
+        sub_for_margin*margin_rate,
+    total_sell,
+        sub_for_margin+margin_amt,
+    HSTACK(overhead_amt,risk_amt,margin_amt,total_sell)
+)
+```
+
+**Eenheidsverkooptarief — `G2`**
+
+```excel
+=F2#/FILTER('05_Tender_Mapping'!C2:C10000,'05_Tender_Mapping'!A2:A10000<>"")
+```
+
+</details>
+
+<details>
+<summary>05 — Procore Export: reconstructie van budgetten op componentniveau (`07_Procore_Export!A2`)</summary>
+
+```excel
+=LET(
+    tender_mapped,
+        FILTER(
+            '05_Tender_Mapping'!A2:G10000,
+            ('05_Tender_Mapping'!A2:A10000<>"")*
+            ('05_Tender_Mapping'!D2:D10000<>"")
+        ),
+    item_nos, CHOOSECOLS(tender_mapped,1),
+    qtys, CHOOSECOLS(tender_mapped,3),
+    assembly_ids, CHOOSECOLS(tender_mapped,4),
+    REDUCE(
+        {"WBS Code","Cost Code","Category","Original Budget"},
+        SEQUENCE(ROWS(tender_mapped)),
+        LAMBDA(
+            acc, idx,
+            LET(
+                current_wbs, INDEX(item_nos,idx),
+                current_qty, INDEX(qtys,idx),
+                current_assembly, INDEX(assembly_ids,idx),
+                assembly_components,
+                    FILTER(
+                        '03_Assembly_Library'!C2:G10000,
+                        '03_Assembly_Library'!A2:A10000=current_assembly
+                    ),
+                comp_codes, CHOOSECOLS(assembly_components,1),
+                comp_factors, CHOOSECOLS(assembly_components,2),
+                comp_rates, CHOOSECOLS(assembly_components,4),
+                row_budget,
+                    MAP(
+                        SEQUENCE(ROWS(assembly_components)),
+                        LAMBDA(
+                            r_idx,
+                            LET(
+                                code, INDEX(comp_codes,r_idx),
+                                factor, INDEX(comp_factors,r_idx),
+                                rate, INDEX(comp_rates,r_idx),
+                                sub_budget, current_qty*factor*rate,
+                                category,
+                                    IFS(
+                                        XLOOKUP(code,'02_Cost_Library'!A2:A10000,'02_Cost_Library'!D2:D10000,0)>0,"M",
+                                        XLOOKUP(code,'02_Cost_Library'!A2:A10000,'02_Cost_Library'!E2:E10000,0)>0,"L",
+                                        XLOOKUP(code,'02_Cost_Library'!A2:A10000,'02_Cost_Library'!F2:F10000,0)>0,"E",
+                                        TRUE,"S"
+                                    ),
+                                HSTACK(current_wbs,code,category,sub_budget)
+                            )
+                        )
+                    ),
+                VSTACK(acc,row_budget)
+            )
+        )
+    )
+)
+```
+
+**Implementatienotities:** classificeert elke Cost Code op basis van het eerste positieve resourcetarief (M → L → E → S); gebruikt het inschrijvingsitemnummer als standaard WBS; exporteert directe componentbudgetten (exclusief commerciële overhead, risico en marge); controleer de kolomkoppeling tegen het huidige Procore-importsjabloon van uw bedrijf voordat u uploadt.
 
 </details>
 
 ---
 
-### Validatieregels
+### Validatieregels en implementatienotities
 
-| Veld          | Regel                     | Foutgedrag     |
-| -------------- | ------------------------ | ------------------ |
-| Cost Code      | Moet in de bibliotheek bestaan    | Validatiewaarschuwing |
-| Assembly ID    | Moet uniek zijn           | Invoer weigeren       |
-| Hoeveelheid       | Groter dan nul        | Fout markeren    |
-| Productiviteit   | Binnen het acceptabele bereik    | Waarschuwing            |
-| Marge         | Tussen 0–50%            | Weigeren             |
-| Escalatie     | Tussen -20% en +50%    | Waarschuwing            |
-| Tender Mapping | Moet naar een assemblage oplossen | Uitzonderinglijst    |
-| Procore Export | Geldige WBS vereist       | Export geblokkeerd     |
+| Veld / gebied | Validatieregel | Verwacht foutgedrag |
+|---|---|---|
+| Cost Code | Moet uniek zijn; elke assemblagecomponent moet verwijzen naar een bestaande Cost Code. | Markeer duplicaten of toon `Unknown Code`. |
+| Cost Description & Unit | Moet gevuld zijn met geldige maateenheden. | Markeer onvolledige masterrecords. |
+| Resource Rates & Usage Factors | Numeriek en niet-negatief. | Wijs ongeldige waarden af of markeer ze. |
+| Tender Item No, Qty & Unit | Moet gevuld zijn; hoeveelheden numeriek en niet-negatief. | Markeer ontbrekende velden; bescherm tegen deling door nul bij het eenheidsverkooptarief. |
+| Assigned Assembly | Elke geprijsde BOQ-regel moet aan een geldige Assembly ID zijn gekoppeld. | Toon `Waiting for Mapping...` voor niet-gekoppelde regels. |
+| Overhead / Risk / Margin Rates | Geldige niet-negatieve percentages. | Markeer ongeldige prijsparameters. |
+| WBS / Procore Cost Code & Category | Moet aansluiten bij de WBS van het doelbedrijf en geaccepteerde categoriecodes. | Valideer en reconcileer het totale geëxporteerde budget tegen de gekoppelde directe kosten. |
+
+**Omgeving- en integriteitsnotities:** vereist **Microsoft 365, Excel 2021, Excel 2024 of moderne WPS** met ondersteuning voor dynamische arrays (`LET`, `MAP`, `LAMBDA`, `REDUCE`, `VSTACK`, `HSTACK`, `FILTER`, `XLOOKUP`). Houd dynamische spill-gebieden ongehinderd en vermijd lege rijen binnen aaneengesloten `COUNTA`-geïndexeerde invoerkolommen. Standaard blueprint-bereiken dekken rijen tot en met 10.000.
 
 </details>
 
@@ -403,5 +665,3 @@ Beschrijf bij het melden van een probleem de relevante calculatiestap, kostcompo
 Dit project valt onder de **Apache License 2.0**.
 
 Zie het bestand [LICENSE](LICENSE) voor details.
-
-

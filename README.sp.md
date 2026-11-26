@@ -4,52 +4,53 @@
 
 [![Licencia: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Banco de trabajo de Excel: pago único](https://img.shields.io/badge/Excel%20Workbench-One--Time%20Purchase-1E3A8A.svg)
-![Demo interactiva: herramienta web gratuita de BOQ](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Calculadora interactiva: herramienta web gratuita de BOQ](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
 ![Garantía: devolución de 30 días](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
 <img width="1425" height="790" alt="Construction Estimating & BOQ Pricing Excel Workbench Dashboard Preview" src="https://github.com/user-attachments/assets/ae9b71b7-b444-4cc5-8caa-1b92d94af7f2" />
 
-**Deja de perder dinero en ofertas antes de que empiece la construcción.** **Construction Tender Assembly Builder** es un **banco de trabajo de estimación de costos de construcción en Excel de 12 pestañas listo para usar** (acompañado de una **calculadora web de BOQ gratuita en línea**) creado para contratistas pequeños y medianos, técnicos de mediciones (QS) junior y estimadores prácticos que quieren automatizar la **valoración del Bill of Quantities (BOQ)**, estandarizar las **mediciones de materiales y mano de obra**, proteger los **márgenes de gastos generales y utilidad**, y convertir cada licitación completada en una **base de datos de costos unitarios** permanente, sin necesidad de **conocimientos avanzados de Excel ni de software de estimación de $5,000 al año**.
+**Deja de adivinar precios de oferta globales bajo plazos de licitación ajustados, y deja de perder los márgenes del proyecto antes de que empiece la construcción.** Este **banco de trabajo de estimación de costos de construcción y valoración de Bill of Quantities (BOQ) en Excel**, listo para usar, ayuda a contratistas, estimadores junior y técnicos de mediciones (QS) a convertir tarifas históricas dispersas de materiales, mano de obra, equipos y subcontratistas en una **biblioteca de costos unitarios y ensamblajes** reutilizable, valorar las BOQ de los clientes en minutos, proteger los márgenes de gastos generales y utilidad, y exportar **presupuestos WBS listos para Procore**, sin **escribir ni una sola fórmula compleja** y **sin necesidad de software de estimación empresarial**.
 
-> ### Empieza en minutos
+> ### Tres maneras de empezar hoy mismo
 >
-> - 📥 **Consigue el banco de trabajo completo de estimación en Excel de 12 pestañas sin conexión (pago único · garantía de devolución de 30 días sin preguntas):** [**Descarga el banco de trabajo completo de estimación de costos de construcción y BOQ en Excel en Theseus Workshop**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README) — sistema `.xlsx` desbloqueado con mapeo automatizado de BOQ, bibliotecas de ensamblajes reutilizables, análisis de riesgo/margen y exportación WBS lista para Procore. Reutilizable en licitaciones ilimitadas, 100% de privacidad local, cero suscripciones SaaS.
-> - 🌐 **Prueba primero la calculadora instantánea del navegador (100% gratis · sin registro):** [**Abre la calculadora en línea gratuita de estimación de costos de construcción y BOQ**](https://hyvoid.github.io/construction-estimating/) para probar la valoración basada en ensamblajes y la lógica de precios unitarios directamente en tu navegador.
-> - 🎁 **¿Nuevo en Theseus Workshop y quieres probar primero un archivo de Excel sin conexión por $0?** Consigue nuestra [**Plantilla gratuita mensual de Construction CVR & Accruals en Excel ($0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink) y experimenta fuera de línea la calidad plug-and-play de nuestro Excel antes de mejorar tu flujo de trabajo de licitaciones.
+> - 📥 **Consigue el banco de trabajo completo de estimación en Excel de 8 pestañas sin conexión (pago único · garantía de devolución de 30 días sin preguntas):** [**Descarga la plantilla completa de estimación de costos de construcción y BOQ en Excel (.xlsx) en Theseus Workshop**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README&utm_content=construction-estimating) — libro de Excel local desbloqueado y preautomatizado para ofertas de licitación ilimitadas, bibliotecas de ensamblajes de costos reutilizables, análisis paramétrico de márgenes y exportación de presupuestos WBS listos para Procore. **Pago único, cero cuotas SaaS recurrentes, 100% de privacidad local.**
+> - 🌐 **Prueba el motor de valoración gratis en tu navegador (sin registro · sin instalación):** [**Abre la calculadora en línea gratuita de estimación de costos de construcción y valoración de BOQ**](https://hyvoid.github.io/construction-estimating/) para probar ensamblajes de precios unitarios y el mapeo de BOQ a ensamblajes en un escenario en vivo.
+> - 🎁 **¿Quieres inspeccionar primero un archivo de Excel sin conexión de Theseus Workshop por $0?** Consigue nuestra [**Plantilla gratuita mensual de Construction CVR & Accruals en Excel ($0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink) y experimenta fuera de línea la calidad plug-and-play de nuestro Excel antes de mejorar tu flujo de trabajo de licitaciones.
 
 ---
 
-## Cómo este banco de trabajo de estimación completa tu ciclo de protección de márgenes (se combina con nuestra plantilla gratuita de CVR)
+## Detén las fugas de margen antes del primer día (cómo se combina con nuestra plantilla gratuita de CVR)
 
-Si ya descargaste nuestra **Free Monthly CVR & Accruals Template**, sabes lo doloroso que es descubrir a mitad de la construcción un paquete de subcontratación con pérdidas. **En la mayoría de los casos, esa pérdida empezó en la etapa de licitación**: una partida de BOQ omitida, una productividad de mano de obra desactualizada o una contingencia de riesgo oculta.
+La mayoría de los contratistas solo descubre que un trabajo pierde dinero durante la **reconciliación de costo-valor (CVR) de fin de mes**, cuando ya es demasiado tarde para corregir un precio de licitación mal calculado. La causa raíz casi siempre ocurre **en la etapa de licitación**: sumas globales adivinadas, partidas de BOQ omitidas y gastos generales o riesgos sin separar.
 
-Este banco de trabajo corrige la fuga **antes de que firmes el contrato**, convirtiendo tu flujo comercial en un escudo de márgenes de extremo a extremo:
+En conjunto, los kits de herramientas de Theseus Workshop cubren todo tu ciclo comercial de construcción sin suscripciones ERP empresariales:
 
-| Etapa comercial | Herramienta de la suite Theseus Workshop | El error costoso que evita |
+| Etapa del ciclo de vida del proyecto | Pregunta comercial clave | Kit de herramientas de Theseus Workshop |
 |---|---|---|
-| **Etapa 1 — Preoferta y licitación** | **Este banco de trabajo: Construction Estimating & BOQ Builder** (*pago único*) | Evita ofertas por debajo del costo real, partidas de alcance omitidas en la BOQ del cliente, tarifas de mano de obra desactualizadas y descuentos a ciegas antes de la adjudicación |
-| **Etapa 2 — Ejecución activa en obra** | [Workbook de gestión de proyectos de construcción y flujo de caja](https://github.com/HyVoid/construction-project-management-excel) (*pago único*) | Mantiene alineadas semana a semana los presupuestos de códigos de costo, las órdenes de cambio aprobadas, la facturación por avance del SOV, el Retainage y la caja disponible rodante |
-| **Etapa 3 — Auditoría de utilidad de fin de mes** | [Plantilla mensual de Construction CVR & Accruals](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**gratis · $0+ PWYW**) | Expone a fin de mes los devengos de obra no facturados, el riesgo de variaciones en disputa y la deriva del margen del EAC (Estimate at Completion) |
+| **1. Preconstrucción y licitación *(este libro)*** | *"¿Cuál es nuestro costo directo real, nuestro precio de venta seguro para la licitación y nuestro presupuesto de recursos antes de ofertar?"* | **Banco de trabajo de estimación de costos de construcción y valoración de BOQ** *(pago único)* |
+| **2. Ejecución activa en obra y flujo de caja** | *"¿Vamos dentro del presupuesto por código de costo, facturamos correctamente (SOV/retenciones) y mantenemos la caja en positivo?"* | [Workbook de gestión de proyectos de construcción y flujo de caja](https://github.com/HyVoid/construction-project-management-excel) *(pago único)* |
+| **3. Auditoría de utilidad real de fin de mes** | *"Tras los devengos de obra no facturados y las variaciones en disputa, ¿cuál es nuestra utilidad real proyectada (EAC)?"* | [Plantilla gratuita mensual de Construction CVR & Accruals](https://github.com/HyVoid/construction-cvr-accruals-excel-template) *(gratis · $0+ PWYW)* |
 
 ---
 
-## Qué rastrea y protege: puntos de dolor frecuentes de la estimación vinculados a controles automatizados
+## Estimación de costos de construcción y valoración de BOQ para licitaciones: puntos de dolor vs. soluciones automatizadas
 
-Muchos contratistas y estimadores junior pierden dinero no porque su ejecución en obra sea deficiente, sino porque su **hoja de cálculo de desglose de costos de construcción** no detecta las trampas ocultas de la licitación. Este banco de trabajo reemplaza las hojas manuales frágiles por controles comerciales estructurados:
+Ya sea que estés valorando tu primera licitación residencial o gestionando decenas de RFP comerciales en plena temporada de ofertas, las hojas de cálculo improvisadas crean fugas de utilidad silenciosas. Así es como este **banco de trabajo de estimación de costos de construcción y valoración de BOQ** convierte el estrés de las licitaciones en claridad comercial inmediata:
 
-| Punto de dolor frecuente en la estimación | Impacto financiero y en el margen | Lo que este banco de trabajo de estimación en Excel automatiza por ti |
-| :--- | :--- | :--- |
-| **Partidas omitidas en la BOQ del cliente (brecha de alcance)** | Ofertar por debajo del costo real: el trabajo no valorizado sale directamente de tu utilidad neta durante la ejecución. | **Normalización automatizada del alcance de la BOQ:** contrasta las descripciones desordenadas de la BOQ del cliente con ensamblajes de especialidades estandarizados y señala de inmediato el alcance no mapeado. |
-| **Reconstruir estimaciones desde cero en cada oferta** | Desperdiciar más de 20 horas por licitación copiando pestañas antiguas, lo que te obliga a presentar menos ofertas en temporada alta. | **Biblioteca reutilizable de costos unitarios y ensamblajes:** almacena ensamblajes estandarizados de materiales, mano de obra, maquinaria y subcontratos para recuperarlos al instante en cada nueva licitación. |
-| **Tarifas de mano de obra y productividad en obra desactualizadas** | Reutilizar los precios unitarios del año pasado ignora la inflación salarial y la complejidad de la obra, y provoca graves sobrecostos de mano de obra. | **Multiplicadores dinámicos de productividad y escalación de mano de obra:** ajusta de forma centralizada las tarifas regionales, la eficiencia de las cuadrillas y la inflación de materiales sin editar las bibliotecas base. |
-| **Confusión entre markup oculto y margen** | Esconder colchones de riesgo dentro de los precios unitarios te deja a ciegas sobre tu verdadero piso de equilibrio durante las negociaciones con el cliente. | **Separación comercial de margen y riesgo:** separa explícitamente el costo directo base, la contingencia de riesgo, los gastos generales corporativos y las metas de utilidad neta. |
-| **Traspaso desordenado tras ganar la licitación** | Pasar días reingresando manualmente las hojas de la oferta ganadora en presupuestos de contabilidad o de gestión de proyectos. | **Exportación de WBS y códigos de costo lista para Procore:** estructura cada estimación ganadora en tablas de presupuesto limpias con Work Breakdown Structure (WBS), listas para el traspaso inmediato. |
+| Punto de dolor en la licitación (qué sale mal) | Punto ciego de alto riesgo | Cómo lo resuelve este banco de trabajo (salida automatizada) |
+|---|---|---|
+| **Adivinar precios unitarios compuestos** | Los precios globales sin explicación ocultan si los materiales, la mano de obra, los equipos o los subcontratistas se están comiendo tu utilidad. | **Desglose de costos unitarios por ensamblaje:** descompone cada actividad de obra en factores de costo transparentes de material, mano de obra, equipo y subcontrato. |
+| **Partidas de BOQ omitidas o sin valorar** | Bajo plazos de licitación de 48 horas, las partidas del cliente sin mapear se escapan y provocan pérdidas inmediatas en obra. | **Seguimiento de cobertura en tiempo real de BOQ a ensamblaje:** señala automáticamente las partidas del cliente valoradas frente a las no mapeadas (`Waiting for Mapping...`) antes de presentar la oferta. |
+| **Exposición oculta de costos directos** | Pequeños saltos en los precios del concreto, el acero de refuerzo o las cuadrillas arrasan silenciosamente los márgenes a lo largo de cientos de filas de BOQ. | **Visibilidad de costos directos a nivel de componente:** consolida la exposición en los recursos subyacentes para que veas tus mayores impulsores de costo en segundos. |
+| **Confusión entre markup, gastos generales y utilidad** | Aplicar un solo porcentaje plano de forma inconsistente provoca ofertas por debajo del costo en alcances riesgosos o sobreprecios en licitaciones competitivas. | **Motor paramétrico de valoración de licitaciones y márgenes:** separa costos directos, gastos generales de obra, contingencia de riesgo y margen objetivo en controles ajustables limpios. |
+| **Traspaso doloroso de la oferta al presupuesto** | Ganar un contrato significa pasar días reescribiendo las estimaciones de la oferta en códigos de costo contables y presupuestos de obra. | **Exportación automatizada de WBS y categorías de costo:** expande los totales de los ensamblajes de vuelta en presupuestos de material, mano de obra, equipo y subcontrato listos para la importación WBS a Procore. |
+| **Reconstruir cada licitación desde cero** | Los precios históricos valiosos mueren dentro de carpetas de proyectos antiguos en lugar de hacer tu próxima oferta más rápida y precisa. | **Biblioteca reutilizable de ensamblajes de construcción:** guarda recetas de precios unitarios validadas localmente para que cada licitación completada multiplique tu velocidad de estimación. |
 
 ---
 
 ## Vista previa de la hoja de cálculo
 
-¿Quieres inspeccionar el diseño de 12 pestañas, la biblioteca de ensamblajes y el panel de resumen de la oferta antes de comprar? Previsualiza el libro directamente en Google Sheets:
+¿Quieres inspeccionar las 6 pestañas, el motor de listados de doblado de barras (BBS) y el panel de costos antes de descargar? Previsualiza el libro directamente en Google Sheets:
 
 **[Ver la vista previa en vivo de la hoja de cálculo en Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
@@ -57,316 +58,577 @@ Muchos contratistas y estimadores junior pierden dinero no porque su ejecución 
 
 ---
 
-## Flujo de inicio rápido: de la BOQ en bruto del cliente al resumen ejecutivo de la oferta en 4 pasos sencillos
+## Flujo de inicio rápido: de la BOQ en bruto del cliente a una oferta ganadora en 4 pasos sencillos
 
-No necesitas ser un ingeniero de costos con 15 años de experiencia ni escribir fórmulas complejas para producir ofertas comerciales defendibles. **Cada regla de búsqueda, cada construcción de ensamblajes y cada resumen de margen ya está precableado y se actualiza solo:**
+No necesitas ser un experto en Excel ni un ingeniero de costos senior para producir una oferta de licitación lista para auditoría. Cada regla de búsqueda, cada consolidación de ensamblajes y cada fórmula de matrices dinámicas ya está construida; **ni siquiera necesitas hacer doble clic para arrastrar fórmulas hacia abajo.**
 
-### Paso 1: define tus reglas de gastos generales, productividad y margen una sola vez (`01_Settings`)
-Introduce tus reglas comerciales de referencia en una pestaña de control centralizada:
-- **Metas de gastos generales y utilidad:** define la recuperación de gastos generales corporativos y el margen objetivo de utilidad neta.
-- **Escalación de materiales y contingencia de riesgo:** fija colchones porcentuales explícitos para materiales volátiles (concreto, acero, madera, insumos de MEP).
-- **Factores regionales de productividad de mano de obra:** calibra los rendimientos de las cuadrillas según las condiciones locales de obra sin sobrescribir tu biblioteca de costos histórica.
+### Paso 1: define tus reglas comerciales de valoración una sola vez (`01_Settings`)
+Introduce tu **% de gastos generales** objetivo, tu **% de contingencia de riesgo** y tu **% de margen objetivo** en una única hoja de control centralizada. ¿Quieres probar un precio más agresivo para vencer a la competencia? Cambia un solo número y observa cómo cada partida de la BOQ se recalcula al instante.
 
-### Paso 2: copia y pega la BOQ en bruto del cliente y las cantidades medidas (`04_Tender_Import`)
-Salta el tedioso onboarding del software. Pega las partidas en bruto directamente desde las hojas de licitación del cliente, las hojas de medición de cantidades (QTO) o los tarifarios de subcontratistas en el área limpia de entrada.
+### Paso 2: copia y pega el Bill of Quantities del cliente (`04_Tender_Import`)
+Vuelca el cuadro de licitación del cliente directamente en la tabla de entrada de la BOQ usando cuatro columnas estándar: **Número de partida del cliente**, **Descripción de la BOQ**, **Cantidad de la licitación** y **Unidad de medida**, conservando intacta la numeración original del cliente.
 
-### Paso 3: deja que el motor mapee ensamblajes y calcule precios unitarios (`05`–`08` pestañas del motor)
-Sin arrastrar una sola fórmula a mano, el libro ejecuta lógica estructurada de ingeniería de costos:
-- Normaliza el texto inconsistente de la BOQ del cliente en tus **ensamblajes** internos estandarizados.
-- Calcula los **costos exactos de materiales, mano de obra, equipos y subcontratistas** usando tus multiplicadores del Paso 1.
-- Separa el costo directo base del riesgo, los gastos generales y la utilidad para que veas tu **piso exacto de equilibrio** antes de presentar la oferta.
-- 👉 [**Prueba gratis en tu navegador la lógica automatizada de ensamblajes de la BOQ**](https://hyvoid.github.io/construction-estimating/)
+### Paso 3: mapea ensamblajes de costos estandarizados (`05_Tender_Mapping`)
+Selecciona el **Assembly ID** interno que corresponde a cada fila de la BOQ. El motor de valoración integrado (`06_Estimate_Engine`) extrae automáticamente las tarifas de material, mano de obra, equipo y subcontrato de tu biblioteca, calcula el costo directo de construcción y aplica tus reglas de gastos generales, riesgo y margen: **cero depuración de VLOOKUP.**
 
-### Paso 4: exporta tu oferta, traspasa a obra y haz crecer tu biblioteca de costos (`09`–`12` pestañas de salida)
-- Abre `09_Tender_Output` y `12_Dashboard` para obtener un resumen comercial limpio y listo para la dirección, que puedas revisar con la gerencia o presentar al cliente.
-- Usa `10_Procore_Export` para traspasar limpiamente los presupuestos WBS de las ofertas ganadoras a tu equipo de gestión de proyectos.
-- Cada oferta que completes alimenta `11_History_Repository`, de modo que tu décima licitación toma una fracción del tiempo de la primera.
+### Paso 4: inspecciona tu margen y exporta presupuestos WBS listos para Procore (`07` & `08`)
+Abre **`08_Tender_Dashboard`** para verificar tu precio mínimo exacto, la composición de costos y la utilidad bruta antes de presentar la oferta. Cuando ganes el trabajo, abre **`07_Procore_Export`** para traspasar presupuestos limpios a nivel de recursos (WBS Code, Cost Code, Cost Category, Original Budget) directamente a tus equipos de obra y contabilidad.
 
 ---
 
-## Calculadora gratuita del navegador vs. banco de trabajo completo de Excel de 12 pestañas sin conexión
+## Calculadora web gratuita en línea vs. banco de trabajo completo de Excel sin conexión
 
-| Característica | Calculadora web gratuita en línea | **Banco de trabajo local completo de Excel de 12 pestañas (pago único)** |
+La [**calculadora web gratuita en línea de BOQ de construcción**](https://hyvoid.github.io/construction-estimating/) es ideal para una prueba rápida de 2 minutos en tu navegador. Cuando estés listo para valorar licitaciones reales de clientes, proteger tus precios unitarios propietarios sin conexión y construir una biblioteca de costos permanente para tu empresa, pasa al sistema completo de Excel local:
+
+| Característica | Calculadora web gratuita en línea | **Banco de trabajo completo de Excel local de 8 pestañas (pago único)** |
 |---|---|---|
-| **Ideal para** | Prueba rápida de 2 minutos de la lógica de ensamblajes de la BOQ | Licitación comercial real y estimación empresarial permanente |
-| **Biblioteca permanente de costos y ensamblajes** | Solo prueba de sesión | Construye y conserva tu propia `Cost Library`, `Assembly Library` y `History Repository` buscables |
-| **BOQ de cliente con cientos de partidas** | Prueba rápida de una sola oferta | Pega BOQ completas de licitación con mapeo automatizado y colas de excepciones |
-| **Modelado de riesgo, escalación y margen** | Vista previa del cálculo básico | Analizador completo de `08_Risk_Margin` + resumen ejecutivo de `12_Dashboard` |
-| **Traspaso del proyecto / exportación a ERP** | — | Hoja dedicada de presupuesto WBS en `10_Procore_Export` |
-| **Privacidad y propiedad de los datos** | Sesión del navegador | **Archivo local `.xlsx` 100% sin conexión**: las cotizaciones de subcontratistas y los márgenes quedan estrictamente en tu disco |
-| **Modelo de costo y garantía** | Demo gratuita del navegador | **Pequeño pago único** (cero cuotas SaaS) · **garantía de devolución de 30 días sin preguntas** |
+| **Ideal para** | Pruebas rápidas en el navegador y aprendizaje de la lógica de valoración por ensamblajes | Valorar licitaciones comerciales/residenciales reales y traspasar presupuestos de proyecto |
+| **Motor automatizado completo de 8 pestañas** | Solo calculadora demo interactiva | Configuración (Settings), Biblioteca de costos, Fábrica de ensamblajes, Importación de BOQ, Mapeo, Motor, Exportación a Procore y Dashboard |
+| **Biblioteca de costos permanente y reutilizable** | Se reinicia en el navegador | **Guarda localmente y acumula para siempre** en licitaciones ilimitadas, sin límites de usuarios |
+| **Exportación de presupuestos WBS lista para Procore** | No incluida | **Descomposición automatizada a nivel de componente** en categorías de costo M/L/E/S |
+| **Privacidad de datos y ventaja competitiva** | Sesión del navegador | **Archivo `.xlsx` 100% sin conexión**: tus cotizaciones de proveedores y márgenes nunca tocan la nube |
+| **Modelo de costo** | Vista previa gratuita | **Pequeño pago único** frente a suscripciones SaaS de estimación empresarial de $300+/mes |
+| **Evaluación sin riesgo** | — | Respaldada por una **garantía de devolución de 30 días sin preguntas** |
 
-> **¿Listo para reducir la preparación de licitaciones de días a minutos y dejar de ofertar por debajo del costo?**
-> 👉 [**Consigue el banco de trabajo completo de estimación de costos de construcción y BOQ en Excel de 12 pestañas (pago único · garantía de 30 días)**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
+> **¿Listo para cotizar más rápido, proteger tus márgenes y mantener tu base de datos de costos 100% sin conexión?**
+> 👉 [**Consigue el banco de trabajo completo de estimación de costos de construcción y BOQ en Excel (pago único · garantía de 30 días)**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README&utm_content=construction-estimating)
 
 ---
 
 ## Para quién está construido este banco de trabajo de estimación de construcción en Excel
 
-Ya sea que estés valorando tu primera licitación comercial o estandarizando las ofertas de un equipo de contratación con mucho trabajo, este kit de herramientas empareja los roles reales del sector con flujos de trabajo plug-and-play:
+Creado para profesionales de la construcción prácticos que quieren **ofertas sólidas y defendibles en minutos**, sin la complejidad del software empresarial ni cuotas de suscripción de $3,000+/año:
 
-- **Contratistas generales pequeños y medianos (*alternativa asequible al software de estimación empresarial*):** deja de pagar miles al año por suites en la nube infladas. Estandariza la valoración de obras residenciales, reformas, adecuaciones comerciales y licitaciones civiles en un solo archivo de Excel sin conexión.
-- **Técnicos de mediciones (QS) junior y estimadores principiantes (*plantilla QS de valoración de BOQ*):** elimina el miedo a omitir partidas del alcance o a romper enlaces de `VLOOKUP`. Valora licitaciones desde el primer día con la disciplina estructural de un ingeniero de costos experimentado.
-- **Subcontratistas especializados (*eléctrico, fontanería, HVAC, drywall, concreto, civil*):** convierte las mediciones de materiales y las tarifas horarias de las cuadrillas en ofertas de precio unitario precisas, protegiendo los márgenes frente a subidas bruscas de precios de materiales.
-- **Gerentes comerciales y directores de licitaciones (*analizador de margen y riesgo de licitaciones*):** visualiza de un vistazo el costo exacto de equilibrio, la exposición a cotizaciones de subcontratistas y la contingencia de riesgo antes de aprobar ofertas de alto riesgo.
-- **Contratistas en crecimiento que preparan la adopción de Procore o ERP:** transforma hojas de cálculo heredadas desordenadas en códigos de costo WBS limpios, listos para importar directamente a Procore o a libros de control de proyectos posteriores.
-
----
-
-## Comparación: hojas de cálculo manuales tradicionales de ofertas vs. banco de trabajo de estimación automatizado
-
-| Dimensión operativa de la estimación | Hojas de cálculo manuales tradicionales de Excel | **Banco de trabajo automatizado de estimación de construcción** |
-| --- | --- | --- |
-| **Velocidad de valoración de la BOQ y mediciones** | Los estimadores pasan días escribiendo códigos WBS, copiando ensamblajes antiguos y arrastrando fórmulas por miles de filas. | **Mapea automáticamente las partidas de la BOQ del cliente** a ensamblajes reutilizables; pega filas en bruto y obtén cálculos de precios unitarios al instante. |
-| **Integridad de fórmulas y tasa de error** | Alto riesgo de enlaces de `VLOOKUP` rotos, celdas sobrescritas y huecos silenciosos en rangos de `SUM` que destruyen la precisión de la oferta. | **Motor de cálculo preingenierizado**: cero escritura manual de fórmulas o arrastre del controlador de relleno. |
-| **Consistencia de precios entre ofertas** | Los totales de las ofertas oscilan entre un 15% y un 30% según quién construyó la hoja de cálculo. | Impone **bibliotecas estandarizadas de costos unitarios**, multiplicadores de productividad de cuadrillas y reglas corporativas de markup. |
-| **Retención de precios históricos** | Las valiosas cotizaciones de proveedores y los precios unitarios mueren dentro de carpetas de proyectos olvidadas tras la presentación. | Cada oferta se acumula en `11_History_Repository`, construyendo una **base de datos de costos de la empresa** permanente. |
-| **Claridad de margen, gastos generales y riesgo** | Los estimadores esconden el riesgo dentro de precios unitarios inflados, dejando invisible tu verdadero precio mínimo durante las negociaciones. | **Separación comercial explícita** del costo directo base, la escalación de riesgo, la recuperación de gastos generales y el margen neto. |
-| **Traspaso post-adjudicación a la ejecución** | Los gerentes de proyecto pierden días reingresando las ofertas ganadoras en seguidores de presupuesto y de flujo de caja. | Genera **tablas de presupuesto codificadas por WBS** limpias, listas para Procore o para un control inmediato de costos en obra. |
+- **Contratistas generales pequeños y medianos (plantilla de hoja de ofertas para GC):** valora licitaciones residenciales, reformas y comerciales más rápido usando una biblioteca de costos unitarios repetible en lugar de reinventar hojas de cálculo para cada RFP.
+- **Estimadores junior y licitantes primerizos (herramienta de estimación de construcción para principiantes):** elimina los errores de fórmulas y produce ofertas por ensamblajes de nivel senior de inmediato con un motor de Excel guiado y preconstruido.
+- **Técnicos de mediciones (QS) y consultores de costos (banco de trabajo de valoración de BOQ y análisis de licitaciones):** mapea diversos formatos de BOQ de clientes a ensamblajes internos estandarizados, audita los impulsores de costos directos y ejecuta análisis de sensibilidad sobre gastos generales y riesgo.
+- **Subcontratistas especializados — concreto, MEP, drywall y civil (calculadora de precios unitarios por especialidad):** construye ensamblajes reutilizables de cuadrilla y materiales (p. ej., losa de concreto de 150 mm, paquetes de estructura, tendidos de tubería) para que cotizar alcances recurrentes tome minutos en lugar de horas.
+- **Gerentes de preconstrucción y equipos de control de proyectos (flujo de trabajo de importación de presupuestos a Procore):** conecta la estimación de licitaciones con el control de costos activo en obra convirtiendo ofertas compuestas de BOQ en códigos de costo WBS estructurados y presupuestos de recursos de forma automática.
+- **Estimadores freelance y analistas de construcción (alternativa al software de estimación sin conexión):** entrega desgloses de oferta limpios y transparentes desde un archivo `.xlsx` local portátil, sin dependencia de ningún software.
 
 ---
 
-## La lógica de negocio y la metodología: 4 puntos ciegos fatales de la licitación que este banco de trabajo elimina
+## Escenarios de licitación de alta intención: cuándo necesitas este banco de trabajo ahora mismo
 
-Para un principiante, la estimación de construcción parece una simple suma: *Materiales + Mano de obra + Equipos + Markup = Precio de la oferta*. En realidad, tratar la licitación como una simple suma es la razón número uno por la que los contratistas ganan trabajos y luego pierden dinero en obra. Este banco de trabajo incorpora automáticamente cuatro salvaguardas fundamentales de ingeniería de costos:
+- **Plazos de licitación ajustados de 48 horas:** un cliente envía por correo una hoja de BOQ desconocida de 200 partidas con entrega en dos días, y necesitas valorarla con precisión sin partir de una hoja en blanco.
+- **Convertir cotizaciones dispersas en una biblioteca de costos real:** tienes precios de materiales y cotizaciones de subcontratistas enterrados en carpetas de trabajos antiguos y quieres una base de datos de precios unitarios simple y permanente para la empresa.
+- **Aprobaciones comerciales listas para auditoría:** antes de presentar una oferta, los directores o los prestamistas quieren ver el costo directo exacto frente a gastos generales, contingencia de riesgo y margen neto, no una única suma global adivinada.
+- **Traspaso limpio de la oferta a la obra:** ganaste la licitación y necesitas descomponer las tarifas compuestas de la oferta de vuelta en presupuestos de mano de obra, material, equipo y subcontrato para Procore o el seguimiento de costos del trabajo.
 
-1. **Punto ciego n.º 1 — La "trampa de la BOQ del cliente" (resuelta mediante la normalización del alcance):** cada cliente escribe su BOQ de forma distinta: uno combina concreto, acero de refuerzo y encofrado en una sola partida, mientras otro los divide en tres. Valorar partida por partida invita al doble conteo o a omisiones fatales. Este libro mapea las descripciones desordenadas del cliente en tu **Work Breakdown Structure (WBS)** interna estandarizada antes de calcular un solo dólar.
-2. **Punto ciego n.º 2 — Valorar materiales en bruto en lugar de paquetes de trabajo completos (resuelto mediante la estimación basada en ensamblajes):** comprar 100 m² de drywall no es el costo de instalarlo. Olvidar fijaciones, masilla para juntas, factores de desperdicio, andamiaje y limpieza crea una **fuga de margen del 5%–12%** inmediata. Los ensamblajes agrupan materiales, desperdicio, horas de cuadrilla, maquinaria y partidas de subcontrato en una unidad de trabajo completa y reutilizable.
-3. **Punto ciego n.º 3 — Esconder el riesgo dentro de precios unitarios inflados (resuelto mediante la separación comercial):** añadir arbitrariamente un 10% a la madera o a las tarifas de mano de obra vuelve la negociación ciega: cuando el cliente pide un 5% de descuento, ya no sabes dónde está tu verdadero piso de equilibrio. Este modelo aísla el **Costo Directo Base** de la **Productividad, Escalación, Contingencia de Riesgo, Gastos Generales y Utilidad Neta** para que negocies con un 100% de certeza matemática.
-4. **Punto ciego n.º 4 — Tratar las estimaciones como archivos desechables (resuelto mediante la memoria institucional de costos):** la mayoría de las empresas termina una oferta, la guarda en una carpeta y empieza de cero al mes siguiente. Aquí, cada precio validado y cada ensamblaje alimentan tu **History Repository**, haciendo que cada oferta futura sea más rápida, más precisa y más rentable.
-
----
-
-## Por qué construí esto: resolver el problema de la "memoria institucional de estimación"
-
-Tras revisar cientos de licitaciones de construcción junto a equipos de estimación comercial, un patrón quedó claro: **la mayoría de los contratistas no pierde licitaciones por carecer de software costoso: pierde margen por carecer de memoria institucional de estimación.**
-
-En más del 80% de las empresas pequeñas y medianas de contratación y de QS, la preparación de licitaciones todavía gira en torno a un bucle manual estresante y frágil:
-
-```text
-New Client BOQ Received
-      ↓
-Hunt Through Old Project Folders & Siloed Excel Files
-      ↓
-Copy-Paste an Old Estimate & Overwrite Unit Prices by Hand
-      ↓
-Accidentally Break Formulas or Miss Scope Differences
-      ↓
-Submit Bid With Hidden Margin Erosion & Unpriced Risks
-```
-
-Construí este banco de trabajo de Excel de 12 pestañas para romper ese ciclo de una vez por todas, dando a los equipos pequeños y a los estimadores menos experimentados un sistema rápido, permanente y sin conexión que convierte hojas de licitación caóticas en decisiones comerciales serenas y repetibles.
+*Nota sobre el alcance:* este banco de trabajo es un motor ágil de estimación y decisiones comerciales, no una herramienta de mediciones 3D BIM ni un ERP completo. Retoma el trabajo justo donde terminan tus mediciones de cantidades y convierte cantidades en bruto en ofertas ganadoras y rentables.
 
 ---
 
-## Acerca de Theseus Workshop — kits de herramientas de decisión en Excel plug-and-play sin conexión
+## Hojas de cálculo heredadas vs. banco de trabajo automatizado de valoración de BOQ
 
-**Theseus Workshop** crea kits de herramientas de decisión en Excel ligeros, asequibles y almacenados localmente para contratistas prácticos, estimadores, profesionales QS y operadores de negocio que quieren **claridad comercial de nivel ejecutivo en minutos, sin la pesadez del software empresarial ni suscripciones SaaS recurrentes**.
+| Desafío operativo de estimación | Hojas de cálculo manuales de Excel (alto riesgo de ofertar por debajo del costo) | **Banco de trabajo de estimación de construcción y BOQ (solución automatizada)** |
+|---|---|---|
+| **Consistencia de precios unitarios históricos** | Partidas similares se valoran de forma distinta entre ofertas debido a suposiciones y archivos copiados desactualizados. | **Biblioteca de ensamblajes estandarizada:** reutiliza factores validados de consumo de material, mano de obra, equipo y subcontrato cada vez. |
+| **Transparencia de los precios unitarios compuestos** | Las tarifas globales opacas ocultan la productividad de las cuadrillas y los saltos de precios de proveedores. | **Visibilidad completa de costos por recurso:** cada ensamblaje conserva los impulsores de componentes exactos y sus contribuciones al costo unitario. |
+| **Normalización de formatos de BOQ de clientes** | La numeración distinta de cada cliente obliga a horas de reformateo manual y enlaces de `VLOOKUP` rotos. | **Mapeo automatizado de BOQ a ensamblaje:** conserva la numeración del cliente mientras enlaza limpiamente con los ensamblajes internos. |
+| **Control de gastos generales, riesgo y margen** | El porcentaje de markup queda enterrado en fórmulas dispersas en celdas, provocando costosas equivocaciones de revisión de última hora. | **Motor de valoración paramétrico centralizado:** ajusta gastos generales, riesgo o margen en una sola celda para el recálculo instantáneo de toda la oferta. |
+| **Traspaso de licitación a presupuesto (WBS)** | Los PM pierden días dividiendo manualmente los totales ganadores en códigos de costo CSI/WBS. | **Exportación automatizada de descomposición de costos:** expande las estimaciones de ensamblajes en partidas WBS listas para Procore y presupuestos M/L/E/S. |
+| **Retención del acervo de estimación de la empresa** | El conocimiento de estimación desaparece en carpetas antiguas o se pierde cuando el personal rota. | **Base de datos de costos local reutilizable:** cada ensamblaje validado queda guardado localmente como un activo de la empresa que se acumula. |
 
-- 📥 [**Consigue este banco de trabajo completo de estimación de costos de construcción y BOQ en Excel de 12 pestañas**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README)
-- 🎁 [**Empieza gratis: plantilla mensual de Construction CVR & Accruals en Excel ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink)
-- 🧰 [**Explora la biblioteca completa de herramientas de Theseus Workshop (theseusworkshop.com)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
+---
+
+## La lógica de negocio y la metodología: corregir 4 puntos ciegos ocultos de la licitación
+
+No necesitas un título en mediciones para valorar trabajos con seguridad. Este libro automatiza cuatro reglas probadas de ingeniería de costos para que incluso los principiantes eviten las trampas de licitación que drenan silenciosamente las utilidades:
+
+1. **Punto ciego: valorar con sumas globales "a instinto" → resuelto con *costeo basado en recursos*:** separar cada tarea en **materiales, mano de obra, equipos y subcontratistas** muestra de inmediato qué pasa cuando el concreto sube un 12% o las tarifas de las cuadrillas aumentan, para que negocies con más inteligencia y protejas tu resultado final.
+2. **Punto ciego: tratar cada licitación como un caso único → resuelto con *estimación basada en ensamblajes*:** empaquetar proporciones recurrentes de recursos en **ensamblajes de construcción** reutilizables reduce el trabajo repetitivo de estimación entre un 60% y un 80%, haciendo cada nueva oferta más rápida y consistente que la anterior.
+3. **Punto ciego: mezclar costo, riesgo y utilidad → resuelto con *valoración paramétrica de licitaciones*:** mantener **costo directo**, **gastos generales**, **contingencia de riesgo** y **margen objetivo** en controles separados te permite ejecutar escenarios "what-if" instantáneos y conocer tu precio mínimo exacto antes de ofertar.
+4. **Punto ciego: la desconexión entre oferta y presupuesto → resuelto con *descomposición automatizada de costos*:** descomponer automáticamente las partidas ganadoras de la BOQ de vuelta en presupuestos de recursos M/L/E/S conecta **ganar la licitación** directamente con **controlar el flujo de caja de la obra y el CVR de fin de mes** desde el primer día.
+
+---
+
+## Por qué construí este sistema reutilizable de ofertas de construcción
+
+La mayoría de los equipos de construcción ya poseen valiosos datos históricos de precios de trabajos anteriores; el problema real es que las cotizaciones antiguas no son automáticamente conocimiento de estimación reutilizable. Un trabajo terminado contiene cientos de facturas de proveedores y tarifas de cuadrillas, mientras que cada nueva licitación llega como una BOQ específica del cliente con descripciones y numeración completamente distintas.
+
+Sin un puente limpio entre esos dos mundos, los equipos recaen en hojas de cálculo manuales repetitivas, tarifas compuestas opacas y un doloroso retrabajo de presupuestos después de la adjudicación.
+
+Construí este libro en torno a un principio práctico: **separa los ensamblajes de costos de construcción reutilizables de las hojas de BOQ específicas de cada proyecto, automatiza todo el emparejamiento y los cálculos de margen en segundo plano, y deja que los contratistas se concentren en ganar trabajo rentable en lugar de pelear con fórmulas de Excel.**
+
+---
+
+## Acerca de Theseus Workshop — kits de herramientas de decisión en Excel ligeros y sin conexión
+
+**Theseus Workshop** crea bancos de trabajo de decisión en Excel asequibles y concebidos para funcionar sin conexión, para contratistas prácticos, estimadores, equipos QS y operadores de negocio que quieren **claridad analítica de nivel ejecutivo sin suscripciones SaaS infladas**.
+
+- 📥 [**Consigue este banco de trabajo completo de estimación de costos de construcción y BOQ en Excel (pago único · garantía de 30 días)**](https://theseusworkshop.com/l/prkvr?utm_source=github&utm_medium=GitHub%20README&utm_content=construction-estimating)
+- 🎁 [**Prueba nuestro producto insignia gratuito de inicio: plantilla mensual de Construction CVR & Accruals en Excel ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_est_readme_crosslink)
+- 🧰 [**Explora todos los kits de herramientas de Excel plug-and-play en Theseus Workshop (theseusworkshop.com)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
 ## Detalles técnicos
 
 <details>
-<summary><strong>Para revisores técnicos, practicantes de Excel y colaboradores (arquitectura de 12 pestañas, 3 trampas de estimación, caso de estudio de licitación hospitalaria, referencia de fórmulas y reglas de validación)</strong></summary>
+<summary><strong>Para revisores técnicos, practicantes de Excel y colaboradores de estimación de construcción (arquitectura de 8 hojas, 3 trampas de licitación, ejemplo resuelto, fórmulas de matrices dinámicas y reglas de validación)</strong></summary>
 
 ### Arquitectura del libro
 
-| Hoja                  | Función                        |
-| --------------------- | ------------------------------ |
-| `01_Settings`           | Supuestos globales de estimación |
-| `02_Cost_Library`       | Base de datos de costos estandarizada |
-| `03_Assembly_Library`   | Ensamblajes de estimación reutilizables |
-| `04_Tender_Import`      | Datos de licitación en bruto |
-| `05_Tender_Mapping`     | Normalización y mapeo de la BOQ |
-| `06_Assembly_Builder`   | Motor de creación de ensamblajes |
-| `07_Estimate_Engine`    | Cálculos de costos |
-| `08_Risk_Margin`        | Análisis de riesgo y de precios |
-| `09_Tender_Output`      | Entregables de la licitación |
-| `10_Procore_Export`     | Estructuras de exportación de presupuesto |
-| `11_History_Repository` | Conocimiento corporativo de estimación |
-| `12_Dashboard`          | Reportes gerenciales |
+El libro está organizado en torno a un flujo de datos controlado:
+
+**Configuración del sistema → Biblioteca de costos → Biblioteca de ensamblajes → Mapeo de licitación → Motor de estimación → Salidas**
+
+La arquitectura separa los datos fuente, la lógica de estimación reutilizable, el mapeo específico del proyecto, los cálculos de valoración y los reportes posteriores.
+
+| Hoja | Módulo | Responsabilidad principal | Rol de los datos |
+|---|---|---|---|
+| `01_Settings` | Configuración del sistema | Mantiene los parámetros de gastos generales, riesgo y margen. | Entrada manual |
+| `02_Cost_Library` | Base de datos de costos estandarizada | Almacena tarifas estandarizadas de material, mano de obra, equipo y subcontrato. | Entrada manual + total calculado |
+| `03_Assembly_Library` | Fábrica de ensamblajes | Combina códigos de costo y factores de uso en ensamblajes de construcción reutilizables. | Entrada manual + datos de componentes calculados |
+| `04_Tender_Import` | Entrada de BOQ | Conserva los números de partida, descripciones, cantidades y unidades originales de la BOQ del cliente. | Entrada manual |
+| `05_Tender_Mapping` | Mapeo de BOQ a ensamblaje | Conecta las partidas de licitación del cliente con los Assembly ID internos. | Datos importados + asignación manual + tarifas calculadas |
+| `06_Estimate_Engine` | Motor de valoración | Calcula costos directos, gastos generales, provisión de riesgo, margen y precios de venta. | Generado por fórmulas |
+| `07_Procore_Export` | Exportación de presupuestos | Expande los componentes de los ensamblajes en registros de presupuesto por código de costo y categoría de costo. | Generado por fórmulas |
+| `08_Tender_Dashboard` | Panel de decisiones | Presenta totales de la licitación, margen bruto y composición de costos. | Salida de reportes |
 
 #### Flujo de datos
 
 ```text
-Tender Import
-        ↓
-Tender Mapping
-        ↓
-Assembly Builder
-        ↓
-Cost Library
-        ↓
-Estimate Engine
-        ↓
-Risk/Margin
-        ↓
-Tender Output
-        ↓
-Procore Export
+01_Settings
+     │
+     ▼
+02_Cost_Library
+     │
+     ▼
+03_Assembly_Library
+     │
+     ├─────────────────────────────┐
+     ▼                             │
+04_Tender_Import                   │
+     │                             │
+     ▼                             │
+05_Tender_Mapping ◄────────────────┘
+     │
+     ├──────────────────────┐
+     ▼                      ▼
+06_Estimate_Engine     07_Procore_Export
+     │                      │
+     ▼                      ▼
+08_Tender_Dashboard    Procore Budget Import
 ```
+
+#### Principios de arquitectura
+
+1. **Separar los costos estándar de las cantidades específicas del proyecto:** la biblioteca de costos almacena precios unitarios reutilizables; la importación de licitación almacena cantidades de BOQ específicas del cliente, vinculadas mediante las capas de biblioteca de ensamblajes y mapeo de licitación.
+2. **Usar los ensamblajes como interfaz de estimación:** una actividad de construcción se representa mediante un Assembly ID que contiene múltiples componentes de costo subyacentes y factores de uso.
+3. **Mantener centralizados los supuestos de valoración:** `01_Settings` actúa como el punto único de control de los parámetros de gastos generales, riesgo y margen.
+4. **Preservar la trazabilidad de costos a nivel de componente:** `06_Estimate_Engine` calcula los precios de venta de la licitación, mientras que `07_Procore_Export` reconstruye los costos directos subyacentes de los componentes en lugar de exportar tarifas compuestas de ensamblaje.
+5. **Separar las salidas de estimación de los datos fuente:** los paneles y las exportaciones consumen resultados calculados sin requerir reestructuración manual de los registros fuente.
+
+#### Flujo de dependencias y validación
+
+| Etapa | Dependencia | Enfoque de validación |
+|---|---|---|
+| Biblioteca de costos | Códigos de costo únicos | Códigos duplicados, descripciones faltantes, tarifas inválidas |
+| Biblioteca de ensamblajes | Códigos de costo existentes | Códigos de componente desconocidos, factores de uso faltantes |
+| Importación de licitación | BOQ del cliente | Números de partida, descripciones, cantidades y unidades faltantes |
+| Mapeo de licitación | Assembly ID válidos | Partidas de BOQ sin mapear y asignaciones de ensamblaje inválidas |
+| Motor de estimación | Mapeo + configuración | Mapeos faltantes, parámetros de valoración inválidos, cantidades en cero |
+| Exportación a Procore | Ensamblajes mapeados + biblioteca de costos | Consistencia de códigos de costo y clasificación de categorías de costo |
+| Dashboard | Estimación completada | Conciliación de totales y composición de costos |
+
+### Distinción importante del modelo de datos
+
+| Nivel | Objeto | Significado |
+|---|---|---|
+| Nivel de componente | Cost Code | El costo estandarizado de un recurso individual de material, mano de obra, equipo o subcontrato. |
+| Nivel de ensamblaje | Assembly ID | Una actividad de construcción reutilizable compuesta por múltiples componentes de costo y factores de uso. |
+
+Ejemplo ilustrativo de ensamblaje (losa de concreto armado de 150 mm):
+
+| Componente | Consumo por $\text{m}^2$ | Precio unitario | Costo extendido |
+|---|---:|---:|---:|
+| Concreto | $0.15\text{ m}^3$ | $150.00 / $\text{m}^3$ | $22.50 |
+| Refuerzo | $0.012\text{ t}$ | $1,200.00 / t | $14.40 |
+| Encofrado | $1.00\text{ m}^2$ | $18.00 / $\text{m}^2$ | $18.00 |
+| Mano de obra | $0.35\text{ hr}$ | $35.00 / hr | $12.25 |
+| Bombeo | $0.15\text{ m}^3$ | $25.00 / $\text{m}^3$ | $3.75 |
+| **Costo directo del ensamblaje** | | | **$70.90 / $\text{m}^2$** |
+
+*Ejemplo ilustrativo de ensamblaje. Las tarifas y los factores de consumo reales deben establecerse a partir de los pliegos del proyecto, los registros históricos y las condiciones del mercado local.*
 
 ---
 
-### Tres trampas que atrapan incluso a estimadores experimentados
+### Tres trampas que atrapan incluso a estimadores de construcción experimentados
 
-#### Trampa 1 — Reutilizar estimaciones históricas sin normalización del alcance
+#### Trampa 1: tratar una tarifa de ensamblaje como un costo directo de recurso
 
-Se tomó una decisión: *usar el Proyecto A como base del Proyecto B*, confiando en el supuesto inadvertido de que las categorías de alcance eran idénticas:
+**La decisión:** reutilizar un precio unitario histórico para una partida nueva de licitación.
 
-| Histórico | Nueva licitación |
-| ---------- | ---------- |
-| Excavación | Movimiento de tierras |
-| Estructural | Concreto   |
-| Instalaciones | MEP        |
+**El problema oculto:** la tarifa histórica es un ensamblaje de construcción compuesto, no el precio de un recurso individual. Las cantidades de material, los requerimientos de mano de obra, el consumo de equipo y las contribuciones de subcontrato pueden diferir bajo el nuevo pliego.
 
-**Resultado:** se omitió el 18% de los costos porque la terminología de la licitación del cliente rara vez coincide con las definiciones operativas internas.
-
-**Flujo de trabajo corregido:** `Tender Item → Scope Mapping → Assembly Matching → Cost Library` — restaura la integridad del alcance y reduce drásticamente la variación de la estimación.
+| Enfoque | Resultado de la estimación |
+|---|---|
+| Incorrecto | Aplicar la tarifa histórica de $70.90/$\text{m}^2$ sin verificar su composición. |
+| Corregido | Revisar las cantidades de concreto, refuerzo, encofrado, mano de obra y bombeo contra el nuevo pliego antes de reutilizarla. |
 
 <details>
-<summary>Lógica de la fórmula</summary>
+<summary>Referencia de cálculo — costo de los componentes del ensamblaje</summary>
 
 ```excel
-=XLOOKUP(Tender_Item,
-Mapping_Table[Tender],
-Mapping_Table[Assembly])
-
-=SUMIFS(Costs[Amount],
-Costs[Assembly],
-Current_Assembly)
+Extended Cost = Usage Factor * Component Unit Rate
+Assembly Base Rate = SUM(Extended Cost)
 ```
+
+Búsqueda de la tarifa del componente en `02_Cost_Library`:
+
+```excel
+=XLOOKUP(
+    C2:INDEX(C:C,COUNTA(C:C)),
+    '02_Cost_Library'!A2:A10000,
+    '02_Cost_Library'!H2:H10000,
+    0
+)
+```
+
+</details>
+
+#### Trampa 2: confundir el markup con el margen de utilidad
+
+**La decisión:** aumentar el costo directo de construcción en un punto porcentual y asumir que el monto resultante representa la utilidad deseada.
+
+**El problema oculto:** los gastos generales, la provisión de riesgo y el margen son componentes de valoración distintos. Aplicar el margen sobre la base de costo incorrecta cambia el precio final de venta.
+
+Asume Costo Directo = $70,900, Gastos Generales = 10%, Riesgo = 5%, Margen Objetivo = 12%:
+
+| Cálculo | Monto |
+|---|---:|
+| Costo directo | $70,900.00 |
+| Gastos generales (10% del costo directo) | $7,090.00 |
+| Provisión de riesgo (5% del costo directo) | $3,545.00 |
+| Subtotal antes del margen | $81,535.00 |
+| Margen (12% del subtotal) | $9,784.20 |
+| **Precio final de venta** | **$91,319.20** |
+
+<details>
+<summary>Referencia de cálculo — valoración de la licitación</summary>
+
+```excel
+Overhead Amount = Base Cost Total * Overhead Rate
+Risk Allowance = Base Cost Total * Risk Rate
+Subtotal Before Margin = Base Cost Total + Overhead Amount + Risk Allowance
+Margin Amount = Subtotal Before Margin * Margin Rate
+Final Sell Price = Subtotal Before Margin + Margin Amount
+```
+
+Expresado matemáticamente:
+
+$$\text{SellPrice} = \text{DirectCost} \times (1 + \text{OverheadRate} + \text{RiskRate}) \times (1 + \text{MarginRate})$$
+
+*Nota: este es un modelo secuencial de markup; el monto del margen se aplica sobre el subtotal previo al margen en lugar de expresarse directamente como margen bruto sobre los ingresos finales.*
+
+</details>
+
+#### Trampa 3: exportar costos compuestos de ensamblaje en lugar de componentes de costo del proyecto
+
+**La decisión:** transferir la tarifa compuesta final del ensamblaje directamente al presupuesto del proyecto.
+
+**El problema oculto:** una tarifa compuesta es útil para licitar, pero pierde la separación a nivel de recursos (concreto, acero, encofrado, mano de obra, bombeo) necesaria para el seguimiento de costos del trabajo.
+
+Para $1,000\text{ m}^2$ de trabajo de losa, los presupuestos originales a nivel de componente deberían ser:
+
+| Componente de costo | Presupuesto original |
+|---|---:|
+| Concreto | $22,500.00 |
+| Refuerzo | $14,400.00 |
+| Encofrado | $18,000.00 |
+| Mano de obra | $12,250.00 |
+| Bombeo | $3,750.00 |
+| **Total** | **$70,900.00** |
+
+<details>
+<summary>Referencia de cálculo — exportación de presupuesto a nivel de componente</summary>
+
+```excel
+Component Budget = Tender Quantity * Usage Factor * Component Unit Rate
+```
+
+Códigos de Cost Category previstos:
+
+| Cost Category | Código |
+|---|---|
+| Material | M |
+| Labor | L |
+| Equipment | E |
+| Subcontract | S |
+| Other | O |
+
+*Nota: la fórmula actual del blueprint clasifica los componentes en M/L/E/S mediante una verificación basada en prioridades; se puede añadir una regla explícita de categoría O si se requiere.*
 
 </details>
 
 ---
 
-#### Trampa 2 — Asumir que la productividad histórica sigue siendo válida
+### Escenario de ejemplo: valoración de una losa de concreto armado de 150 mm ($1,000\text{ m}^2$)
 
-Se tomó la decisión de reutilizar las tarifas de mano de obra y los rendimientos de cuadrilla del año pasado, asumiendo una productividad constante:
+#### 1. Entradas en bruto
 
-| Año     | Productividad |
-| -------- | ------------ |
-| Anterior | 8.0 m²/hr    |
-| Actual  | 5.9 m²/hr    |
+| Entrada | Valor |
+|---|---:|
+| Partida de BOQ | 1.1 |
+| Descripción | Losa de concreto armado de 150 mm |
+| Cantidad de licitación | $1,000\text{ m}^2$ |
+| Assembly ID | ASM-SLAB-150 |
+| Tarifa de gastos generales / riesgo / margen | 10% / 5% / 12% |
 
-**Resultado:** los costos de mano de obra quedaron subestimados en un 35%.
+#### 2. Resumen de costo directo y valoración de la licitación
 
-**Flujo de trabajo corregido:** `Historical Productivity × Adjustment Factor × Current Conditions` — calibra las estimaciones de mano de obra según las condiciones reales de la obra.
+$$\text{Direct Cost} = 1,000 \times \$70.90 = \$70,900.00$$
 
-<details>
-<summary>Lógica de la fórmula</summary>
+| Componente de valoración | Cálculo | Monto |
+|---|---|---:|
+| Costo directo | $1,000 \times \$70.90$ | $70,900.00 |
+| Gastos generales | $\$70,900 \times 10\%$ | $7,090.00 |
+| Riesgo | $\$70,900 \times 5\%$ | $3,545.00 |
+| Margen | $\$81,535 \times 12\%$ | $9,784.20 |
+| **Precio de venta** | | **$91,319.20** |
 
-```excel
-=Base_Productivity * Adjustment_Factor
+$$\text{Unit Sell Rate} = \frac{\$91,319.20}{1,000} = \$91.3192/\text{m}^2$$
 
-=Quantity / Adjusted_Productivity
-```
-
-</details>
-
----
-
-#### Trampa 3 — Aplicar el margen antes del riesgo
-
-Se tomó la decisión de aplicar un margen objetivo del 10% directamente a un costo base de $10M (`Bid = $11M`), pasando por alto $1.5M en exposición a riesgos del proyecto no reconocida.
-
-**Flujo de trabajo corregido:** `Base Cost + Risk + Contingency + Margin` → `($10M + $1.5M) × (1 + 10%) = $12.65M`.
-
-<details>
-<summary>Lógica de la fórmula</summary>
-
-```excel
-=Direct_Cost + Risk + Contingency
-
-=Adjusted_Cost * (1 + Margin)
-```
-
-</details>
-
----
-
-### Escenario de ejemplo — licitación de ampliación hospitalaria
-
-| Partida de entrada  | Valor |
-| ------------------- | ----: |
-| Valor de la licitación        |  $48M |
-| Partidas de la BOQ | 1,240 |
-| Proyectos históricos |    42 |
-| Ensamblajes existentes |   680 |
-
-**Procesamiento automatizado:** `1,240 BOQ items → 892 auto-mapped (278 assembly matches) → 348 isolated for targeted manual review`.
-
-| Componente de costo |  Costo  |
-| -------------- | -----: |
-| Materiales      | $19.4M |
-| Mano de obra | $11.2M |
-| Equipos      |  $5.1M |
-| Subcontratistas |  $7.8M |
-| Gastos generales      |  $1.6M |
-| Riesgo           |  $1.9M |
-
-**Resumen final de la licitación:** Costo Directo + Gastos Generales + Riesgo = **$45.1M** → Margen (8%) → Precio Final de la Licitación = **$48.7M**. En lugar de pasar tres semanas reconstruyendo archivos antiguos, el estimador se concentra estrictamente en las excepciones de alcance y en la estrategia comercial.
+Esto le da al estimador tres números cristalinos antes de presentar: **$70.90/$\text{m}^2$** (costo directo), **$81.535/$\text{m}^2$** (punto de equilibrio previo al margen incluyendo gastos generales y riesgo) y **$91.3192/$\text{m}^2$** (tarifa final de venta de la licitación).
 
 ---
 
 ### Referencia de fórmulas
 
+Las siguientes fórmulas documentan la lógica de cálculo asumiendo soporte de matrices dinámicas de Microsoft 365 / Excel 2021+.
+
 <details>
-<summary>Mapeo de ensamblajes</summary>
+<summary>01 — Biblioteca de costos: cálculo del costo del recurso (`02_Cost_Library!H2`)</summary>
 
 ```excel
-XLOOKUP()
-INDEX/MATCH()
-TEXTAFTER()
-TEXTBEFORE()
+=LET(
+    active_rows,
+        FILTER(A2:G10000,A2:A10000<>""),
+    material,
+        CHOOSECOLS(active_rows,4),
+    labor,
+        CHOOSECOLS(active_rows,5),
+    equip,
+        CHOOSECOLS(active_rows,6),
+    subcon,
+        CHOOSECOLS(active_rows,7),
+    material+labor+equip+subcon
+)
 ```
 
 </details>
 
 <details>
-<summary>Cálculo de la estimación</summary>
+<summary>02 — Biblioteca de ensamblajes: recuperación y extensión de costos de componentes (`03_Assembly_Library`)</summary>
+
+**Unidad del componente — `E2`**
 
 ```excel
-SUMIFS()
-SUMPRODUCT()
-LET()
-LAMBDA()
+=XLOOKUP(
+    C2:INDEX(C:C,COUNTA(C:C)),
+    '02_Cost_Library'!A2:A10000,
+    '02_Cost_Library'!C2:C10000,
+    "Unknown Code"
+)
+```
+
+**Precio unitario del componente — `F2`**
+
+```excel
+=XLOOKUP(
+    C2:INDEX(C:C,COUNTA(C:C)),
+    '02_Cost_Library'!A2:A10000,
+    '02_Cost_Library'!H2:H10000,
+    0
+)
+```
+
+**Costo extendido — `G2`**
+
+```excel
+=D2:INDEX(D:D,COUNTA(D:D))*F2#
 ```
 
 </details>
 
 <details>
-<summary>Análisis de riesgo</summary>
+<summary>03 — Mapeo de licitación: cálculo de BOQ a ensamblaje (`05_Tender_Mapping`)</summary>
+
+**Recuperación de la entrada de licitación — `A2`**
 
 ```excel
-IF()
-IFS()
-CHOOSE()
-SWITCH()
+=FILTER(
+    '04_Tender_Import'!A2:C10000,
+    '04_Tender_Import'!A2:A10000<>""
+)
 ```
+
+**Descripción del ensamblaje — `E2`**
+
+```excel
+=XLOOKUP(
+    D2:INDEX(D:D,COUNTA(D:D)),
+    '03_Assembly_Library'!A2:A10000,
+    '03_Assembly_Library'!B2:B10000,
+    "Waiting for Mapping...",
+    0
+)
+```
+
+**Tarifa base del ensamblaje — `F2`**
+
+```excel
+=MAP(
+    D2:INDEX(D:D,COUNTA(D:D)),
+    LAMBDA(
+        assembly_id,
+        SUMIFS(
+            '03_Assembly_Library'!G2:G10000,
+            '03_Assembly_Library'!A2:A10000,
+            assembly_id
+        )
+    )
+)
+```
+
+**Total de costo base — `G2`**
+
+```excel
+=C2:INDEX(C:C,COUNTA(C:C))*F2#
+```
+
+</details>
+
+<details>
+<summary>04 — Motor de estimación: cálculo de gastos generales, riesgo y margen (`06_Estimate_Engine`)</summary>
+
+**Entrada de cálculo — `A2`**
+
+```excel
+=CHOOSECOLS(
+    FILTER(
+        '05_Tender_Mapping'!A2:G10000,
+        '05_Tender_Mapping'!A2:A10000<>""
+    ),
+    1,
+    7
+)
+```
+
+**Cálculo de valoración — `C2`**
+
+```excel
+=LET(
+    base_costs,
+        B2:INDEX(B:B,COUNTA(B:B)),
+    overhead_rate,
+        XLOOKUP("Overhead Rate",'01_Settings'!A2:A100,'01_Settings'!B2:B100,0),
+    risk_rate,
+        XLOOKUP("Risk Rate",'01_Settings'!A2:A100,'01_Settings'!B2:B100,0),
+    margin_rate,
+        XLOOKUP("Margin Rate",'01_Settings'!A2:A100,'01_Settings'!B2:B100,0),
+    overhead_amt,
+        base_costs*overhead_rate,
+    risk_amt,
+        base_costs*risk_rate,
+    sub_for_margin,
+        base_costs+overhead_amt+risk_amt,
+    margin_amt,
+        sub_for_margin*margin_rate,
+    total_sell,
+        sub_for_margin+margin_amt,
+    HSTACK(overhead_amt,risk_amt,margin_amt,total_sell)
+)
+```
+
+**Tarifa de venta unitaria — `G2`**
+
+```excel
+=F2#/FILTER('05_Tender_Mapping'!C2:C10000,'05_Tender_Mapping'!A2:A10000<>"")
+```
+
+</details>
+
+<details>
+<summary>05 — Exportación a Procore: reconstrucción del presupuesto a nivel de componente (`07_Procore_Export!A2`)</summary>
+
+```excel
+=LET(
+    tender_mapped,
+        FILTER(
+            '05_Tender_Mapping'!A2:G10000,
+            ('05_Tender_Mapping'!A2:A10000<>"")*
+            ('05_Tender_Mapping'!D2:D10000<>"")
+        ),
+    item_nos, CHOOSECOLS(tender_mapped,1),
+    qtys, CHOOSECOLS(tender_mapped,3),
+    assembly_ids, CHOOSECOLS(tender_mapped,4),
+    REDUCE(
+        {"WBS Code","Cost Code","Category","Original Budget"},
+        SEQUENCE(ROWS(tender_mapped)),
+        LAMBDA(
+            acc, idx,
+            LET(
+                current_wbs, INDEX(item_nos,idx),
+                current_qty, INDEX(qtys,idx),
+                current_assembly, INDEX(assembly_ids,idx),
+                assembly_components,
+                    FILTER(
+                        '03_Assembly_Library'!C2:G10000,
+                        '03_Assembly_Library'!A2:A10000=current_assembly
+                    ),
+                comp_codes, CHOOSECOLS(assembly_components,1),
+                comp_factors, CHOOSECOLS(assembly_components,2),
+                comp_rates, CHOOSECOLS(assembly_components,4),
+                row_budget,
+                    MAP(
+                        SEQUENCE(ROWS(assembly_components)),
+                        LAMBDA(
+                            r_idx,
+                            LET(
+                                code, INDEX(comp_codes,r_idx),
+                                factor, INDEX(comp_factors,r_idx),
+                                rate, INDEX(comp_rates,r_idx),
+                                sub_budget, current_qty*factor*rate,
+                                category,
+                                    IFS(
+                                        XLOOKUP(code,'02_Cost_Library'!A2:A10000,'02_Cost_Library'!D2:D10000,0)>0,"M",
+                                        XLOOKUP(code,'02_Cost_Library'!A2:A10000,'02_Cost_Library'!E2:E10000,0)>0,"L",
+                                        XLOOKUP(code,'02_Cost_Library'!A2:A10000,'02_Cost_Library'!F2:F10000,0)>0,"E",
+                                        TRUE,"S"
+                                    ),
+                                HSTACK(current_wbs,code,category,sub_budget)
+                            )
+                        )
+                    ),
+                VSTACK(acc,row_budget)
+            )
+        )
+    )
+)
+```
+
+**Notas de implementación:** clasifica cada Cost Code por su primera tarifa de recurso positiva (M → L → E → S); usa el número de partida de la licitación como WBS predeterminado; exporta presupuestos directos de componentes (excluyendo gastos generales comerciales, riesgo y margen); verifica el mapeo de columnas contra la plantilla actual de importación a Procore de tu empresa antes de cargar.
 
 </details>
 
 ---
 
-### Reglas de validación
+### Reglas de validación y notas de implementación
 
-| Campo          | Regla                     | Comportamiento ante error     |
-| -------------- | ------------------------ | ------------------ |
-| Código de costo      | Debe existir en la biblioteca    | Advertencia de validación |
-| ID de ensamblaje    | Debe ser único           | Rechazar la entrada       |
-| Cantidad       | Mayor que cero        | Resaltar el error    |
-| Productividad   | Dentro del rango aceptado    | Advertencia            |
-| Margen         | Entre 0–50%            | Rechazar             |
-| Escalación     | Entre -20% y +50%    | Advertencia            |
-| Mapeo de la licitación | Debe resolverse a un ensamblaje | Cola de excepciones    |
-| Exportación a Procore | Se requiere WBS válido       | Exportación bloqueada     |
+| Campo / área | Regla de validación | Comportamiento esperado ante error |
+|---|---|---|
+| Cost Code | Debe ser único; cada componente de ensamblaje debe hacer referencia a un Cost Code existente. | Señalar duplicados o mostrar `Unknown Code`. |
+| Cost Description & Unit | Debe estar poblado con unidades de medida válidas. | Señalar registros maestros incompletos. |
+| Resource Rates & Usage Factors | Numéricos y no negativos. | Rechazar o señalar valores inválidos. |
+| Tender Item No, Qty & Unit | Debe estar poblado; cantidades numéricas y no negativas. | Señalar campos faltantes; proteger contra la división por cero en la tarifa de venta unitaria. |
+| Assigned Assembly | Cada fila de BOQ valorada debe mapear a un Assembly ID válido. | Mostrar `Waiting for Mapping...` en las filas sin mapear. |
+| Overhead / Risk / Margin Rates | Porcentajes válidos no negativos. | Señalar parámetros de valoración inválidos. |
+| WBS / Procore Cost Code & Category | Debe alinearse con el WBS de la empresa objetivo y los códigos de categoría aceptados. | Validar y conciliar el presupuesto total exportado contra los costos directos mapeados. |
+
+**Notas de entorno e integridad:** requiere **Microsoft 365, Excel 2021, Excel 2024 o WPS moderno** con soporte de matrices dinámicas (`LET`, `MAP`, `LAMBDA`, `REDUCE`, `VSTACK`, `HSTACK`, `FILTER`, `XLOOKUP`). Mantén las áreas de derrame dinámico despejadas y evita filas en blanco dentro de las columnas de entrada contiguas indexadas por `COUNTA`. Los rangos predeterminados del blueprint cubren hasta la fila 10,000.
 
 </details>
 
