@@ -52,7 +52,7 @@ Whether you are pricing your first residential tender or managing dozens of comm
 
 Want to inspect all 6 tabs, the rebar BBS engine, and the cost dashboard before downloading? Preview the workbook directly in Google Sheets:
 
-**[View Live Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1EDtiAxAGifr8hsWZ3oCV34T4AlyNzHJ8/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+**[View Live Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1k5xMOlplS5BAKB8cu1EJhDFR-Xp8MJtK/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
 > **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` warnings due to dynamic-array formula differences between Google Sheets and Microsoft Excel. These are preview-only artifacts and do not occur in the downloaded `.xlsx` file when opened in Microsoft Excel.
 
